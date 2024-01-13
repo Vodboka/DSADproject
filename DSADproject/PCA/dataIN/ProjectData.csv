@@ -1,0 +1,3317 @@
+id,state,city,station,station_code,pollutant_id,pollutant_min,pollutant_max,pollutant_avg
+3,Andhra_Pradesh,Tirupati,Tirumala, APPCB,CO,40,64,47
+6,Andhra_Pradesh,Tirupati,Vaikuntapuram, APPCB,CO,42,57,48
+8,Andhra_Pradesh,Vijayawada,HB Colony, APPCB,CO,24,24,24
+18,Assam,Silchar,Tarapur, PCBA,CO,27,43,32
+24,Bihar,Bhagalpur,DM Office_Kachari Chowk, BSPCB,CO,34,74,60
+29,Bihar,Gaya,SFTI Kusdihra, BSPCB,CO,32,66,40
+39,Bihar,Muzaffarpur,Buddha Colony, BSPCB,CO,2,106,33
+44,Bihar,Pat0,DRM Office Da0pur, BSPCB,CO,16,167,66
+49,Bihar,Pat0,Rajbansi 0gar, BSPCB,CO,73,116,98
+50,Bihar,Pat0,Samanpura, BSPCB,CO,101,186,179
+61,Chandigarh,Chandigarh,Sector 22, CPCC,CO,27,119,98
+84,Delhi,Delhi,Ashok Vihar, DPCC,CO,66,158,155
+91,Delhi,Delhi,IGI Airport (T3), IMD,CO,76,120,91
+94,Delhi,Delhi,ITO, CPCB,CO,14,139,78
+97,Delhi,Delhi,Lodhi Road, IMD,CO,98,119,102
+118,Delhi,Delhi,Pusa, IMD,CO,86,125,99
+126,Delhi,Delhi,Vivek Vihar, DPCC,CO,24,119,67
+128,Gujarat,Ahmedabad,Mani0gar, GPCB,CO,11,96,46
+146,Gujarat,Vapi,Phase, GPCB,CO,1,175,120
+149,Gujarat,Vatva,Phase, GPCB,CO,38,40,39
+155,Harya0,Ballabgarh,0thu Colony, HSPCB,CO,5,107,56
+157,Harya0,Bhiwani,H.B. Colony, HSPCB,CO,72,103,91
+162,Harya0,Faridabad,Sector 30, HSPCB,CO,30,140,78
+180,Harya0,Kurukshetra,Sector, HSPCB,CO,36,112,69
+196,Jharkhand,Dhanbad,Kalakusuma, DMC,CO,106,114,113
+204,Kar0taka,Bengaluru,Jigani, KSPCB,CO,39,70,55
+210,Kar0taka,Bengaluru,Sanegurava Halli, KSPCB,CO,20,38,27
+217,Kar0taka,Dava0gere,Devaraj Urs Badavane, KSPCB,CO,12,24,18
+222,Kar0taka,Kalaburagi,Mahatma Basaveswar Colony, KSPCB,CO,36,101,62
+224,Kar0taka,Karwar,KHB Colony, KSPCB,CO,1,156,64
+226,Kar0taka,Koppal,Diwator 0gar, KSPCB,CO,74,104,84
+230,Kar0taka,Mangalore,Kadri, KSPCB,CO,44,54,51
+237,Kar0taka,Tumakuru,Thimmalapura, KSPCB,CO,28,67,37
+241,Kerala,Kochi,Vyttila, Kerala PCB,CO,48,59,53
+244,Kerala,Thiruva0nthapuram,Plammoodu, Kerala PCB,CO,16,70,52
+255,Madhya Pradesh,Gwalior,Phool Bagh, Mondelez Ind. Food,CO,34,68,48
+260,Madhya Pradesh,Indore,Regio0l Park, IMC,CO,18,50,24
+266,Madhya Pradesh,Maihar,Sahilara, KJS Cements,CO,22,55,34
+274,Madhya Pradesh,Sagar,Deen Dayal 0gar, MPPCB,CO,3,129,49
+281,Maharashtra,Amravati,Shivneri Colony, MPCB,CO,18,62,42
+294,Maharashtra,Bhiwandi,Gokul 0gar, MPCB,CO,27,100,49
+298,Maharashtra,Kolhapur,Shivaji University, MPCB,CO,12,84,38
+303,Maharashtra,Malegaon,Mahesh 0gar, MPCB,CO,5,95,28
+306,Maharashtra,Mumbai,Bandra Kurla Complex, IITM,CO,12,104,97
+309,Maharashtra,Mumbai,Borivali East, IITM,CO,41,100,57
+313,Maharashtra,Mumbai,Borivali East, MPCB,CO,2,105,30
+326,Maharashtra,Mumbai,Kandivali East, MPCB,CO,63,104,85
+330,Maharashtra,Mumbai,Kandivali West, BMC,CO,39,98,49
+332,Maharashtra,Mumbai,Kherwadi_Bandra East, MPCB,CO,30,139,41
+334,Maharashtra,Mumbai,Kurla, MPCB,CO,49,90,53
+335,Maharashtra,Mumbai,Mazgaon, IITM,CO,4,66,39
+346,Maharashtra,Mumbai,Sion, MPCB,CO,23,104,45
+348,Maharashtra,Mumbai,Vasai West, MPCB,CO,45,76,58
+353,Maharashtra,0gpur,Opp GPO Civil Lines, MPCB,CO,42,144,101
+360,Maharashtra,0vi Mumbai,Kopripada, MPCB,CO,33,113,69
+362,Maharashtra,0vi Mumbai,Mahape, MPCB,CO,28,57,41
+372,Maharashtra,Pimpri-Chinchwad,Park Street Wakad, MPCB,CO,22,143,68
+374,Maharashtra,Pune,Bhosari, IITM,CO,22,43,27
+383,Maharashtra,Solapur,Ratandeep Housing Society, MPCB,CO,22,173,87
+393,Meghalaya,Shillong,JN Stadium, Meghalaya PCB,CO,15,106,56
+394,Meghalaya,Shillong,Lumpyngngad, Meghalaya PCB,CO,6,20,12
+399,Odisha,Balasore,Kalidaspur, OSPCB,CO,46,120,107
+400,Odisha,Barbil,Forest Office, OSPCB,CO,44,105,61
+402,Odisha,Bhubaneswar,Lingraj Mandir, OSPCB,CO,34,94,46
+408,Odisha,Cuttack,CDA Area, OSPCB,CO,35,92,56
+418,Odisha,Suakati,OMC Colony, OSPCB,CO,10,15,11
+423,Punjab,Amritsar,Golden Temple, PPCB,CO,2,32,17
+432,Punjab,Mandi Gobindgarh,RIMT University, PPCB,CO,24,55,44
+435,Rajasthan,Ajmer,Civil Lines, RSPCB,CO,16,88,37
+439,Rajasthan,Banswara,Rati Talai, RSPCB,CO,43,111,72
+442,Rajasthan,Baran,Bamboliya, RSPCB,CO,36,74,44
+448,Rajasthan,Bikaner,MM Ground, RSPCB,CO,26,130,95
+452,Rajasthan,Churu,Subash Chowk, RSPCB,CO,14,82,30
+453,Rajasthan,Dungarpur,Bhoiwada, RSPCB,CO,39,83,53
+454,Rajasthan,Jaipur,Mansarovar Sector, RSPCB,CO,26,132,68
+458,Rajasthan,Jaipur,RIICO Sitapura, RSPCB,CO,28,126,58
+465,Rajasthan,Jodhpur,Digari Kalan, RSPCB,CO,18,120,61
+468,Rajasthan,Jodhpur,Jhalamand, RSPCB,CO,26,106,58
+478,Rajasthan,Kota,Shri0th Puram, RSPCB,CO,18,59,37
+481,Rajasthan,0gaur,Karni Colony, RSPCB,CO,38,104,67
+495,Tamil0du,Chengalpattu,Crescent University, TNPCB,CO,24,29,26
+509,Tamil0du,Rama0thapuram,Chalai Bazaar, TNPCB,CO,2,10,5
+514,Telanga0,Hyderabad,Central University, TSPCB,CO,22,105,61
+519,Telanga0,Hyderabad,IITH Kandi, TSPCB,CO,20,81,39
+521,Telanga0,Hyderabad,Kokapet, TSPCB,CO,12,18,14
+528,Tripura,Agartala,Bardowali, Tripura SPCB,CO,38,101,77
+545,Uttar_Pradesh,Ghaziabad,Indirapuram, UPPCB,CO,14,52,31
+552,Uttar_Pradesh,Gorakhpur,Madan Mohan Malaviya University of Technology, UPPCB,CO,36,62,38
+557,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,CO,18,121,89
+565,Uttar_Pradesh,Kanpur,Nehru 0gar, UPPCB,CO,2,118,78
+581,Uttar_Pradesh,Moradabad,Buddhi Vihar, UPPCB,CO,57,110,73
+584,Uttar_Pradesh,Moradabad,Kashiram 0gar, UPPCB,CO,22,102,74
+588,Uttar_Pradesh,Moradabad,Transport 0gar, UPPCB,CO,40,42,41
+592,Uttar_Pradesh,Noida,Sector , IMD,CO,78,106,93
+596,Uttar_Pradesh,Noida,Sector, UPPCB,CO,4,108,65
+598,Uttar_Pradesh,Prayagraj,Jhunsi, UPPCB,CO,28,104,63
+622,West_Bengal,Howrah,Belur Math, WBPCB,CO,4,111,42
+634,Andhra_Pradesh,Amaravati,Secretariat, APPCB,CO,16,55,47
+645,Andhra_Pradesh,Vijayawada,Kanuru, APPCB,CO,32,57,46
+657,Assam,Guwahati,Railway Colony, PCBA,CO,0,0,0
+658,Assam,0lbari,Bata Chowk, PCBA,CO,7,126,99
+671,Bihar,Bhagalpur,Mayaganj, BSPCB,CO,6,11,9
+678,Bihar,Gaya,Kareemganj, BSPCB,CO,6,107,48
+683,Bihar,Katihar,Mirchaibari, BSPCB,CO,27,34,33
+688,Bihar,Muzaffarpur,MIT, BSPCB,CO,1,102,87
+701,Bihar,Siwan,Chitragupta 0gar, BSPCB,CO,46,150,118
+707,Chhattisgarh,Bhilai,Hathkhoj, CECB,CO,39,103,53
+710,Chhattisgarh,Bilaspur,Mangala, NTPC,CO,16,26,24
+715,Chhattisgarh,Korba,Rampur, CECB,CO,24,50,30
+730,Delhi,Delhi,Aya 0gar, IMD,CO,54,101,66
+740,Delhi,Delhi,Jawaharlal Nehru Stadium, DPCC,CO,34,127,74
+742,Delhi,Delhi,Major Dhyan Chand 0tio0l Stadium, DPCC,CO,10,130,88
+750,Delhi,Delhi,NSIT Dwarka, CPCB,CO,38,121,50
+759,Delhi,Delhi,Okhla Phase, DPCC,CO,2,128,64
+763,Delhi,Delhi,R K Puram, DPCC,CO,46,104,61
+775,Delhi,Delhi,Wazirpur, DPCC,CO,10,148,87
+780,Gujarat,Ahmedabad,Gyaspur, IITM,CO,30,30,30
+801,Harya0,Charkhi Dadri,Mini Secretariat, HSPCB,CO,52,104,76
+804,Harya0,Faridabad,Sector, HSPCB,CO,24,122,80
+808,Harya0,Gurugram,Sector, HSPCB,CO,59,122,84
+812,Harya0,Kaithal,Rishi 0gar, HSPCB,CO,46,107,86
+815,Harya0,Rohtak,MD University, HSPCB,CO,14,109,59
+819,Harya0,Sirsa,F, HSPCB,CO,64,107,77
+822,Harya0,Yamu0 0gar,Gobind Pura, HSPCB,CO,33,120,59
+825,Himachal Pradesh,Baddi,HIMUDA Complex Phase, HPPCB,CO,34,108,63
+829,Jharkhand,Dhanbad,Sardar Patel 0gar, JSPCB,CO,0,0,0
+836,Kar0taka,Bengaluru,Bapuji 0gar, KSPCB,CO,20,76,54
+839,Kar0taka,Bengaluru,Hombegowda 0gar, KSPCB,CO,11,34,20
+843,Kar0taka,Bengaluru,Jaya0gar 5th Block, KSPCB,CO,2,31,21
+849,Kar0taka,Bengaluru,Shivapura_Peenya, KSPCB,CO,17,57,33
+854,Kar0taka,Bengaluru,Silk Board, KSPCB,CO,6,30,17
+865,Kar0taka,Dharwad,Kalabhavan, KSPCB,CO,49,140,92
+866,Kar0taka,Gadag,Panchal 0gar, KSPCB,CO,45,61,48
+881,Kar0taka,Rama0gara,Vijay 0gar, KSPCB,CO,2,36,21
+884,Kar0taka,Shivamogga,Vinoba 0gara, KSPCB,CO,20,36,25
+894,Kerala,Thrissur,Corporation Ground, Kerala PCB,CO,14,62,26
+908,Madhya Pradesh,Indore,Maguda 0gar, IMC,CO,26,36,30
+911,Madhya Pradesh,Jabalpur,Govindh Bhavan Colony, JMC,CO,32,52,43
+914,Madhya Pradesh,Jabalpur,Marhatal, MPPCB,CO,40,150,96
+921,Madhya Pradesh,Mandideep,Sector, MPPCB,CO,28,109,57
+951,Maharashtra,Jal0,Old MIDC, MPCB,CO,24,41,27
+957,Maharashtra,Mahad,Kamble Tarf Birwadi, MPCB,CO,21,40,31
+987,Maharashtra,Mumbai,0vy 0gar, IITM,CO,36,84,50
+989,Maharashtra,Mumbai,Powai, MPCB,CO,38,52,47
+993,Maharashtra,Mumbai,Siddharth 0gar, IITM,CO,101,106,104
+1003,Maharashtra,0gpur,Ambazari, MPCB,CO,26,107,73
+1013,Maharashtra,0shik,Pandav 0gari, MPCB,CO,38,106,54
+1020,Maharashtra,0vi Mumbai,Nerul, MPCB,CO,30,104,50
+1040,Maharashtra,Solapur,Dnyaneshwar 0gar, MPCB,CO,19,115,55
+1055,Manipur,Imphal,Manipur University, Manipur PCB,CO,10,68,28
+1067,Odisha,Bhubaneswar,Patia, OSPCB,CO,2,72,27
+1068,Odisha,Bileipada,Tata Township, OSPCB,CO,20,40,24
+1072,Odisha,Brajraj0gar,GM Office, OSPCB,CO,75,122,93
+1074,Odisha,Byasa0gar,Ferro Chrome Colony, OSPCB,CO,44,111,91
+1088,Odisha,Tensa,Barsua Iron Ore Mines, OSPCB,CO,24,48,34
+1091,Puducherry,Puducherry,Jawahar 0gar, PPCC,CO,24,66,52
+1093,Punjab,Bathinda,Hardev 0gar, PPCB,CO,2,108,9
+1094,Punjab,Jalandhar,Civil Line, PPCB,CO,20,58,37
+1101,Punjab,Rup0gar,Ratanpura, Ambuja Cements,CO,58,119,98
+1115,Rajasthan,Dholpur,Raja Ganj, RSPCB,CO,31,125,73
+1127,Rajasthan,Jalore,Mudtra Sili, RSPCB,CO,42,118,78
+1135,Rajasthan,Jodhpur,Mandor, RSPCB,CO,41,98,66
+1144,Rajasthan,Pratapgarh,Pragati 0gar, RSPCB,CO,32,54,41
+1148,Rajasthan,Sawai Madhopur,Sahu 0gar, RSPCB,CO,52,111,81
+1151,Rajasthan,Sirohi,Vedhay0th Colony, RSPCB,CO,12,66,27
+1153,Rajasthan,Sri Ganga0gar,Old City, RSPCB,CO,34,182,121
+1187,Telanga0,Hyderabad,ICRISAT Patancheru, TSPCB,CO,50,109,77
+1194,Telanga0,Hyderabad,Ramachandrapuram, TSPCB,CO,20,26,26
+1195,Telanga0,Hyderabad,Somajiguda, TSPCB,CO,20,58,35
+1206,Uttar_Pradesh,Baghpat,Sardar Patel Inter College, UPPCB,CO,28,105,74
+1210,Uttar_Pradesh,Firozabad,0gla Bhau, UPPCB,CO,10,103,20
+1216,Uttar_Pradesh,Ghaziabad,Vasundhara, UPPCB,CO,42,121,84
+1217,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,CO,48,111,88
+1222,Uttar_Pradesh,Khurja,Kalindi Kunj, UPPCB,CO,0,0,0
+1254,Uttar_Pradesh,Vara0si,Bhelupur, UPPCB,CO,38,119,64
+1268,West_Bengal,Howrah,Ghusuri, WBPCB,CO,4,116,30
+1273,West_Bengal,Kolkata,Bidhan0gar, WBPCB,CO,19,116,38
+1280,West_Bengal,Kolkata,Victoria, WBPCB,CO,43,138,77
+1287,Andhra_Pradesh,Chittoor,Gangineni Cheruvu, APPCB,CO,12,53,36
+1307,Assam,0gaon,Christianpatty, PCBA,CO,4,20,12
+1320,Bihar,Aurangabad,Gurdeo 0gar, BSPCB,CO,1,82,30
+1327,Bihar,Gaya,Collectorate, BSPCB,CO,24,44,30
+1336,Bihar,Munger,Town Hall, BSPCB,CO,16,72,38
+1343,Bihar,Pat0,IGSC Planetarium Complex, BSPCB,CO,22,30,27
+1346,Bihar,Pat0,Muradpur, BSPCB,CO,15,159,68
+1349,Bihar,Purnia,Mariam 0gar, BSPCB,CO,42,89,63
+1351,Bihar,Rajgir,Dangi Tola, BSPCB,CO,10,108,46
+1355,Bihar,Samastipur,DM Office_Kasipur, BSPCB,CO,14,34,25
+1362,Chandigarh,Chandigarh,Sector, CPCC,CO,40,108,72
+1364,Chandigarh,Chandigarh,Sector, CPCC,CO,38,136,98
+1366,Chhattisgarh,Bhilai,32Bungalows, CECB,CO,69,107,89
+1369,Chhattisgarh,Bhilai,Civic Center, Bhilai Steel Plant,CO,10,78,43
+1377,Chhattisgarh,Korba,Urja 0gar, CECB,CO,34,66,43
+1378,Chhattisgarh,Kunjemura,OP Jindal School, CECB,CO,36,60,43
+1381,Chhattisgarh,Raipur,Bhatagaon New ISBT, CECB,CO,45,164,88
+1387,Delhi,Delhi,CRRI Mathura Road, IMD,CO,88,115,97
+1389,Delhi,Delhi,DTU, CPCB,CO,54,90,68
+1401,Delhi,Delhi,Jahangirpuri, DPCC,CO,54,114,90
+1407,Delhi,Delhi,Mandir Marg, DPCC,CO,22,117,51
+1408,Delhi,Delhi,Mundka, DPCC,CO,50,112,72
+1412,Delhi,Delhi,0jafgarh, DPCC,CO,36,60,49
+1415,Delhi,Delhi,New Moti Bagh, MHUA,CO,42,131,76
+1420,Delhi,Delhi,Patparganj, DPCC,CO,35,112,71
+1425,Delhi,Delhi,Pusa, DPCC,CO,24,111,72
+1430,Delhi,Delhi,Rohini, DPCC,CO,28,148,80
+1440,Gujarat,Ahmedabad,Chandkheda, IITM,CO,8,90,31
+1442,Gujarat,Ahmedabad,Raikhad, IITM,CO,32,129,78
+1448,Gujarat,Ahmedabad,SVPI Airport Hansol, IITM,CO,22,108,56
+1454,Gujarat,Gandhi0gar,GIFT City, IITM,CO,4,40,27
+1459,Gujarat,Gandhi0gar,IIPHG Lekawada, IITM,CO,26,32,27
+1464,Gujarat,Gandhi0gar,Sector, GPCB,CO,19,135,72
+1468,Harya0,Ambala,Patti Mehar, HSPCB,CO,31,60,40
+1469,Harya0,Bahadurgarh,Arya 0gar, HSPCB,CO,38,55,47
+1477,Harya0,Gurugram,NISE Gwal Pahari, IMD,CO,87,118,100
+1479,Harya0,Hisar,Urban Estate, HSPCB,CO,100,126,105
+1480,Harya0,Jind,Police Lines, HSPCB,CO,22,26,24
+1486,Harya0,Mandikhera,General Hospital, HSPCB,CO,18,81,31
+1488,Harya0,Manesar,Sector, HSPCB,CO,22,127,70
+1491,Harya0,Palwal,Shyam 0gar, HSPCB,CO,6,11,8
+1494,Harya0,Panipat,Sector, HSPCB,CO,23,26,25
+1507,Kar0taka,Bagalkot,Vidayagiri, KSPCB,CO,22,51,38
+1509,Kar0taka,Bengaluru,BTM Layout, CPCB,CO,36,44,42
+1514,Kar0taka,Bengaluru,Hebbal, KSPCB,CO,8,46,26
+1522,Kar0taka,Bengaluru,Kasturi 0gar, KSPCB,CO,24,26,24
+1529,Kar0taka,Chikkaballapur,Chikkaballapur Rural, KSPCB,CO,6,28,8
+1534,Kar0taka,Haveri,Ashwini 0gar, KSPCB,CO,32,34,34
+1536,Kar0taka,Hubballi,Deshpande 0gar, KSPCB,CO,66,84,72
+1539,Kar0taka,Kalaburagi,Lal Bahadur Shastri 0gar, KSPCB,CO,37,55,37
+1550,Kar0taka,Mysuru,Hebbal 1st Stage, KSPCB,CO,6,50,20
+1562,Kerala,Eloor,Udyogamandal, Kerala PCB,CO,10,78,41
+1575,Madhya Pradesh,Dewas,Bhopal Chauraha, MPPCB,CO,24,60,42
+1588,Madhya Pradesh,Jabalpur,Gupteshwar, JMC,CO,44,148,91
+1592,Madhya Pradesh,Jabalpur,Suhagi, JMC,CO,6,106,69
+1600,Madhya Pradesh,Sagar,Civil Lines, MPPCB,CO,30,47,35
+1603,Madhya Pradesh,Singrauli,Suryakiran Bhawan NCL, MPPCB,CO,104,126,112
+1618,Maharashtra,Dhule,Deopur, MPCB,CO,27,78,37
+1627,Maharashtra,Kolhapur,Sinchan Bhavan, MPCB,CO,28,110,81
+1655,Maharashtra,Mumbai,Malad West, IITM,CO,4,122,46
+1656,Maharashtra,Mumbai,Mindspace, MPCB,CO,38,124,53
+1660,Maharashtra,Mumbai,Shivaji 0gar, BMC,CO,4,114,59
+1670,Maharashtra,0gpur,Mahal, MPCB,CO,44,141,101
+1675,Maharashtra,0shik,Gangapur Road, MPCB,CO,18,19,18
+1679,Maharashtra,0shik,MIDC Ambad, MPCB,CO,24,75,33
+1700,Maharashtra,Pune,Transport 0gar, IITM,CO,42,53,49
+1711,Maharashtra,Virar,Bolinj, MPCB,CO,30,131,37
+1712,Manipur,Imphal,DM College of Science, Manipur PCB,CO,6,6,6
+1724,Odisha,Baripada,Meher Colony, OSPCB,CO,32,58,45
+1739,Odisha,Rourkela,Raghu0thpali, OSPCB,CO,42,104,70
+1741,Odisha,Talcher,Talcher Coalfields, OSPCB,CO,102,133,110
+1749,Punjab,Ludhia0,Punjab Agricultural University, PPCB,CO,53,108,92
+1752,Punjab,Patiala,Model Town, PPCB,CO,58,103,71
+1761,Rajasthan,Bharatpur,Krish0 0gar, RSPCB,CO,18,186,156
+1767,Rajasthan,Chittorgarh,Shastri 0gar, RSPCB,CO,22,110,43
+1778,Rajasthan,Hanumangarh,Housing Board, RSPCB,CO,7,115,23
+1787,Rajasthan,Jaipur,Sector, RSPCB,CO,40,144,80
+1793,Rajasthan,Jhalawar,Rajlaxmi 0gar, RSPCB,CO,47,106,75
+1798,Rajasthan,Jodhpur,Collectorate, RSPCB,CO,25,92,60
+1805,Rajasthan,Jodhpur,Samrat Ashok Udhyan, RSPCB,CO,40,172,96
+1806,Rajasthan,Karauli,Satyawati Vihar, RSPCB,CO,12,80,23
+1822,Tamil0du,Chen0i,Gandhi 0gar_Ennore, TNPCB,CO,10,20,15
+1828,Tamil0du,Chen0i,Perungudi, TNPCB,CO,20,38,24
+1830,Tamil0du,Chen0i,Royapuram, TNPCB,CO,23,44,29
+1843,Tamil0du,Salem,So0 College of Technology, TNPCB,CO,35,38,36
+1845,Tamil0du,Thoothukudi,Meelavittan, TNPCB,CO,24,26,25
+1871,Uttar_Pradesh,Agra,Sanjay Palace, UPPCB,CO,35,162,162
+1881,Uttar_Pradesh,Bulandshahr,Yamu0puram, UPPCB,CO,35,107,65
+1883,Uttar_Pradesh,Firozabad,Vibhab 0gar, UPPCB,CO,24,65,40
+1889,Uttar_Pradesh,Ghaziabad,Sanjay 0gar, UPPCB,CO,2,120,92
+1894,Uttar_Pradesh,Kanpur,FTI Kidwai 0gar, UPPCB,CO,47,86,56
+1906,Uttar_Pradesh,Meerut,Ganga 0gar, UPPCB,CO,36,143,118
+1913,Uttar_Pradesh,Moradabad,Employment Office, UPPCB,CO,79,108,92
+1917,Uttar_Pradesh,Noida,Sector , UPPCB,CO,18,111,46
+1919,Uttar_Pradesh,Noida,Sector, UPPCB,CO,34,113,77
+1925,Uttar_Pradesh,Prayagraj,Motilal Nehru NIT, UPPCB,CO,56,111,79
+1928,Uttar_Pradesh,Vara0si,IESD Ba0ras Hindu University, UPPCB,CO,28,49,32
+1931,Uttar_Pradesh,Vara0si,Maldahiya, UPPCB,CO,34,115,66
+1940,West_Bengal,Haldia,Priyambada Housing Estate, WBPCB,CO,44,90,59
+1947,West_Bengal,Kolkata,Fort William, WBPCB,CO,5,117,27
+1950,West_Bengal,Kolkata,Rabindra Bharati University, WBPCB,CO,32,133,54
+1954,West_Bengal,Siliguri,Ward, WBPCB,CO,17,101,53
+1963,Andhra_Pradesh,Kadapa,Yerramukkapalli, APPCB,CO,18,36,23
+1967,Andhra_Pradesh,Rajamahendravaram,A0nd Kala Kshetram, APPCB,CO,21,59,32
+1975,Andhra_Pradesh,Visakhapat0m,GVM Corporation, APPCB,CO,32,78,49
+1978,Assam,Byrnihat,Central Academy for SFS, PCBA,CO,11,114,47
+1981,Assam,Guwahati,IITG, PCBA,CO,10,49,14
+1987,Assam,Guwahati,Pan Bazaar, PCBA,CO,22,115,55
+1995,Bihar,Araria,Kharahiya Basti, BSPCB,CO,2,108,44
+1996,Bihar,Arrah,New DM Office, BSPCB,CO,4,92,34
+2006,Bihar,Chhapra,Darshan 0gar, BSPCB,CO,26,55,45
+2009,Bihar,Hajipur,Industrial Area, BSPCB,CO,43,107,60
+2012,Bihar,Kishanganj,SDM Office_Khagra, BSPCB,CO,2,21,9
+2014,Bihar,Manguraha,Forest Rest House, BSPCB,CO,4,36,16
+2063,Chhattisgarh,Raipur,Siltara Phase, CECB,CO,72,104,84
+2065,Chhattisgarh,Tumidih,OP Jindal Industrial Park, CECB,CO,34,84,50
+2069,Delhi,Delhi,A0nd Vihar, DPCC,CO,50,118,85
+2073,Delhi,Delhi,Bawa0, DPCC,CO,46,121,77
+2087,Delhi,Delhi,IHBAS, CPCB,CO,42,109,74
+2094,Delhi,Delhi,0rela, DPCC,CO,56,117,86
+2096,Delhi,Delhi,Nehru 0gar, DPCC,CO,44,105,77
+2106,Delhi,Delhi,Sirifort, CPCB,CO,10,128,65
+2110,Delhi,Delhi,Sri Aurobindo Marg, DPCC,CO,30,88,43
+2121,Gujarat,Ahmedabad,Rakhial, IITM,CO,6,101,70
+2125,Gujarat,Ahmedabad,Sardar Vallabhbhai Patel Stadium, IITM,CO,42,128,79
+2126,Gujarat,Ankleshwar,GIDC, GPCB,CO,39,115,69
+2129,Gujarat,Surat,Science Center, SMC,CO,76,101,89
+2164,Jammu_and_Kashmir,Sri0gar,Rajbagh, JKSPCB,CO,0,0,0
+2169,Jharkhand,Pathardih,Mohalbani Ghat, JSPCB,CO,162,189,171
+2173,Kar0taka,Belgaum,Ramteerth 0gar, KSPCB,CO,42,61,52
+2182,Kar0taka,Chamaraja0gar,Urban, KSPCB,CO,18,120,33
+2187,Kar0taka,Chikkamagaluru,Kalya0 0gara, KSPCB,CO,7,98,19
+2210,Kar0taka,Udupi,Brahmagiri, KSPCB,CO,44,54,47
+2216,Kerala,Kannur,Thavakkara, Kerala PCB,CO,18,59,32
+2222,Madhya Pradesh,Bhopal,Paryavaran Parisar, MPPCB,CO,1,109,46
+2224,Madhya Pradesh,Damoh,Shrivastav Colony, MPPCB,CO,23,24,24
+2229,Madhya Pradesh,Gwalior,City Center, MPPCB,CO,50,84,68
+2232,Madhya Pradesh,Gwalior,Deen Dayal 0gar, MPPCB,CO,4,190,89
+2237,Madhya Pradesh,Gwalior,Maharaj Bada, MPPCB,CO,4,181,100
+2239,Madhya Pradesh,Indore,Chhoti Gwaltoli, MPPCB,CO,58,156,151
+2257,Madhya Pradesh,Ujjain,Mahakaleshwar Temple, MPPCB,CO,38,117,75
+2260,Maharashtra,Akola,Ramdaspeth, MPCB,CO,40,139,63
+2266,Maharashtra,Aurangabad,MIDC Chilkaltha0, MPCB,CO,35,110,65
+2269,Maharashtra,Aurangabad,More Chowk Waluj, MPCB,CO,16,111,59
+2271,Maharashtra,Badlapur,Katrap, MPCB,CO,34,114,65
+2280,Maharashtra,Jalgaon,Prabhat Colony, MPCB,CO,10,42,29
+2289,Maharashtra,Mira-Bhayandar,Bhayandar West, MPCB,CO,30,104,48
+2294,Maharashtra,Mumbai,Bandra Kurla Complex, MPCB,CO,41,127,62
+2300,Maharashtra,Mumbai,Byculla, BMC,CO,20,112,24
+2302,Maharashtra,Mumbai,Chakala, IITM,CO,32,117,69
+2305,Maharashtra,Mumbai,Colaba, MPCB,CO,13,28,15
+2345,Maharashtra,0vi Mumbai,Sanpada, MPCB,CO,18,107,54
+2348,Maharashtra,0vi Mumbai,Tondare, MPCB,CO,16,62,35
+2351,Maharashtra,Parbhani,Masoom Colony, MPCB,CO,34,114,71
+2353,Maharashtra,Pimpri-Chinchwad,Gavali0gar, MPCB,CO,24,114,63
+2356,Maharashtra,Pimpri-Chinchwad,Thergaon, MPCB,CO,27,123,73
+2358,Maharashtra,Pune,Alandi, IITM,CO,14,90,52
+2360,Maharashtra,Pune,Karve Road, MPCB,CO,16,96,37
+2362,Maharashtra,Pune,Mhada Colony, IITM,CO,33,74,49
+2363,Maharashtra,Pune,Savitribai Phule Pune University, MPCB,CO,12,91,44
+2371,Maharashtra,Thane,Kasarvadavali, MPCB,CO,31,66,45
+2374,Maharashtra,Ulhas0gar,Sidhi Vi0yak 0gar, MPCB,CO,4,148,64
+2381,Mizoram,Aizawl,Sikulpuikawn, Mizoram PCB,CO,9,14,11
+2385,Odisha,Angul,Hakimapada, OSPCB,CO,48,110,90
+2402,Odisha,Rourkela,Fertilizer Township, OSPCB,CO,17,22,21
+2404,Odisha,Rourkela,Sector, OSPCB,CO,21,96,54
+2417,Rajasthan,Alwar,Moti Doongri, RSPCB,CO,32,108,70
+2426,Rajasthan,Bhiwadi,RIICO Ind. Area III, RSPCB,CO,18,116,51
+2438,Rajasthan,Jaipur,Police Commissionerate, RSPCB,CO,24,114,48
+2447,Rajasthan,Jhunjhunu,Indra 0gar, RSPCB,CO,3,72,30
+2455,Rajasthan,Kota,Dhanmandi, RSPCB,CO,51,159,159
+2467,Rajasthan,Sikar,Radhakishan Pura, RSPCB,CO,20,88,34
+2475,Rajasthan,Udaipur,Ashok 0gar, RSPCB,CO,54,163,121
+2480,Tamil0du,Chen0i,Ma0li, CPCB,CO,34,102,73
+2494,Tamil0du,Vellore,Vasanthapuram, TNPCB,CO,6,6,6
+2500,Telanga0,Hyderabad,IDA Pashamylaram, TSPCB,CO,44,94,52
+2505,Telanga0,Hyderabad,0charam_TSIIC IALA, TSPCB,CO,25,33,27
+2506,Telanga0,Hyderabad,New Malakpet, TSPCB,CO,18,52,38
+2508,Telanga0,Hyderabad,Sa0th0gar, TSPCB,CO,48,70,54
+2513,Uttar_Pradesh,Agra,Rohta, UPPCB,CO,16,50,28
+2516,Uttar_Pradesh,Agra,Sector, UPPCB,CO,14,93,35
+2518,Uttar_Pradesh,Agra,Shahjahan Garden, UPPCB,CO,22,88,30
+2519,Uttar_Pradesh,Agra,Shastripuram, UPPCB,CO,2,32,10
+2528,Uttar_Pradesh,Ghaziabad,Loni, UPPCB,CO,32,132,93
+2538,Uttar_Pradesh,Hapur,A0nd Vihar, UPPCB,CO,41,118,82
+2541,Uttar_Pradesh,Jhansi,Shivaji 0gar, UPPCB,CO,27,119,68
+2544,Uttar_Pradesh,Kanpur,NSI Kalyanpur, UPPCB,CO,50,106,75
+2561,Uttar_Pradesh,Meerut,Jai Bhim 0gar, UPPCB,CO,56,115,95
+2563,Uttar_Pradesh,Meerut,Pallavpuram Phase 2, UPPCB,CO,36,70,59
+2567,Uttar_Pradesh,Moradabad,Jigar Colony, UPPCB,CO,48,89,69
+2591,West_Bengal,Asansol,Asansol Court Area, WBPCB,CO,9,88,45
+2608,West_Bengal,Kolkata,Jadavpur, WBPCB,CO,8,108,39
+2614,West_Bengal,Kolkata,Rabindra Sarobar, WBPCB,CO,11,116,56
+2620,Andhra_Pradesh,A0ntapur,Gulzarpet, APPCB,CO,22,64,31
+2630,Andhra_Pradesh,Vijayawada,Rajiv Gandhi Park, APPCB,CO,32,33,33
+2632,Aru0chal_Pradesh,0harlagun,0harlagun, APSPCB,CO,8,57,32
+2638,Assam,Sivasagar,Girls College, PCBA,CO,16,50,26
+2645,Bihar,Bettiah,Kamal0th 0gar, BSPCB,CO,31,109,82
+2648,Bihar,Bihar Sharif,D M Colony, BSPCB,CO,4,62,34
+2665,Bihar,Motihari,Gandak Colony, BSPCB,CO,40,80,54
+2670,Bihar,Muzaffarpur,Muzaffarpur Collectorate, BSPCB,CO,18,80,52
+2674,Bihar,Pat0,Govt. High School Shikarpur, BSPCB,CO,52,147,91
+2688,Bihar,Saharsa,Police Line, BSPCB,CO,3,28,17
+2691,Bihar,Sasaram,Dada Peer, BSPCB,CO,34,64,49
+2699,Chhattisgarh,Chhal,0wapara SECL Colony, CECB,CO,72,115,98
+2703,Chhattisgarh,Milupara,Govt. Higher Secondary School, CECB,CO,28,47,36
+2705,Chhattisgarh,Raipur,AIIMS, CECB,CO,52,110,69
+2707,Chhattisgarh,Raipur,Krishak 0gar, CECB,CO,36,66,45
+2712,Delhi,Delhi,Alipur, DPCC,CO,40,100,65
+2719,Delhi,Delhi,Burari Crossing, IMD,CO,74,90,86
+2721,Delhi,Delhi,Dr. Karni Singh Shooting Range, DPCC,CO,44,116,78
+2723,Delhi,Delhi,Dwarka, DPCC,CO,50,136,84
+2739,Delhi,Delhi,North Campus, IMD,CO,67,106,106
+2742,Delhi,Delhi,Punjabi Bagh, DPCC,CO,24,115,78
+2750,Delhi,Delhi,Shadipur, CPCB,CO,26,119,84
+2754,Delhi,Delhi,Sonia Vihar, DPCC,CO,80,110,95
+2766,Gujarat,Ahmedabad,SAC ISRO Bopal, IITM,CO,24,26,24
+2768,Gujarat,Ahmedabad,SAC ISRO Satellite, IITM,CO,36,39,37
+2786,Harya0,Dharuhera,Municipal Corporation Office,  HSPCB,CO,4,76,33
+2788,Harya0,Faridabad,New Industrial Town, HSPCB,CO,42,54,49
+2793,Harya0,Fatehabad,Huda Sector, HSPCB,CO,5,14,8
+2798,Harya0,Gurugram,Teri Gram, HSPCB,CO,34,80,45
+2800,Harya0,Gurugram,Vikas Sadan, HSPCB,CO,54,139,94
+2808,Harya0,Kar0l,Sector, HSPCB,CO,98,101,100
+2822,Harya0,Sonipat,Murthal, HSPCB,CO,34,47,42
+2844,Kar0taka,Bengaluru,Peenya, CPCB,CO,28,60,53
+2847,Kar0taka,Bengaluru,RVCE, KSPCB,CO,38,66,56
+2865,Kar0taka,Hubballi,Lingaraj 0gar, KSPCB,CO,2,60,8
+2875,Kar0taka,Madikeri,Stuart Hill, KSPCB,CO,6,30,15
+2882,Kar0taka,Raichur,Haji Colony, KSPCB,CO,93,122,104
+2893,Kerala,Kollam,Polayathode, Kerala PCB,CO,8,31,17
+2896,Kerala,Thiruva0nthapuram,Kariavattom, Kerala PCB,CO,18,48,25
+2902,Madhya Pradesh,Bhopal,Idgah Hills, MPPCB,CO,31,74,50
+2907,Madhya Pradesh,Bhopal,T T 0gar, MPPCB,CO,40,111,81
+2920,Madhya Pradesh,Katni,Gole Bazar, MPPCB,CO,30,148,89
+2924,Madhya Pradesh,Pithampur,Sector, MPPCB,CO,12,97,22
+2929,Madhya Pradesh,Sat0,Bandhavgar Colony, Birla Cement,CO,24,76,32
+2936,Maharashtra,Ahmed0gar,Tarakpur, MPCB,CO,12,118,51
+2939,Maharashtra,Amravati,Shri Shivaji Science College, MPCB,CO,56,124,84
+2943,Maharashtra,Belapur,CBD Belapur, MPCB,CO,48,67,52
+2946,Maharashtra,Chandrapur,Chauhan Colony, MPCB,CO,3,18,3
+2951,Maharashtra,Kalyan,Khadakpada, MPCB,CO,10,106,38
+2953,Maharashtra,Latur,Sawe Wadi, MPCB,CO,24,147,66
+2962,Maharashtra,Mumbai,Chembur, MPCB,CO,36,88,60
+2964,Maharashtra,Mumbai,Chhatrapati Shivaji Intl. Airport (T2), MPCB,CO,82,115,92
+2966,Maharashtra,Mumbai,Ghatkopar, BMC,CO,14,77,43
+2969,Maharashtra,Mumbai,Khindipada, IITM,CO,28,82,49
+2976,Maharashtra,Mumbai,Mulund West, MPCB,CO,44,46,46
+2981,Maharashtra,Mumbai,Sewri, BMC,CO,22,124,48
+2987,Maharashtra,Mumbai,Vile Parle West, MPCB,CO,15,22,19
+2996,Maharashtra,0gpur,Ram 0gar, MPCB,CO,33,117,73
+3002,Maharashtra,0shik,Hirawadi, MPCB,CO,22,80,46
+3007,Maharashtra,0vi Mumbai,Sector, MPCB,CO,20,111,67
+3017,Maharashtra,Pune,Revenue Colony, IITM,CO,104,124,112
+3024,Maharashtra,Sangli,Vijay 0gar, MPCB,CO,20,106,31
+3029,Maharashtra,Thane,Pimpleshwar Mandir, MPCB,CO,2,153,32
+3030,Maharashtra,Thane,Upvan Fort, MPCB,CO,34,66,41
+3043,0galand,Kohima,PWD Juction, NPCB,CO,8,36,24
+3056,Odisha,Keonjhar,Jagamohanpur, OSPCB,CO,12,114,39
+3057,Odisha,0yagarh,Dabu0, OSPCB,CO,20,28,23
+3071,Punjab,Khan0,Kalal Majra, PPCB,CO,41,96,57
+3087,Rajasthan,Barmer,Railway Colony, RSPCB,CO,26,134,81
+3091,Rajasthan,Bhilwara,Pratap 0gar, RSPCB,CO,39,109,63
+3097,Rajasthan,Bundi,New Colony, RSPCB,CO,48,104,65
+3102,Rajasthan,Dausa,Khatikan Mohalla, RSPCB,CO,4,114,41
+3110,Rajasthan,Jaipur,Adarsh 0gar, RSPCB,CO,4,103,37
+3119,Rajasthan,Jaipur,Shastri 0gar, RSPCB,CO,32,142,78
+3122,Rajasthan,Jaisalmer,Sadar Bazar, RSPCB,CO,37,105,66
+3134,Rajasthan,Kota,0yapura, RSPCB,CO,48,134,78
+3139,Rajasthan,Pali,Indira Colony Vistar, RSPCB,CO,4,82,31
+3144,Rajasthan,Rajsamand,Dhoinda, RSPCB,CO,4,22,12
+3150,Rajasthan,Tonk,Shastri 0gar, RSPCB,CO,36,133,77
+3154,Sikkim,Gangtok,Zero Point GICI, SSPCB,CO,8,20,14
+3157,Tamil0du,Chen0i,Alandur Bus Depot, CPCB,CO,16,119,54
+3166,Tamil0du,Chen0i,Kodungaiyur, TNPCB,CO,14,104,26
+3173,Tamil0du,Coimbatore,PSG College of Arts and Science, TNPCB,CO,30,80,43
+3176,Tamil0du,Kanchipuram,Kilambi, TNPCB,CO,6,121,92
+3178,Tamil0du,Ooty,Bombay Castel, TNPCB,CO,17,19,18
+3181,Tamil0du,Palkalaiperur,Bharathidasan University, TNPCB,CO,1,48,13
+3187,Tamil0du,Tirupur,Kumaran College, TNPCB,CO,22,102,58
+3189,Telanga0,Hyderabad,ECIL Kapra, TSPCB,CO,16,56,34
+3196,Telanga0,Hyderabad,Kompally Municipal Office, TSPCB,CO,8,92,28
+3207,Telanga0,Hyderabad,Zoo Park, TSPCB,CO,46,106,84
+3212,Uttar_Pradesh,Agra,Manoharpur, UPPCB,CO,19,64,23
+3228,Uttar_Pradesh,Bareilly,Civil Lines, UPPCB,CO,58,92,79
+3231,Uttar_Pradesh,Bareilly,Rajendra 0gar, UPPCB,CO,79,103,88
+3257,Uttar_Pradesh,Lucknow,B R Ambedkar University, UPPCB,CO,14,68,31
+3261,Uttar_Pradesh,Lucknow,Kendriya Vidyalaya, CPCB,CO,38,110,70
+3263,Uttar_Pradesh,Lucknow,Kukrail Picnic Spot, UPPCB,CO,34,56,39
+3266,Uttar_Pradesh,Lucknow,Lalbagh, CPCB,CO,72,158,121
+3268,Uttar_Pradesh,Lucknow,Talkatora District Industries Center, CPCB,CO,10,114,51
+3279,Uttar_Pradesh,Muzaffar0gar,New Mandi, UPPCB,CO,74,112,109
+3284,Uttar_Pradesh,Prayagraj,0gar Nigam, UPPCB,CO,32,103,61
+3290,Uttar_Pradesh,Vrindavan,Omex Eternity, UPPCB,CO,50,111,74
+3291,Uttarakhand,Dehradun,Doon University, UKPCB,CO,42,103,54
+3294,Uttarakhand,Kashipur,Govt. Girls Inter College, UKPCB,CO,27,109,74
+3296,Uttarakhand,Rishikesh,Shivaji 0gar, UKPCB,CO,38,57,46
+3300,West_Bengal,Barrackpore,SVSPA Campus, WBPCB,CO,45,114,63
+3303,West_Bengal,Durgapur,Sidhu Kanhu Indoor Stadium, WBPCB,CO,20,90,34
+3306,West_Bengal,Howrah,Padmapukur, WBPCB,CO,14,108,59
+3307,West_Bengal,Kolkata,Ballygunge, WBPCB,CO,5,116,53
+2,Andhra_Pradesh,Tirupati,Tirumala, APPCB,NH3,2,5,3
+17,Assam,Silchar,Tarapur, PCBA,NH3,1,1,1
+19,Assam,Sivasagar,Girls College, PCBA,NH3,1,3,2
+26,Bihar,Bihar Sharif,D M Colony, BSPCB,NH3,2,2,2
+36,Bihar,Motihari,Gandak Colony, BSPCB,NH3,14,23,17
+48,Bihar,Pat0,Muradpur, BSPCB,NH3,3,50,10
+53,Bihar,Rajgir,Dangi Tola, BSPCB,NH3,1,2,1
+81,Delhi,Delhi,Alipur, DPCC,NH3,9,13,11
+83,Delhi,Delhi,Ashok Vihar, DPCC,NH3,16,23,18
+106,Delhi,Delhi,0jafgarh, DPCC,NH3,2,11,4
+110,Delhi,Delhi,0rela, DPCC,NH3,15,20,17
+125,Delhi,Delhi,Sri Aurobindo Marg, DPCC,NH3,0,0,0
+134,Gujarat,Ahmedabad,SAC ISRO Satellite, IITM,NH3,2,4,3
+138,Gujarat,Ahmedabad,Sardar Vallabhbhai Patel Stadium, IITM,NH3,3,3,3
+153,Harya0,Ballabgarh,0thu Colony, HSPCB,NH3,1,2,2
+161,Harya0,Faridabad,Sector 30, HSPCB,NH3,9,9,9
+178,Harya0,Kurukshetra,Sector, HSPCB,NH3,6,6,6
+192,Harya0,Sonipat,Murthal, HSPCB,NH3,7,10,9
+202,Kar0taka,Bengaluru,Hebbal, KSPCB,NH3,0,0,0
+203,Kar0taka,Bengaluru,Jigani, KSPCB,NH3,1,4,2
+211,Kar0taka,Bengaluru,Shivapura_Peenya, KSPCB,NH3,4,4,4
+216,Kar0taka,Chikkamagaluru,Kalya0 0gara, KSPCB,NH3,3,5,4
+245,Kerala,Thrissur,Corporation Ground, Kerala PCB,NH3,1,1,1
+251,Madhya Pradesh,Gwalior,City Center, MPPCB,NH3,7,14,10
+270,Madhya Pradesh,Sagar,Civil Lines, MPPCB,NH3,5,10,7
+280,Maharashtra,Amravati,Shivneri Colony, MPCB,NH3,2,4,3
+285,Maharashtra,Aurangabad,MIDC Chilkaltha0, MPCB,NH3,3,4,4
+291,Maharashtra,Belapur,CBD Belapur, MPCB,NH3,0,0,0
+321,Maharashtra,Mumbai,Colaba, MPCB,NH3,1,1,1
+325,Maharashtra,Mumbai,Kandivali East, MPCB,NH3,7,12,9
+329,Maharashtra,Mumbai,Kandivali West, BMC,NH3,1,8,4
+338,Maharashtra,Mumbai,0vy 0gar, IITM,NH3,2,15,9
+361,Maharashtra,0vi Mumbai,Mahape, MPCB,NH3,3,3,3
+369,Maharashtra,Pimpri-Chinchwad,Gavali0gar, MPCB,NH3,5,9,7
+382,Maharashtra,Solapur,Dnyaneshwar 0gar, MPCB,NH3,15,69,30
+389,Maharashtra,Virar,Bolinj, MPCB,NH3,2,15,7
+430,Punjab,Ludhia0,Punjab Agricultural University, PPCB,NH3,5,10,8
+431,Punjab,Mandi Gobindgarh,RIMT University, PPCB,NH3,2,2,2
+437,Rajasthan,Banswara,Rati Talai, RSPCB,NH3,3,3,3
+441,Rajasthan,Baran,Bamboliya, RSPCB,NH3,4,8,5
+446,Rajasthan,Bhilwara,Pratap 0gar, RSPCB,NH3,6,9,7
+447,Rajasthan,Bikaner,MM Ground, RSPCB,NH3,14,19,16
+451,Rajasthan,Bundi,New Colony, RSPCB,NH3,5,5,5
+461,Rajasthan,Jalore,Mudtra Sili, RSPCB,NH3,8,14,11
+463,Rajasthan,Jhunjhunu,Indra 0gar, RSPCB,NH3,7,15,11
+470,Rajasthan,Jodhpur,Mandor, RSPCB,NH3,8,18,10
+474,Rajasthan,Karauli,Satyawati Vihar, RSPCB,NH3,7,9,8
+476,Rajasthan,Kota,0yapura, RSPCB,NH3,11,19,14
+480,Rajasthan,0gaur,Karni Colony, RSPCB,NH3,11,15,13
+487,Rajasthan,Pratapgarh,Pragati 0gar, RSPCB,NH3,5,9,6
+491,Rajasthan,Tonk,Shastri 0gar, RSPCB,NH3,4,63,19
+493,Rajasthan,Udaipur,Ashok 0gar, RSPCB,NH3,5,23,9
+500,Tamil0du,Chen0i,Kodungaiyur, TNPCB,NH3,3,7,5
+502,Tamil0du,Chen0i,Royapuram, TNPCB,NH3,1,1,1
+537,Uttar_Pradesh,Agra,Shastripuram, UPPCB,NH3,2,3,3
+546,Uttar_Pradesh,Ghaziabad,Loni, UPPCB,NH3,2,10,6
+550,Uttar_Pradesh,Ghaziabad,Vasundhara, UPPCB,NH3,1,20,14
+551,Uttar_Pradesh,Gorakhpur,Madan Mohan Malaviya University of Technology, UPPCB,NH3,2,3,2
+556,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,NH3,15,19,16
+560,Uttar_Pradesh,Hapur,A0nd Vihar, UPPCB,NH3,9,15,11
+569,Uttar_Pradesh,Lucknow,Lalbagh, UPPCB,NH3,18,34,22
+579,Uttar_Pradesh,Moradabad,Buddhi Vihar, UPPCB,NH3,8,10,9
+597,Uttar_Pradesh,Prayagraj,Jhunsi, UPPCB,NH3,5,5,5
+605,Uttar_Pradesh,Vara0si,Bhelupur, UPPCB,NH3,2,3,2
+613,Uttarakhand,Rishikesh,Shivaji 0gar, UKPCB,NH3,3,4,4
+616,West_Bengal,Barrackpore,SVSPA Campus, WBPCB,NH3,1,3,2
+625,West_Bengal,Kolkata,Ballygunge, WBPCB,NH3,8,24,17
+628,West_Bengal,Kolkata,Fort William, WBPCB,NH3,8,14,11
+643,Andhra_Pradesh,Vijayawada,Kanuru, APPCB,NH3,0,0,0
+647,Andhra_Pradesh,Vijayawada,Rajiv Gandhi Park, APPCB,NH3,2,8,7
+648,Andhra_Pradesh,Visakhapat0m,GVM Corporation, APPCB,NH3,1,2,1
+650,Assam,Byrnihat,Central Academy for SFS, PCBA,NH3,2,3,3
+662,Bihar,Araria,Kharahiya Basti, BSPCB,NH3,6,9,7
+665,Bihar,Aurangabad,Gurdeo 0gar, BSPCB,NH3,1,10,2
+667,Bihar,Bettiah,Kamal0th 0gar, BSPCB,NH3,3,3,3
+675,Bihar,Chhapra,Darshan 0gar, BSPCB,NH3,2,4,3
+682,Bihar,Katihar,Mirchaibari, BSPCB,NH3,3,6,4
+686,Bihar,Manguraha,Forest Rest House, BSPCB,NH3,3,3,3
+691,Bihar,Pat0,Govt. High School Shikarpur, BSPCB,NH3,2,7,5
+700,Bihar,Samastipur,DM Office_Kasipur, BSPCB,NH3,3,4,4
+702,Chandigarh,Chandigarh,Sector 22, CPCC,NH3,8,13,10
+720,Chhattisgarh,Raipur,AIIMS, CECB,NH3,4,4,4
+721,Chhattisgarh,Raipur,Bhatagaon New ISBT, CECB,NH3,0,0,0
+722,Chhattisgarh,Raipur,Krishak 0gar, CECB,NH3,1,1,1
+734,Delhi,Delhi,DTU, CPCB,NH3,17,26,21
+739,Delhi,Delhi,Jawaharlal Nehru Stadium, DPCC,NH3,14,21,18
+749,Delhi,Delhi,NSIT Dwarka, CPCB,NH3,6,9,8
+754,Delhi,Delhi,Nehru 0gar, DPCC,NH3,7,22,11
+758,Delhi,Delhi,Okhla Phase, DPCC,NH3,24,35,29
+760,Delhi,Delhi,Punjabi Bagh, DPCC,NH3,6,11,9
+764,Delhi,Delhi,Rohini, DPCC,NH3,19,26,23
+767,Delhi,Delhi,Shadipur, CPCB,NH3,14,25,19
+768,Delhi,Delhi,Sirifort, CPCB,NH3,3,12,7
+818,Harya0,Sirsa,F, HSPCB,NH3,12,13,13
+824,Himachal Pradesh,Baddi,HIMUDA Complex Phase, HPPCB,NH3,6,9,7
+831,Kar0taka,Bagalkot,Vidayagiri, KSPCB,NH3,2,2,2
+833,Kar0taka,Belgaum,Ramteerth 0gar, KSPCB,NH3,17,32,23
+835,Kar0taka,Bengaluru,Bapuji 0gar, KSPCB,NH3,1,1,1
+842,Kar0taka,Bengaluru,Jaya0gar 5th Block, KSPCB,NH3,2,3,3
+846,Kar0taka,Bengaluru,RVCE, KSPCB,NH3,4,4,4
+853,Kar0taka,Bengaluru,Silk Board, KSPCB,NH3,3,5,4
+864,Kar0taka,Dharwad,Kalabhavan, KSPCB,NH3,3,3,3
+872,Kar0taka,Kolar,Tamaka Ind. Area, KSPCB,NH3,4,8,6
+880,Kar0taka,Rama0gara,Vijay 0gar, KSPCB,NH3,2,3,3
+889,Kerala,Kannur,Thavakkara, Kerala PCB,NH3,1,1,1
+891,Kerala,Kollam,Polayathode, Kerala PCB,NH3,1,1,1
+892,Kerala,Thiruva0nthapuram,Kariavattom, Kerala PCB,NH3,1,1,1
+897,Madhya Pradesh,Bhopal,Idgah Hills, MPPCB,NH3,5,8,6
+907,Madhya Pradesh,Indore,Chhoti Gwaltoli, MPPCB,NH3,3,8,7
+913,Madhya Pradesh,Jabalpur,Marhatal, MPPCB,NH3,5,7,6
+917,Madhya Pradesh,Jabalpur,Suhagi, JMC,NH3,2,4,2
+922,Madhya Pradesh,Pithampur,Sector, MPPCB,NH3,4,6,5
+927,Madhya Pradesh,Singrauli,Suryakiran Bhawan NCL, MPPCB,NH3,2,2,2
+944,Maharashtra,Dhule,Deopur, MPCB,NH3,2,3,2
+948,Maharashtra,Jalgaon,Prabhat Colony, MPCB,NH3,4,11,9
+953,Maharashtra,Kolhapur,Sinchan Bhavan, MPCB,NH3,7,8,7
+960,Maharashtra,Mumbai,Bandra Kurla Complex, MPCB,NH3,14,44,23
+964,Maharashtra,Mumbai,Borivali East, IITM,NH3,3,4,3
+967,Maharashtra,Mumbai,Chembur, MPCB,NH3,2,3,2
+976,Maharashtra,Mumbai,Khindipada, IITM,NH3,0,0,0
+981,Maharashtra,Mumbai,Mazgaon, IITM,NH3,6,16,10
+982,Maharashtra,Mumbai,Mindspace, MPCB,NH3,8,9,8
+995,Maharashtra,Mumbai,Sion, MPCB,NH3,1,3,2
+997,Maharashtra,Mumbai,Vasai West, MPCB,NH3,4,4,4
+1000,Maharashtra,Mumbai,Worli, MPCB,NH3,1,1,1
+1006,Maharashtra,0gpur,Ram 0gar, MPCB,NH3,7,35,14
+1012,Maharashtra,0shik,Pandav 0gari, MPCB,NH3,6,13,8
+1016,Maharashtra,0vi Mumbai,Kopripada, MPCB,NH3,7,61,22
+1024,Maharashtra,0vi Mumbai,Sector, MPCB,NH3,15,25,20
+1026,Maharashtra,Parbhani,Masoom Colony, MPCB,NH3,3,4,4
+1035,Maharashtra,Pune,Revenue Colony, IITM,NH3,12,30,23
+1061,0galand,Kohima,PWD Juction, NPCB,NH3,0,0,0
+1062,Odisha,Barbil,Forest Office, OSPCB,NH3,3,7,4
+1065,Odisha,Bhubaneswar,Lingraj Mandir, OSPCB,NH3,4,7,5
+1071,Odisha,Brajraj0gar,GM Office, OSPCB,NH3,2,2,2
+1075,Odisha,Cuttack,CDA Area, OSPCB,NH3,3,5,4
+1077,Odisha,Keonjhar,Jagamohanpur, OSPCB,NH3,11,14,12
+1087,Odisha,Tensa,Barsua Iron Ore Mines, OSPCB,NH3,9,14,11
+1095,Punjab,Khan0,Kalal Majra, PPCB,NH3,14,16,15
+1108,Rajasthan,Chittorgarh,Shastri 0gar, RSPCB,NH3,4,7,5
+1111,Rajasthan,Churu,Subash Chowk, RSPCB,NH3,9,19,12
+1117,Rajasthan,Dungarpur,Bhoiwada, RSPCB,NH3,7,7,7
+1120,Rajasthan,Jaipur,Mansarovar Sector, RSPCB,NH3,5,16,11
+1136,Rajasthan,Jodhpur,Samrat Ashok Udhyan, RSPCB,NH3,6,20,10
+1137,Rajasthan,Kota,Dhanmandi, RSPCB,NH3,5,8,7
+1149,Rajasthan,Sikar,Radhakishan Pura, RSPCB,NH3,6,15,10
+1171,Tamil0du,Ooty,Bombay Castel, TNPCB,NH3,0,0,0
+1177,Tamil0du,Tiruchirappalli,St Joseph College, TNPCB,NH3,0,0,0
+1184,Telanga0,Hyderabad,ECIL Kapra, TSPCB,NH3,5,7,6
+1189,Telanga0,Hyderabad,IDA Pashamylaram, TSPCB,NH3,1,4,2
+1191,Telanga0,Hyderabad,IITH Kandi, TSPCB,NH3,2,2,2
+1205,Uttar_Pradesh,Baghpat,Sardar Patel Inter College, UPPCB,NH3,3,6,4
+1229,Uttar_Pradesh,Lucknow,Talkatora District Industries Center, CPCB,NH3,10,31,20
+1230,Uttar_Pradesh,Meerut,Ganga 0gar, UPPCB,NH3,0,0,0
+1235,Uttar_Pradesh,Moradabad,Eco Herbal Park, UPPCB,NH3,8,79,17
+1236,Uttar_Pradesh,Moradabad,Employment Office, UPPCB,NH3,4,4,4
+1237,Uttar_Pradesh,Moradabad,Jigar Colony, UPPCB,NH3,5,5,5
+1245,Uttar_Pradesh,Muzaffar0gar,New Mandi, UPPCB,NH3,10,16,13
+1256,Uttar_Pradesh,Vara0si,Maldahiya, UPPCB,NH3,1,2,1
+1259,Uttar_Pradesh,Vrindavan,Omex Eternity, UPPCB,NH3,3,8,5
+1267,West_Bengal,Howrah,Ghusuri, WBPCB,NH3,3,3,3
+1276,West_Bengal,Kolkata,Jadavpur, WBPCB,NH3,6,13,9
+1306,Assam,0gaon,Christianpatty, PCBA,NH3,3,5,3
+1311,Assam,0lbari,Bata Chowk, PCBA,NH3,9,15,10
+1331,Bihar,Kishanganj,SDM Office_Khagra, BSPCB,NH3,9,14,10
+1335,Bihar,Munger,Town Hall, BSPCB,NH3,0,0,0
+1339,Bihar,Muzaffarpur,MIT, BSPCB,NH3,5,9,7
+1341,Bihar,Pat0,DRM Office Da0pur, BSPCB,NH3,4,5,4
+1358,Bihar,Sasaram,Dada Peer, BSPCB,NH3,6,11,8
+1360,Bihar,Siwan,Chitragupta 0gar, BSPCB,NH3,1,19,5
+1361,Chandigarh,Chandigarh,Sector, CPCC,NH3,13,42,22
+1372,Chhattisgarh,Bhilai,Hathkhoj, CECB,NH3,7,8,8
+1375,Chhattisgarh,Korba,Urja 0gar, CECB,NH3,4,13,6
+1392,Delhi,Delhi,Dr. Karni Singh Shooting Range, DPCC,NH3,12,58,21
+1394,Delhi,Delhi,Dwarka, DPCC,NH3,17,30,22
+1398,Delhi,Delhi,IHBAS, CPCB,NH3,0,0,0
+1400,Delhi,Delhi,Jahangirpuri, DPCC,NH3,33,54,46
+1405,Delhi,Delhi,Major Dhyan Chand 0tio0l Stadium, DPCC,NH3,15,26,20
+1406,Delhi,Delhi,Mandir Marg, DPCC,NH3,19,21,20
+1419,Delhi,Delhi,Patparganj, DPCC,NH3,8,15,12
+1429,Delhi,Delhi,R K Puram, DPCC,NH3,7,14,10
+1435,Delhi,Delhi,Vivek Vihar, DPCC,NH3,8,20,14
+1437,Delhi,Delhi,Wazirpur, DPCC,NH3,14,21,18
+1451,Gujarat,Ankleshwar,GIDC, GPCB,NH3,7,7,7
+1458,Gujarat,Gandhi0gar,IIPHG Lekawada, IITM,NH3,3,4,4
+1463,Gujarat,Gandhi0gar,Sector, GPCB,NH3,1,2,2
+1472,Harya0,Dharuhera,Municipal Corporation Office,  HSPCB,NH3,9,26,19
+1476,Harya0,Fatehabad,Huda Sector, HSPCB,NH3,9,11,10
+1484,Harya0,Kar0l,Sector, HSPCB,NH3,10,13,11
+1500,Harya0,Yamu0 0gar,Gobind Pura, HSPCB,NH3,1,6,4
+1521,Kar0taka,Bengaluru,Kasturi 0gar, KSPCB,NH3,4,4,4
+1533,Kar0taka,Haveri,Ashwini 0gar, KSPCB,NH3,3,4,3
+1537,Kar0taka,Hubballi,Lingaraj 0gar, KSPCB,NH3,2,2,2
+1543,Kar0taka,Karwar,KHB Colony, KSPCB,NH3,2,4,3
+1547,Kar0taka,Madikeri,Stuart Hill, KSPCB,NH3,0,0,0
+1555,Kar0taka,Udupi,Brahmagiri, KSPCB,NH3,1,2,2
+1558,Kar0taka,Vijayapura,Ibrahimpur, KSPCB,NH3,1,2,1
+1573,Madhya Pradesh,Bhopal,Paryavaran Parisar, MPPCB,NH3,6,13,8
+1578,Madhya Pradesh,Gwalior,Deen Dayal 0gar, MPPCB,NH3,12,20,16
+1583,Madhya Pradesh,Indore,Regio0l Park, IMC,NH3,1,3,2
+1586,Madhya Pradesh,Jabalpur,Govindh Bhavan Colony, JMC,NH3,1,2,2
+1595,Madhya Pradesh,Mandideep,Sector, MPPCB,NH3,1,7,4
+1605,Madhya Pradesh,Ujjain,Mahakaleshwar Temple, MPPCB,NH3,6,11,8
+1608,Maharashtra,Amravati,Shri Shivaji Science College, MPCB,NH3,2,9,4
+1612,Maharashtra,Aurangabad,Rach0kar Colony, MPCB,NH3,2,2,2
+1621,Maharashtra,Kalyan,Khadakpada, MPCB,NH3,1,5,1
+1623,Maharashtra,Kolhapur,Shivaji University, MPCB,NH3,1,11,4
+1629,Maharashtra,Latur,Sawe Wadi, MPCB,NH3,8,8,8
+1631,Maharashtra,Mahad,Kamble Tarf Birwadi, MPCB,NH3,4,5,5
+1633,Maharashtra,Malegaon,Mahesh 0gar, MPCB,NH3,3,78,8
+1636,Maharashtra,Mumbai,Bandra Kurla Complex, IITM,NH3,4,31,12
+1641,Maharashtra,Mumbai,Chakala, IITM,NH3,8,47,18
+1649,Maharashtra,Mumbai,Kherwadi_Bandra East, MPCB,NH3,6,11,9
+1662,Maharashtra,Mumbai,Siddharth 0gar, IITM,NH3,3,5,5
+1665,Maharashtra,Mumbai,Vile Parle West, MPCB,NH3,0,0,0
+1678,Maharashtra,0shik,MIDC Ambad, MPCB,NH3,2,3,2
+1689,Maharashtra,Pimpri-Chinchwad,Park Street Wakad, MPCB,NH3,10,28,18
+1693,Maharashtra,Pimpri-Chinchwad,Thergaon, MPCB,NH3,2,34,13
+1707,Maharashtra,Thane,Pimpleshwar Mandir, MPCB,NH3,1,5,4
+1714,Meghalaya,Shillong,Lumpyngngad, Meghalaya PCB,NH3,1,1,1
+1719,Odisha,Angul,Hakimapada, OSPCB,NH3,4,7,5
+1728,Odisha,Bileipada,Tata Township, OSPCB,NH3,11,11,11
+1733,Odisha,Byasa0gar,Ferro Chrome Colony, OSPCB,NH3,3,4,3
+1755,Rajasthan,Alwar,Moti Doongri, RSPCB,NH3,5,10,8
+1757,Rajasthan,Barmer,Railway Colony, RSPCB,NH3,6,54,14
+1760,Rajasthan,Bharatpur,Krish0 0gar, RSPCB,NH3,0,0,0
+1763,Rajasthan,Bhiwadi,RIICO Ind. Area III, RSPCB,NH3,1,12,4
+1773,Rajasthan,Dholpur,Raja Ganj, RSPCB,NH3,10,12,11
+1786,Rajasthan,Jaipur,Sector, RSPCB,NH3,6,7,6
+1789,Rajasthan,Jaipur,Shastri 0gar, RSPCB,NH3,12,60,32
+1791,Rajasthan,Jhalawar,Rajlaxmi 0gar, RSPCB,NH3,2,11,4
+1800,Rajasthan,Jodhpur,Digari Kalan, RSPCB,NH3,6,13,8
+1821,Tamil0du,Chen0i,Arumbakkam, TNPCB,NH3,6,9,8
+1834,Tamil0du,Kanchipuram,Kilambi, TNPCB,NH3,0,0,0
+1837,Tamil0du,Rama0thapuram,Chalai Bazaar, TNPCB,NH3,1,1,1
+1846,Tamil0du,Vellore,Vasanthapuram, TNPCB,NH3,1,1,1
+1862,Telanga0,Hyderabad,New Malakpet, TSPCB,NH3,2,2,2
+1867,Telanga0,Hyderabad,Zoo Park, TSPCB,NH3,1,1,1
+1869,Tripura,Agartala,Bardowali, Tripura SPCB,NH3,5,8,6
+1870,Uttar_Pradesh,Agra,Manoharpur, UPPCB,NH3,3,6,4
+1872,Uttar_Pradesh,Agra,Sector, UPPCB,NH3,5,7,6
+1874,Uttar_Pradesh,Agra,Shahjahan Garden, UPPCB,NH3,1,3,2
+1888,Uttar_Pradesh,Ghaziabad,Sanjay 0gar, UPPCB,NH3,16,22,18
+1891,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,NH3,8,15,11
+1892,Uttar_Pradesh,Jhansi,Shivaji 0gar, UPPCB,NH3,6,6,6
+1895,Uttar_Pradesh,Kanpur,NSI Kalyanpur, UPPCB,NH3,2,3,2
+1898,Uttar_Pradesh,Khurja,Kalindi Kunj, UPPCB,NH3,2,3,2
+1899,Uttar_Pradesh,Lucknow,B R Ambedkar University, UPPCB,NH3,6,10,7
+1909,Uttar_Pradesh,Meerut,Pallavpuram Phase 2, UPPCB,NH3,6,13,8
+1915,Uttar_Pradesh,Moradabad,Transport 0gar, UPPCB,NH3,6,6,6
+1924,Uttar_Pradesh,Prayagraj,Motilal Nehru NIT, UPPCB,NH3,6,7,7
+1937,West_Bengal,Asansol,Asansol Court Area, WBPCB,NH3,7,13,9
+1939,West_Bengal,Haldia,Priyambada Housing Estate, WBPCB,NH3,3,7,4
+1941,West_Bengal,Howrah,Belur Math, WBPCB,NH3,1,3,2
+1949,West_Bengal,Kolkata,Rabindra Bharati University, WBPCB,NH3,7,8,8
+1952,West_Bengal,Kolkata,Victoria, WBPCB,NH3,1,5,2
+1958,Andhra_Pradesh,A0ntapur,Gulzarpet, APPCB,NH3,0,0,0
+1960,Andhra_Pradesh,Chittoor,Gangineni Cheruvu, APPCB,NH3,1,3,2
+1966,Andhra_Pradesh,Rajamahendravaram,A0nd Kala Kshetram, APPCB,NH3,3,4,3
+1969,Andhra_Pradesh,Tirupati,Vaikuntapuram, APPCB,NH3,2,3,3
+1980,Assam,Guwahati,IITG, PCBA,NH3,5,5,5
+1983,Assam,Guwahati,LGBI Airport, PCBA,NH3,0,0,0
+1986,Assam,Guwahati,Pan Bazaar, PCBA,NH3,3,4,3
+2001,Bihar,Bhagalpur,DM Office_Kachari Chowk, BSPCB,NH3,4,7,6
+2020,Bihar,Muzaffarpur,Buddha Colony, BSPCB,NH3,0,0,0
+2026,Bihar,Pat0,Rajbansi 0gar, BSPCB,NH3,0,0,0
+2030,Bihar,Saharsa,Police Line, BSPCB,NH3,9,9,9
+2040,Chandigarh,Chandigarh,Sector, CPCC,NH3,6,11,8
+2048,Chhattisgarh,Korba,Rampur, CECB,NH3,4,6,5
+2050,Chhattisgarh,Kunjemura,OP Jindal School, CECB,NH3,1,5,2
+2062,Chhattisgarh,Raipur,Siltara Phase, CECB,NH3,5,12,8
+2064,Chhattisgarh,Tumidih,OP Jindal Industrial Park, CECB,NH3,1,2,2
+2068,Delhi,Delhi,A0nd Vihar, DPCC,NH3,13,26,20
+2101,Delhi,Delhi,Pusa, DPCC,NH3,4,7,5
+2117,Gujarat,Ahmedabad,Gyaspur, IITM,NH3,3,4,3
+2122,Gujarat,Ahmedabad,SAC ISRO Bopal, IITM,NH3,4,5,5
+2153,Harya0,Kaithal,Rishi 0gar, HSPCB,NH3,8,8,8
+2156,Harya0,Mandikhera,General Hospital, HSPCB,NH3,18,21,19
+2157,Harya0,Palwal,Shyam 0gar, HSPCB,NH3,2,3,3
+2183,Kar0taka,Chikkaballapur,Chikkaballapur Rural, KSPCB,NH3,1,1,1
+2196,Kar0taka,Hubballi,Deshpande 0gar, KSPCB,NH3,8,13,11
+2198,Kar0taka,Kalaburagi,Lal Bahadur Shastri 0gar, KSPCB,NH3,2,2,2
+2205,Kar0taka,Raichur,Haji Colony, KSPCB,NH3,1,3,2
+2208,Kar0taka,Shivamogga,Vinoba 0gara, KSPCB,NH3,2,5,3
+2212,Kar0taka,Yadgir,Collector Office, KSPCB,NH3,1,1,1
+2218,Kerala,Kochi,Vyttila, Kerala PCB,NH3,2,3,3
+2223,Madhya Pradesh,Bhopal,T T 0gar, MPPCB,NH3,1,4,3
+2227,Madhya Pradesh,Dewas,Bhopal Chauraha, MPPCB,NH3,3,3,3
+2236,Madhya Pradesh,Gwalior,Maharaj Bada, MPPCB,NH3,12,23,16
+2240,Madhya Pradesh,Indore,Maguda 0gar, IMC,NH3,0,0,0
+2243,Madhya Pradesh,Jabalpur,Gupteshwar, JMC,NH3,3,8,6
+2248,Madhya Pradesh,Katni,Gole Bazar, MPPCB,NH3,5,9,6
+2268,Maharashtra,Aurangabad,More Chowk Waluj, MPCB,NH3,1,1,1
+2275,Maharashtra,Bhiwandi,Gokul 0gar, MPCB,NH3,3,6,4
+2277,Maharashtra,Chandrapur,Chauhan Colony, MPCB,NH3,2,5,3
+2298,Maharashtra,Mumbai,Byculla, BMC,NH3,1,4,2
+2315,Maharashtra,Mumbai,Kurla, MPCB,NH3,4,11,5
+2317,Maharashtra,Mumbai,Malad West, IITM,NH3,2,4,3
+2323,Maharashtra,Mumbai,Mulund West, MPCB,NH3,8,9,8
+2326,Maharashtra,Mumbai,Sewri, BMC,NH3,2,25,12
+2329,Maharashtra,Mumbai,Shivaji 0gar, BMC,NH3,2,8,6
+2331,Maharashtra,0gpur,Ambazari, MPCB,NH3,1,4,3
+2336,Maharashtra,0shik,Hirawadi, MPCB,NH3,1,2,1
+2344,Maharashtra,0vi Mumbai,Sanpada, MPCB,NH3,8,28,16
+2347,Maharashtra,0vi Mumbai,Tondare, MPCB,NH3,3,9,6
+2372,Maharashtra,Thane,Upvan Fort, MPCB,NH3,0,0,0
+2379,Meghalaya,Shillong,JN Stadium, Meghalaya PCB,NH3,2,4,3
+2387,Odisha,Balasore,Kalidaspur, OSPCB,NH3,3,14,7
+2400,Odisha,0yagarh,Dabu0, OSPCB,NH3,4,6,5
+2403,Odisha,Rourkela,Raghu0thpali, OSPCB,NH3,1,3,2
+2406,Odisha,Suakati,OMC Colony, OSPCB,NH3,0,0,0
+2408,Puducherry,Puducherry,Jawahar 0gar, PPCC,NH3,1,2,2
+2411,Punjab,Jalandhar,Civil Line, PPCB,NH3,9,9,9
+2414,Rajasthan,Ajmer,Civil Lines, RSPCB,NH3,11,38,19
+2435,Rajasthan,Jaipur,Adarsh 0gar, RSPCB,NH3,1,14,7
+2437,Rajasthan,Jaipur,Police Commissionerate, RSPCB,NH3,8,43,19
+2442,Rajasthan,Jaisalmer,Sadar Bazar, RSPCB,NH3,9,14,12
+2450,Rajasthan,Jodhpur,Jhalamand, RSPCB,NH3,8,13,11
+2464,Rajasthan,Sawai Madhopur,Sahu 0gar, RSPCB,NH3,7,7,7
+2470,Rajasthan,Sirohi,Vedhay0th Colony, RSPCB,NH3,6,10,8
+2477,Tamil0du,Chen0i,Alandur Bus Depot, CPCB,NH3,6,12,7
+2493,Tamil0du,Tirupur,Kumaran College, TNPCB,NH3,0,0,0
+2495,Telanga0,Hyderabad,Central University, TSPCB,NH3,2,10,6
+2502,Telanga0,Hyderabad,Kokapet, TSPCB,NH3,1,2,1
+2504,Telanga0,Hyderabad,Kompally Municipal Office, TSPCB,NH3,5,6,5
+2522,Uttar_Pradesh,Bareilly,Civil Lines, UPPCB,NH3,1,4,2
+2525,Uttar_Pradesh,Firozabad,0gla Bhau, UPPCB,NH3,2,2,2
+2526,Uttar_Pradesh,Firozabad,Vibhab 0gar, UPPCB,NH3,2,2,2
+2553,Uttar_Pradesh,Lucknow,Kendriya Vidyalaya, CPCB,NH3,2,15,10
+2572,Uttar_Pradesh,Noida,Sector , UPPCB,NH3,6,8,7
+2576,Uttar_Pradesh,Noida,Sector, UPPCB,NH3,0,0,0
+2578,Uttar_Pradesh,Noida,Sector, UPPCB,NH3,8,17,12
+2581,Uttar_Pradesh,Prayagraj,0gar Nigam, UPPCB,NH3,8,12,10
+2583,Uttar_Pradesh,Vara0si,IESD Ba0ras Hindu University, UPPCB,NH3,1,4,2
+2602,West_Bengal,Howrah,Padmapukur, WBPCB,NH3,2,3,2
+2606,West_Bengal,Kolkata,Bidhan0gar, WBPCB,NH3,10,25,16
+2618,Andhra_Pradesh,Amaravati,Secretariat, APPCB,NH3,2,4,4
+2621,Andhra_Pradesh,Kadapa,Yerramukkapalli, APPCB,NH3,0,0,0
+2628,Andhra_Pradesh,Vijayawada,HB Colony, APPCB,NH3,4,5,4
+2641,Bihar,Arrah,New DM Office, BSPCB,NH3,6,14,8
+2646,Bihar,Bhagalpur,Mayaganj, BSPCB,NH3,8,9,8
+2653,Bihar,Gaya,Kareemganj, BSPCB,NH3,1,5,3
+2656,Bihar,Gaya,SFTI Kusdihra, BSPCB,NH3,3,5,4
+2657,Bihar,Hajipur,Industrial Area, BSPCB,NH3,13,17,16
+2679,Bihar,Pat0,Samanpura, BSPCB,NH3,1,3,3
+2681,Bihar,Purnia,Mariam 0gar, BSPCB,NH3,4,7,5
+2695,Chhattisgarh,Bhilai,32Bungalows, CECB,NH3,6,6,6
+2696,Chhattisgarh,Bhilai,Civic Center, Bhilai Steel Plant,NH3,0,0,0
+2698,Chhattisgarh,Chhal,0wapara SECL Colony, CECB,NH3,2,3,3
+2702,Chhattisgarh,Milupara,Govt. Higher Secondary School, CECB,NH3,1,2,2
+2717,Delhi,Delhi,Bawa0, DPCC,NH3,11,18,14
+2724,Delhi,Delhi,ITO, CPCB,NH3,4,12,8
+2732,Delhi,Delhi,Mundka, DPCC,NH3,13,23,17
+2753,Delhi,Delhi,Sonia Vihar, DPCC,NH3,10,17,13
+2757,Gujarat,Ahmedabad,Chandkheda, IITM,NH3,3,3,3
+2759,Gujarat,Ahmedabad,Raikhad, IITM,NH3,5,5,5
+2762,Gujarat,Ahmedabad,Rakhial, IITM,NH3,2,10,7
+2770,Gujarat,Ahmedabad,SVPI Airport Hansol, IITM,NH3,4,4,4
+2772,Gujarat,Gandhi0gar,GIFT City, IITM,NH3,2,4,2
+2774,Gujarat,Vapi,Phase, GPCB,NH3,6,6,6
+2777,Gujarat,Vatva,Phase, GPCB,NH3,1,1,1
+2779,Harya0,Ambala,Patti Mehar, HSPCB,NH3,5,12,8
+2780,Harya0,Bahadurgarh,Arya 0gar, HSPCB,NH3,10,12,11
+2782,Harya0,Bhiwani,H.B. Colony, HSPCB,NH3,5,6,6
+2784,Harya0,Charkhi Dadri,Mini Secretariat, HSPCB,NH3,4,6,6
+2787,Harya0,Faridabad,New Industrial Town, HSPCB,NH3,2,8,4
+2794,Harya0,Gurugram,Sector, HSPCB,NH3,7,14,9
+2797,Harya0,Gurugram,Teri Gram, HSPCB,NH3,29,42,34
+2803,Harya0,Hisar,Urban Estate, HSPCB,NH3,2,4,3
+2806,Harya0,Jind,Police Lines, HSPCB,NH3,2,5,4
+2816,Harya0,Manesar,Sector, HSPCB,NH3,1,7,4
+2819,Harya0,Panipat,Sector, HSPCB,NH3,2,3,2
+2833,Kar0taka,Bengaluru,BTM Layout, CPCB,NH3,2,4,3
+2838,Kar0taka,Bengaluru,Hombegowda 0gar, KSPCB,NH3,2,2,2
+2843,Kar0taka,Bengaluru,Peenya, CPCB,NH3,4,5,4
+2852,Kar0taka,Chamaraja0gar,Urban, KSPCB,NH3,1,2,2
+2855,Kar0taka,Dava0gere,Devaraj Urs Badavane, KSPCB,NH3,1,1,1
+2859,Kar0taka,Gadag,Panchal 0gar, KSPCB,NH3,2,3,2
+2869,Kar0taka,Kalaburagi,Mahatma Basaveswar Colony, KSPCB,NH3,2,4,3
+2874,Kar0taka,Koppal,Diwator 0gar, KSPCB,NH3,5,10,8
+2877,Kar0taka,Mangalore,Kadri, KSPCB,NH3,1,3,2
+2878,Kar0taka,Mysuru,Hebbal 1st Stage, KSPCB,NH3,1,4,2
+2898,Kerala,Thiruva0nthapuram,Plammoodu, Kerala PCB,NH3,1,2,2
+2935,Maharashtra,Ahmed0gar,Tarakpur, MPCB,NH3,0,0,0
+2937,Maharashtra,Akola,Ramdaspeth, MPCB,NH3,4,13,8
+2942,Maharashtra,Badlapur,Katrap, MPCB,NH3,1,5,3
+2948,Maharashtra,Jal0,Old MIDC, MPCB,NH3,6,8,7
+2957,Maharashtra,Mira-Bhayandar,Bhayandar West, MPCB,NH3,4,9,6
+2960,Maharashtra,Mumbai,Borivali East, MPCB,NH3,1,2,1
+2963,Maharashtra,Mumbai,Chhatrapati Shivaji Intl. Airport (T2), MPCB,NH3,4,9,7
+2965,Maharashtra,Mumbai,Ghatkopar, BMC,NH3,1,2,1
+2979,Maharashtra,Mumbai,Powai, MPCB,NH3,1,2,1
+2992,Maharashtra,0gpur,Mahal, MPCB,NH3,4,15,8
+2994,Maharashtra,0gpur,Opp GPO Civil Lines, MPCB,NH3,3,8,4
+2998,Maharashtra,0shik,Gangapur Road, MPCB,NH3,0,0,0
+3004,Maharashtra,0vi Mumbai,Nerul, MPCB,NH3,5,9,7
+3021,Maharashtra,Pune,Savitribai Phule Pune University, MPCB,NH3,2,9,6
+3023,Maharashtra,Sangli,Vijay 0gar, MPCB,NH3,1,10,5
+3025,Maharashtra,Solapur,Ratandeep Housing Society, MPCB,NH3,9,19,12
+3027,Maharashtra,Thane,Kasarvadavali, MPCB,NH3,0,0,0
+3031,Maharashtra,Ulhas0gar,Sidhi Vi0yak 0gar, MPCB,NH3,1,4,2
+3034,Manipur,Imphal,DM College of Science, Manipur PCB,NH3,2,2,2
+3040,Mizoram,Aizawl,Sikulpuikawn, Mizoram PCB,NH3,1,7,3
+3051,Odisha,Bhubaneswar,Patia, OSPCB,NH3,4,7,6
+3062,Odisha,Talcher,Talcher Coalfields, OSPCB,NH3,7,7,7
+3067,Punjab,Amritsar,Golden Temple, PPCB,NH3,8,9,9
+3078,Punjab,Patiala,Model Town, PPCB,NH3,7,8,8
+3100,Rajasthan,Dausa,Khatikan Mohalla, RSPCB,NH3,1,2,1
+3105,Rajasthan,Hanumangarh,Housing Board, RSPCB,NH3,17,20,4
+3115,Rajasthan,Jaipur,RIICO Sitapura, RSPCB,NH3,0,0,0
+3135,Rajasthan,Kota,Shri0th Puram, RSPCB,NH3,6,10,8
+3138,Rajasthan,Pali,Indira Colony Vistar, RSPCB,NH3,3,7,5
+3143,Rajasthan,Rajsamand,Dhoinda, RSPCB,NH3,3,6,4
+3147,Rajasthan,Sri Ganga0gar,Old City, RSPCB,NH3,10,75,31
+3152,Sikkim,Gangtok,Zero Point GICI, SSPCB,NH3,1,1,1
+3162,Tamil0du,Chen0i,Gandhi 0gar_Ennore, TNPCB,NH3,1,1,1
+3167,Tamil0du,Chen0i,Ma0li, CPCB,NH3,4,9,6
+3170,Tamil0du,Chen0i,Perungudi, TNPCB,NH3,1,2,2
+3174,Tamil0du,Cuddalore,Kudikadu, TNPCB,NH3,4,4,4
+3175,Tamil0du,Gummidipoondi,Anthoni Pillai 0gar, TNPCB,NH3,3,3,3
+3183,Tamil0du,Salem,So0 College of Technology, TNPCB,NH3,0,0,0
+3190,Telanga0,Hyderabad,ICRISAT Patancheru, TSPCB,NH3,2,2,2
+3202,Telanga0,Hyderabad,Ramachandrapuram, TSPCB,NH3,2,2,2
+3206,Telanga0,Hyderabad,Somajiguda, TSPCB,NH3,7,8,7
+3215,Uttar_Pradesh,Agra,Rohta, UPPCB,NH3,1,2,2
+3230,Uttar_Pradesh,Bareilly,Rajendra 0gar, UPPCB,NH3,1,1,1
+3234,Uttar_Pradesh,Bulandshahr,Yamu0puram, UPPCB,NH3,14,23,17
+3237,Uttar_Pradesh,Ghaziabad,Indirapuram, UPPCB,NH3,12,19,15
+3251,Uttar_Pradesh,Kanpur,FTI Kidwai 0gar, UPPCB,NH3,4,7,5
+3262,Uttar_Pradesh,Lucknow,Kukrail Picnic Spot, UPPCB,NH3,2,2,2
+3270,Uttar_Pradesh,Meerut,Jai Bhim 0gar, UPPCB,NH3,10,22,14
+3277,Uttar_Pradesh,Moradabad,Kashiram 0gar, UPPCB,NH3,3,4,4
+3293,Uttarakhand,Kashipur,Govt. Girls Inter College, UKPCB,NH3,9,13,10
+3302,West_Bengal,Durgapur,Sidhu Kanhu Indoor Stadium, WBPCB,NH3,4,5,4
+3312,West_Bengal,Kolkata,Rabindra Sarobar, WBPCB,NH3,2,21,8
+3315,West_Bengal,Siliguri,Ward, WBPCB,NH3,6,22,14
+16,Assam,0lbari,Bata Chowk, PCBA,NO2,39,62,49
+28,Bihar,Gaya,Kareemganj, BSPCB,NO2,30,31,30
+35,Bihar,Motihari,Gandak Colony, BSPCB,NO2,86,135,105
+43,Bihar,Pat0,DRM Office Da0pur, BSPCB,NO2,9,94,41
+47,Bihar,Pat0,Muradpur, BSPCB,NO2,22,195,54
+56,Bihar,Siwan,Chitragupta 0gar, BSPCB,NO2,16,117,43
+62,Chandigarh,Chandigarh,Sector 22, CPCC,NO2,8,58,29
+63,Chhattisgarh,Bhilai,32Bungalows, CECB,NO2,20,33,25
+68,Chhattisgarh,Chhal,0wapara SECL Colony, CECB,NO2,0,0,0
+69,Chhattisgarh,Korba,Urja 0gar, CECB,NO2,65,90,75
+70,Chhattisgarh,Kunjemura,OP Jindal School, CECB,NO2,33,155,70
+73,Chhattisgarh,Raipur,AIIMS, CECB,NO2,64,89,76
+77,Chhattisgarh,Raipur,Krishak 0gar, CECB,NO2,26,47,38
+79,Chhattisgarh,Tumidih,OP Jindal Industrial Park, CECB,NO2,9,52,22
+80,Delhi,Delhi,Alipur, DPCC,NO2,31,83,56
+88,Delhi,Delhi,CRRI Mathura Road, IMD,NO2,25,31,28
+89,Delhi,Delhi,DTU, CPCB,NO2,39,149,96
+105,Delhi,Delhi,0jafgarh, DPCC,NO2,9,22,13
+109,Delhi,Delhi,0rela, DPCC,NO2,18,55,30
+114,Delhi,Delhi,Okhla Phase, DPCC,NO2,79,148,113
+122,Delhi,Delhi,Sirifort, CPCB,NO2,67,195,159
+127,Gujarat,Ahmedabad,Gyaspur, IITM,NO2,1,7,3
+131,Gujarat,Ahmedabad,Rakhial, IITM,NO2,6,17,9
+136,Gujarat,Ahmedabad,SVPI Airport Hansol, IITM,NO2,10,10,10
+137,Gujarat,Ahmedabad,Sardar Vallabhbhai Patel Stadium, IITM,NO2,12,13,13
+145,Gujarat,Surat,Science Center, SMC,NO2,7,15,11
+148,Gujarat,Vatva,Phase, GPCB,NO2,13,149,57
+160,Harya0,Faridabad,Sector 30, HSPCB,NO2,30,33,31
+165,Harya0,Fatehabad,Huda Sector, HSPCB,NO2,28,31,30
+169,Harya0,Gurugram,Teri Gram, HSPCB,NO2,16,72,41
+175,Harya0,Kaithal,Rishi 0gar, HSPCB,NO2,24,26,25
+186,Harya0,Panchkula,Sector, HSPCB ,NO2,28,30,29
+191,Harya0,Sirsa,F, HSPCB,NO2,10,10,10
+201,Kar0taka,Bengaluru,Hebbal, KSPCB,NO2,0,0,0
+209,Kar0taka,Bengaluru,RVCE, KSPCB,NO2,31,31,31
+212,Kar0taka,Chamaraja0gar,Urban, KSPCB,NO2,24,29,29
+214,Kar0taka,Chikkaballapur,Chikkaballapur Rural, KSPCB,NO2,8,18,11
+220,Kar0taka,Kalaburagi,Lal Bahadur Shastri 0gar, KSPCB,NO2,11,12,11
+231,Kar0taka,Mysuru,Hebbal 1st Stage, KSPCB,NO2,10,55,29
+240,Kerala,Eloor,Udyogamandal, Kerala PCB,NO2,5,6,5
+243,Kerala,Thiruva0nthapuram,Kariavattom, Kerala PCB,NO2,8,9,9
+263,Madhya Pradesh,Jabalpur,Marhatal, MPPCB,NO2,43,132,76
+264,Madhya Pradesh,Katni,Gole Bazar, MPPCB,NO2,4,150,59
+269,Madhya Pradesh,Ratlam,Shasthri 0gar, IPCA Lab,NO2,9,94,39
+284,Maharashtra,Aurangabad,MIDC Chilkaltha0, MPCB,NO2,10,157,66
+288,Maharashtra,Aurangabad,More Chowk Waluj, MPCB,NO2,31,34,32
+290,Maharashtra,Badlapur,Katrap, MPCB,NO2,44,108,62
+292,Maharashtra,Bhiwandi,Gokul 0gar, MPCB,NO2,42,129,75
+296,Maharashtra,Kalyan,Khadakpada, MPCB,NO2,18,193,50
+301,Maharashtra,Mahad,Kamble Tarf Birwadi, MPCB,NO2,13,58,28
+315,Maharashtra,Mumbai,Byculla, BMC,NO2,25,62,41
+320,Maharashtra,Mumbai,Colaba, MPCB,NO2,20,43,29
+323,Maharashtra,Mumbai,Ghatkopar, BMC,NO2,26,37,33
+336,Maharashtra,Mumbai,Mulund West, MPCB,NO2,25,35,30
+344,Maharashtra,Mumbai,Siddharth 0gar, IITM,NO2,28,120,60
+347,Maharashtra,Mumbai,Vasai West, MPCB,NO2,26,29,27
+352,Maharashtra,Mumbai,Worli, MPCB,NO2,16,18,18
+364,Maharashtra,0vi Mumbai,Sanpada, MPCB,NO2,5,27,18
+366,Maharashtra,0vi Mumbai,Tondare, MPCB,NO2,32,122,80
+375,Maharashtra,Pune,Karve Road, MPCB,NO2,2,2,2
+379,Maharashtra,Sangli,Vijay 0gar, MPCB,NO2,21,90,42
+381,Maharashtra,Solapur,Dnyaneshwar 0gar, MPCB,NO2,16,179,59
+386,Maharashtra,Thane,Pimpleshwar Mandir, MPCB,NO2,2,82,28
+388,Maharashtra,Virar,Bolinj, MPCB,NO2,16,107,41
+392,Manipur,Imphal,DM College of Science, Manipur PCB,NO2,8,8,8
+403,Odisha,Bhubaneswar,Patia, OSPCB,NO2,14,92,42
+406,Odisha,Byasa0gar,Ferro Chrome Colony, OSPCB,NO2,12,32,19
+409,Odisha,Keonjhar,Jagamohanpur, OSPCB,NO2,16,85,54
+412,Odisha,Rourkela,Fertilizer Township, OSPCB,NO2,14,22,18
+414,Odisha,Rourkela,Raghu0thpali, OSPCB,NO2,12,111,33
+426,Punjab,Khan0,Kalal Majra, PPCB,NO2,29,34,32
+436,Rajasthan,Banswara,Rati Talai, RSPCB,NO2,2,29,15
+444,Rajasthan,Bharatpur,Krish0 0gar, RSPCB,NO2,0,0,0
+457,Rajasthan,Jaipur,RIICO Sitapura, RSPCB,NO2,0,0,0
+459,Rajasthan,Jaipur,Shastri 0gar, RSPCB,NO2,34,159,94
+462,Rajasthan,Jhalawar,Rajlaxmi 0gar, RSPCB,NO2,13,89,29
+467,Rajasthan,Jodhpur,Jhalamand, RSPCB,NO2,19,150,59
+471,Rajasthan,Jodhpur,Samrat Ashok Udhyan, RSPCB,NO2,16,160,76
+485,Rajasthan,Pali,Indira Colony Vistar, RSPCB,NO2,18,32,24
+488,Rajasthan,Sikar,Radhakishan Pura, RSPCB,NO2,15,74,37
+496,Tamil0du,Chen0i,Alandur Bus Depot, CPCB,NO2,30,138,51
+505,Tamil0du,Coimbatore,PSG College of Arts and Science, TNPCB,NO2,0,0,0
+513,Telanga0,Hyderabad,Central University, TSPCB,NO2,14,59,33
+527,Telanga0,Hyderabad,Zoo Park, TSPCB,NO2,31,59,45
+530,Uttar_Pradesh,Agra,Manoharpur, UPPCB,NO2,8,9,9
+533,Uttar_Pradesh,Agra,Sanjay Palace, UPPCB,NO2,36,131,79
+535,Uttar_Pradesh,Agra,Shahjahan Garden, UPPCB,NO2,23,93,30
+555,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,NO2,59,123,88
+561,Uttar_Pradesh,Jhansi,Shivaji 0gar, UPPCB,NO2,13,106,37
+564,Uttar_Pradesh,Kanpur,NSI Kalyanpur, UPPCB,NO2,14,29,18
+567,Uttar_Pradesh,Lucknow,Kendriya Vidyalaya, UPPCB,NO2,7,25,15
+575,Uttar_Pradesh,Meerut,Pallavpuram Phase 2, UPPCB,NO2,18,61,35
+578,Uttar_Pradesh,Moradabad,Buddhi Vihar, UPPCB,NO2,17,24,23
+591,Uttar_Pradesh,Noida,Sector , IMD,NO2,30,85,45
+593,Uttar_Pradesh,Noida,Sector, UPPCB,NO2,0,0,0
+603,Uttar_Pradesh,Vara0si,Ardhali Bazar, UPPCB,NO2,26,44,34
+608,Uttar_Pradesh,Vara0si,IESD Ba0ras Hindu University, UPPCB,NO2,2,2,2
+619,West_Bengal,Durgapur,Sidhu Kanhu Indoor Stadium, WBPCB,NO2,19,64,30
+624,West_Bengal,Kolkata,Ballygunge, WBPCB,NO2,31,137,78
+626,West_Bengal,Kolkata,Bidhan0gar, WBPCB,NO2,16,59,36
+638,Andhra_Pradesh,Kadapa,Yerramukkapalli, APPCB,NO2,12,23,15
+642,Andhra_Pradesh,Tirupati,Vaikuntapuram, APPCB,NO2,16,31,21
+651,Assam,Guwahati,IITG, PCBA,NO2,1,15,7
+652,Assam,Guwahati,LGBI Airport, PCBA,NO2,0,0,0
+656,Assam,Guwahati,Railway Colony, PCBA,NO2,0,0,0
+670,Bihar,Bhagalpur,Mayaganj, BSPCB,NO2,6,33,14
+681,Bihar,Katihar,Mirchaibari, BSPCB,NO2,26,41,33
+685,Bihar,Manguraha,Forest Rest House, BSPCB,NO2,0,0,0
+687,Bihar,Munger,Town Hall, BSPCB,NO2,0,0,0
+690,Bihar,Pat0,Govt. High School Shikarpur, BSPCB,NO2,12,29,20
+692,Bihar,Pat0,IGSC Planetarium Complex, BSPCB,NO2,9,9,9
+695,Bihar,Pat0,Rajbansi 0gar, BSPCB,NO2,0,0,0
+727,Delhi,Delhi,A0nd Vihar, DPCC,NO2,35,124,86
+737,Delhi,Delhi,ITO, CPCB,NO2,19,104,62
+741,Delhi,Delhi,Major Dhyan Chand 0tio0l Stadium, DPCC,NO2,3,28,13
+743,Delhi,Delhi,Mandir Marg, DPCC,NO2,47,76,61
+746,Delhi,Delhi,Mundka, DPCC,NO2,28,107,66
+756,Delhi,Delhi,North Campus, IMD,NO2,0,0,0
+782,Gujarat,Ahmedabad,Mani0gar, GPCB,NO2,24,143,68
+797,Harya0,Bahadurgarh,Arya 0gar, HSPCB,NO2,33,40,37
+823,Himachal Pradesh,Baddi,HIMUDA Complex Phase, HPPCB,NO2,21,97,55
+841,Kar0taka,Bengaluru,Jaya0gar 5th Block, KSPCB,NO2,10,13,11
+848,Kar0taka,Bengaluru,Shivapura_Peenya, KSPCB,NO2,15,16,15
+852,Kar0taka,Bengaluru,Silk Board, KSPCB,NO2,18,27,22
+863,Kar0taka,Dharwad,Kalabhavan, KSPCB,NO2,1,33,20
+868,Kar0taka,Hubballi,Deshpande 0gar, KSPCB,NO2,26,29,27
+869,Kar0taka,Hubballi,Lingaraj 0gar, KSPCB,NO2,16,16,16
+871,Kar0taka,Karwar,KHB Colony, KSPCB,NO2,6,13,9
+883,Kar0taka,Shivamogga,Vinoba 0gara, KSPCB,NO2,12,29,15
+893,Kerala,Thiruva0nthapuram,Plammoodu, Kerala PCB,NO2,9,14,12
+900,Madhya Pradesh,Damoh,Shrivastav Colony, MPPCB,NO2,6,7,7
+906,Madhya Pradesh,Indore,Chhoti Gwaltoli, MPPCB,NO2,53,175,100
+923,Madhya Pradesh,Sagar,Civil Lines, MPPCB,NO2,10,16,12
+930,Maharashtra,Akola,Ramdaspeth, MPCB,NO2,14,102,44
+932,Maharashtra,Amravati,Shivneri Colony, MPCB,NO2,15,113,65
+943,Maharashtra,Dhule,Deopur, MPCB,NO2,13,46,23
+952,Maharashtra,Kolhapur,Shivaji University, MPCB,NO2,2,12,6
+959,Maharashtra,Mira-Bhayandar,Bhayandar West, MPCB,NO2,13,71,44
+963,Maharashtra,Mumbai,Borivali East, IITM,NO2,62,127,89
+970,Maharashtra,Mumbai,Chhatrapati Shivaji Intl. Airport (T2), MPCB,NO2,0,0,0
+985,Maharashtra,Mumbai,0vy 0gar, IITM,NO2,21,106,62
+991,Maharashtra,Mumbai,Shivaji 0gar, BMC,NO2,60,205,123
+1008,Maharashtra,0shik,Gangapur Road, MPCB,NO2,6,16,10
+1009,Maharashtra,0shik,Hirawadi, MPCB,NO2,18,116,57
+1015,Maharashtra,0vi Mumbai,Kopripada, MPCB,NO2,43,205,131
+1019,Maharashtra,0vi Mumbai,Nerul, MPCB,NO2,30,61,47
+1023,Maharashtra,0vi Mumbai,Sector, MPCB,NO2,86,89,88
+1025,Maharashtra,Parbhani,Masoom Colony, MPCB,NO2,17,90,43
+1030,Maharashtra,Pune,Alandi, IITM,NO2,9,36,20
+1037,Maharashtra,Pune,Transport 0gar, IITM,NO2,18,22,21
+1045,Maharashtra,Thane,Kasarvadavali, MPCB,NO2,0,0,0
+1049,Maharashtra,Thane,Upvan Fort, MPCB,NO2,0,0,0
+1056,Meghalaya,Shillong,JN Stadium, Meghalaya PCB,NO2,11,55,32
+1078,Odisha,0yagarh,Dabu0, OSPCB,NO2,29,36,32
+1086,Odisha,Tensa,Barsua Iron Ore Mines, OSPCB,NO2,43,82,66
+1129,Rajasthan,Jhunjhunu,Indra 0gar, RSPCB,NO2,24,111,58
+1130,Rajasthan,Jodhpur,Collectorate, RSPCB,NO2,20,24,22
+1140,Rajasthan,Kota,Shri0th Puram, RSPCB,NO2,32,240,98
+1146,Rajasthan,Rajsamand,Dhoinda, RSPCB,NO2,17,76,34
+1152,Rajasthan,Sri Ganga0gar,Old City, RSPCB,NO2,33,140,88
+1164,Tamil0du,Chen0i,Perungudi, TNPCB,NO2,3,11,6
+1182,Tamil0du,Vellore,Vasanthapuram, TNPCB,NO2,5,24,13
+1183,Telanga0,Hyderabad,ECIL Kapra, TSPCB,NO2,9,14,11
+1186,Telanga0,Hyderabad,ICRISAT Patancheru, TSPCB,NO2,16,17,16
+1203,Uttar_Pradesh,Agra,Shastripuram, UPPCB,NO2,19,20,19
+1204,Uttar_Pradesh,Baghpat,Sardar Patel Inter College, UPPCB,NO2,43,84,61
+1211,Uttar_Pradesh,Firozabad,Vibhab 0gar, UPPCB,NO2,32,102,61
+1214,Uttar_Pradesh,Ghaziabad,Loni, UPPCB,NO2,17,96,61
+1219,Uttar_Pradesh,Hapur,A0nd Vihar, UPPCB,NO2,64,112,99
+1225,Uttar_Pradesh,Lucknow,Gomti 0gar, UPPCB,NO2,7,9,8
+1227,Uttar_Pradesh,Lucknow,Kukrail Picnic Spot, UPPCB,NO2,3,4,3
+1234,Uttar_Pradesh,Moradabad,Eco Herbal Park, UPPCB,NO2,15,56,28
+1240,Uttar_Pradesh,Moradabad,Kashiram 0gar, UPPCB,NO2,20,54,35
+1242,Uttar_Pradesh,Moradabad,Transport 0gar, UPPCB,NO2,30,79,50
+1244,Uttar_Pradesh,Muzaffar0gar,New Mandi, UPPCB,NO2,39,122,76
+1252,Uttar_Pradesh,Prayagraj,Motilal Nehru NIT, UPPCB,NO2,12,12,12
+1261,Uttarakhand,Rishikesh,Shivaji 0gar, UKPCB,NO2,10,20,14
+1269,West_Bengal,Howrah,Padmapukur, WBPCB,NO2,18,19,18
+1275,West_Bengal,Kolkata,Jadavpur, WBPCB,NO2,6,12,8
+1283,West_Bengal,Siliguri,Ward, WBPCB,NO2,27,95,59
+1286,Andhra_Pradesh,Chittoor,Gangineni Cheruvu, APPCB,NO2,6,22,14
+1294,Andhra_Pradesh,Vijayawada,Kanuru, APPCB,NO2,0,0,0
+1295,Andhra_Pradesh,Vijayawada,Rajiv Gandhi Park, APPCB,NO2,2,108,38
+1299,Aru0chal_Pradesh,0harlagun,0harlagun, APSPCB,NO2,2,2,2
+1302,Assam,Byrnihat,Central Academy for SFS, PCBA,NO2,34,110,66
+1313,Assam,Silchar,Tarapur, PCBA,NO2,23,31,26
+1314,Assam,Sivasagar,Girls College, PCBA,NO2,7,33,22
+1317,Bihar,Arrah,New DM Office, BSPCB,NO2,31,149,59
+1319,Bihar,Aurangabad,Gurdeo 0gar, BSPCB,NO2,6,21,12
+1326,Bihar,Gaya,Collectorate, BSPCB,NO2,15,19,17
+1348,Bihar,Purnia,Mariam 0gar, BSPCB,NO2,45,49,47
+1350,Bihar,Rajgir,Dangi Tola, BSPCB,NO2,7,40,16
+1367,Chhattisgarh,Bhilai,Civic Center, Bhilai Steel Plant,NO2,0,0,0
+1391,Delhi,Delhi,Dr. Karni Singh Shooting Range, DPCC,NO2,28,69,45
+1393,Delhi,Delhi,Dwarka, DPCC,NO2,24,70,40
+1396,Delhi,Delhi,IGI Airport (T3), IMD,NO2,16,40,26
+1424,Delhi,Delhi,Pusa, DPCC,NO2,36,106,67
+1427,Delhi,Delhi,Pusa, IMD,NO2,31,86,53
+1434,Delhi,Delhi,Sri Aurobindo Marg, DPCC,NO2,15,84,37
+1436,Delhi,Delhi,Wazirpur, DPCC,NO2,129,215,174
+1444,Gujarat,Ahmedabad,SAC ISRO Bopal, IITM,NO2,14,14,14
+1450,Gujarat,Ankleshwar,GIDC, GPCB,NO2,40,41,41
+1457,Gujarat,Gandhi0gar,IIPHG Lekawada, IITM,NO2,9,13,11
+1462,Gujarat,Gandhi0gar,Sector, GPCB,NO2,10,38,16
+1478,Harya0,Gurugram,Sector, HSPCB,NO2,13,81,31
+1490,Harya0,Palwal,Shyam 0gar, HSPCB,NO2,4,5,5
+1493,Harya0,Panipat,Sector, HSPCB,NO2,27,33,30
+1496,Harya0,Rohtak,MD University, HSPCB,NO2,31,40,36
+1497,Harya0,Sonipat,Murthal, HSPCB,NO2,37,44,40
+1499,Harya0,Yamu0 0gar,Gobind Pura, HSPCB,NO2,11,29,18
+1505,Jharkhand,Pathardih,Mohalbani Ghat, JSPCB,NO2,242,437,341
+1517,Kar0taka,Bengaluru,Hombegowda 0gar, KSPCB,NO2,32,38,35
+1525,Kar0taka,Bengaluru,Peenya, CPCB,NO2,19,31,24
+1546,Kar0taka,Madikeri,Stuart Hill, KSPCB,NO2,5,13,8
+1552,Kar0taka,Rama0gara,Vijay 0gar, KSPCB,NO2,2,21,7
+1557,Kar0taka,Vijayapura,Ibrahimpur, KSPCB,NO2,10,11,10
+1560,Kar0taka,Yadgir,Collector Office, KSPCB,NO2,5,11,7
+1564,Kerala,Kollam,Polayathode, Kerala PCB,NO2,8,9,8
+1585,Madhya Pradesh,Jabalpur,Govindh Bhavan Colony, JMC,NO2,7,29,15
+1594,Madhya Pradesh,Mandideep,Sector, MPPCB,NO2,42,151,98
+1601,Madhya Pradesh,Sagar,Deen Dayal 0gar, MPPCB,NO2,21,23,22
+1602,Madhya Pradesh,Singrauli,Suryakiran Bhawan NCL, MPPCB,NO2,9,36,19
+1604,Madhya Pradesh,Ujjain,Mahakaleshwar Temple, MPPCB,NO2,11,115,33
+1611,Maharashtra,Aurangabad,Rach0kar Colony, MPCB,NO2,27,152,85
+1626,Maharashtra,Kolhapur,Sinchan Bhavan, MPCB,NO2,31,103,59
+1635,Maharashtra,Mumbai,Bandra Kurla Complex, IITM,NO2,2,94,40
+1640,Maharashtra,Mumbai,Chakala, IITM,NO2,71,213,130
+1643,Maharashtra,Mumbai,Chembur, MPCB,NO2,40,136,82
+1647,Maharashtra,Mumbai,Kandivali West, BMC,NO2,31,139,70
+1651,Maharashtra,Mumbai,Khindipada, IITM,NO2,0,0,0
+1663,Maharashtra,Mumbai,Sion, MPCB,NO2,32,147,81
+1664,Maharashtra,Mumbai,Vile Parle West, MPCB,NO2,0,0,0
+1668,Maharashtra,0gpur,Mahal, MPCB,NO2,13,94,42
+1677,Maharashtra,0shik,MIDC Ambad, MPCB,NO2,40,106,69
+1680,Maharashtra,0shik,Pandav 0gari, MPCB,NO2,39,139,68
+1692,Maharashtra,Pimpri-Chinchwad,Thergaon, MPCB,NO2,22,180,107
+1698,Maharashtra,Pune,Revenue Colony, IITM,NO2,111,225,176
+1703,Maharashtra,Solapur,Solapur, MPCB,NO2,46,52,48
+1710,Maharashtra,Ulhas0gar,Sidhi Vi0yak 0gar, MPCB,NO2,14,115,40
+1721,Odisha,Balasore,Kalidaspur, OSPCB,NO2,5,67,20
+1730,Odisha,Brajraj0gar,GM Office, OSPCB,NO2,4,16,10
+1734,Odisha,Cuttack,CDA Area, OSPCB,NO2,13,84,42
+1740,Odisha,Talcher,Talcher Coalfields, OSPCB,NO2,47,56,51
+1754,Rajasthan,Ajmer,Civil Lines, RSPCB,NO2,15,59,29
+1768,Rajasthan,Churu,Subash Chowk, RSPCB,NO2,34,91,66
+1772,Rajasthan,Dholpur,Raja Ganj, RSPCB,NO2,21,62,40
+1777,Rajasthan,Hanumangarh,Housing Board, RSPCB,NO2,26,115,60
+1781,Rajasthan,Jaipur,Mansarovar Sector, RSPCB,NO2,20,165,102
+1785,Rajasthan,Jaipur,Sector, RSPCB,NO2,5,22,11
+1799,Rajasthan,Jodhpur,Digari Kalan, RSPCB,NO2,19,129,50
+1812,Rajasthan,Sawai Madhopur,Sahu 0gar, RSPCB,NO2,19,19,19
+1823,Tamil0du,Chen0i,Kodungaiyur, TNPCB,NO2,10,33,19
+1825,Tamil0du,Chen0i,Ma0li, CPCB,NO2,10,39,15
+1832,Tamil0du,Cuddalore,Kudikadu, TNPCB,NO2,6,9,8
+1842,Tamil0du,Salem,So0 College of Technology, TNPCB,NO2,0,0,0
+1854,Telanga0,Hyderabad,IITH Kandi, TSPCB,NO2,8,12,10
+1860,Telanga0,Hyderabad,0charam_TSIIC IALA, TSPCB,NO2,12,18,14
+1861,Telanga0,Hyderabad,New Malakpet, TSPCB,NO2,25,41,30
+1863,Telanga0,Hyderabad,Ramachandrapuram, TSPCB,NO2,8,12,11
+1866,Telanga0,Hyderabad,Somajiguda, TSPCB,NO2,26,43,31
+1878,Uttar_Pradesh,Bareilly,Rajendra 0gar, UPPCB,NO2,52,124,77
+1884,Uttar_Pradesh,Ghaziabad,Indirapuram, UPPCB,NO2,118,196,149
+1890,Uttar_Pradesh,Gorakhpur,Madan Mohan Malaviya University of Technology, UPPCB,NO2,2,2,2
+1896,Uttar_Pradesh,Kanpur,Nehru 0gar, UPPCB,NO2,2,123,50
+1897,Uttar_Pradesh,Khurja,Kalindi Kunj, UPPCB,NO2,43,74,50
+1903,Uttar_Pradesh,Lucknow,Talkatora District Industries Center, CPCB,NO2,40,60,49
+1905,Uttar_Pradesh,Meerut,Ganga 0gar, UPPCB,NO2,0,0,0
+1920,Uttar_Pradesh,Noida,Sector, UPPCB,NO2,47,139,85
+1921,Uttar_Pradesh,Prayagraj,Jhunsi, UPPCB,NO2,6,6,6
+1930,Uttar_Pradesh,Vara0si,Maldahiya, UPPCB,NO2,21,57,36
+1932,Uttar_Pradesh,Vrindavan,Omex Eternity, UPPCB,NO2,2,3,2
+1938,West_Bengal,Haldia,Priyambada Housing Estate, WBPCB,NO2,18,62,33
+1956,Andhra_Pradesh,Amaravati,Secretariat, APPCB,NO2,10,38,19
+1965,Andhra_Pradesh,Rajamahendravaram,A0nd Kala Kshetram, APPCB,NO2,15,65,28
+1970,Andhra_Pradesh,Vijayawada,HB Colony, APPCB,NO2,10,57,21
+1974,Andhra_Pradesh,Visakhapat0m,GVM Corporation, APPCB,NO2,30,84,59
+1985,Assam,Guwahati,Pan Bazaar, PCBA,NO2,1,5,2
+1998,Bihar,Bettiah,Kamal0th 0gar, BSPCB,NO2,0,0,0
+2000,Bihar,Bhagalpur,DM Office_Kachari Chowk, BSPCB,NO2,33,86,56
+2004,Bihar,Chhapra,Darshan 0gar, BSPCB,NO2,14,22,17
+2008,Bihar,Hajipur,Industrial Area, BSPCB,NO2,31,93,52
+2011,Bihar,Kishanganj,SDM Office_Khagra, BSPCB,NO2,36,50,41
+2021,Bihar,Muzaffarpur,MIT, BSPCB,NO2,5,8,7
+2029,Bihar,Pat0,Samanpura, BSPCB,NO2,20,33,24
+2032,Bihar,Samastipur,DM Office_Kasipur, BSPCB,NO2,2,6,4
+2034,Chandigarh,Chandigarh,Sector 22, CPCC,NO2,34,135,73
+2039,Chandigarh,Chandigarh,Sector, CPCC,NO2,1,6,3
+2044,Chhattisgarh,Bhilai,Hathkhoj, CECB,NO2,52,90,68
+2046,Chhattisgarh,Bilaspur,Mangala, NTPC,NO2,0,0,0
+2047,Chhattisgarh,Korba,Rampur, CECB,NO2,36,64,47
+2053,Chhattisgarh,Milupara,Govt. Higher Secondary School, CECB,NO2,13,57,25
+2056,Chhattisgarh,Raipur,Bhatagaon New ISBT, CECB,NO2,0,0,0
+2061,Chhattisgarh,Raipur,Siltara Phase, CECB,NO2,16,32,24
+2072,Delhi,Delhi,Aya 0gar, IMD,NO2,22,61,33
+2076,Delhi,Delhi,Burari Crossing, IMD,NO2,18,28,24
+2086,Delhi,Delhi,IHBAS, CPCB,NO2,0,0,0
+2090,Delhi,Delhi,Jahangirpuri, DPCC,NO2,73,139,111
+2095,Delhi,Delhi,Nehru 0gar, DPCC,NO2,0,0,0
+2098,Delhi,Delhi,Patparganj, DPCC,NO2,51,119,82
+2100,Delhi,Delhi,Punjabi Bagh, DPCC,NO2,59,114,92
+2103,Delhi,Delhi,R K Puram, DPCC,NO2,25,132,71
+2113,Delhi,Delhi,Vivek Vihar, DPCC,NO2,22,79,42
+2116,Gujarat,Ahmedabad,Chandkheda, IITM,NO2,10,17,12
+2120,Gujarat,Ahmedabad,Raikhad, IITM,NO2,9,10,9
+2127,Gujarat,Gandhi0gar,GIFT City, IITM,NO2,6,8,7
+2133,Harya0,Ballabgarh,0thu Colony, HSPCB,NO2,11,13,12
+2137,Harya0,Charkhi Dadri,Mini Secretariat, HSPCB,NO2,7,15,12
+2139,Harya0,Dharuhera,Municipal Corporation Office,  HSPCB,NO2,45,110,72
+2142,Harya0,Faridabad,New Industrial Town, HSPCB,NO2,14,34,19
+2145,Harya0,Gurugram,NISE Gwal Pahari, IMD,NO2,40,41,40
+2147,Harya0,Gurugram,Vikas Sadan, HSPCB,NO2,5,27,14
+2154,Harya0,Kar0l,Sector, HSPCB,NO2,7,12,10
+2166,Jharkhand,Dhanbad,Kalakusuma, DMC,NO2,32,34,33
+2167,Jharkhand,Dhanbad,Sardar Patel 0gar, JSPCB,NO2,255,433,348
+2171,Kar0taka,Belgaum,Ramteerth 0gar, KSPCB,NO2,35,83,55
+2175,Kar0taka,Bengaluru,BTM Layout, CPCB,NO2,34,44,42
+2179,Kar0taka,Bengaluru,Kasturi 0gar, KSPCB,NO2,16,17,17
+2181,Kar0taka,Bengaluru,Sanegurava Halli, KSPCB,NO2,22,44,29
+2186,Kar0taka,Chikkamagaluru,Kalya0 0gara, KSPCB,NO2,17,30,22
+2189,Kar0taka,Dava0gere,Devaraj Urs Badavane, KSPCB,NO2,10,14,11
+2192,Kar0taka,Gadag,Panchal 0gar, KSPCB,NO2,3,24,13
+2193,Kar0taka,Haveri,Ashwini 0gar, KSPCB,NO2,29,48,34
+2203,Kar0taka,Mangalore,Kadri, KSPCB,NO2,3,10,5
+2204,Kar0taka,Raichur,Haji Colony, KSPCB,NO2,17,57,30
+2217,Kerala,Kochi,Vyttila, Kerala PCB,NO2,1,6,3
+2221,Madhya Pradesh,Bhopal,Paryavaran Parisar, MPPCB,NO2,35,117,70
+2226,Madhya Pradesh,Dewas,Bhopal Chauraha, MPPCB,NO2,11,13,12
+2235,Madhya Pradesh,Gwalior,Maharaj Bada, MPPCB,NO2,29,150,71
+2238,Madhya Pradesh,Gwalior,Phool Bagh, Mondelez Ind. Food,NO2,4,5,4
+2252,Madhya Pradesh,Pithampur,Sector, MPPCB,NO2,10,71,23
+2255,Madhya Pradesh,Sat0,Bandhavgar Colony, Birla Cement,NO2,18,97,47
+2273,Maharashtra,Belapur,CBD Belapur, MPCB,NO2,0,0,0
+2279,Maharashtra,Jalgaon,Prabhat Colony, MPCB,NO2,23,150,61
+2282,Maharashtra,Jal0,Old MIDC, MPCB,NO2,24,65,44
+2286,Maharashtra,Latur,Sawe Wadi, MPCB,NO2,22,176,52
+2293,Maharashtra,Mumbai,Bandra Kurla Complex, MPCB,NO2,38,96,68
+2297,Maharashtra,Mumbai,Borivali East, MPCB,NO2,5,47,16
+2309,Maharashtra,Mumbai,Kandivali East, MPCB,NO2,47,184,108
+2314,Maharashtra,Mumbai,Kurla, MPCB,NO2,14,78,34
+2319,Maharashtra,Mumbai,Mazgaon, IITM,NO2,29,94,46
+2322,Maharashtra,Mumbai,Mindspace, MPCB,NO2,3,155,50
+2324,Maharashtra,Mumbai,Powai, MPCB,NO2,23,54,31
+2340,Maharashtra,0vi Mumbai,Mahape, MPCB,NO2,37,39,38
+2359,Maharashtra,Pune,Bhosari, IITM,NO2,0,0,0
+2370,Maharashtra,Solapur,Ratandeep Housing Society, MPCB,NO2,24,139,60
+2380,Meghalaya,Shillong,Lumpyngngad, Meghalaya PCB,NO2,6,6,6
+2388,Odisha,Barbil,Forest Office, OSPCB,NO2,9,36,15
+2390,Odisha,Bhubaneswar,Lingraj Mandir, OSPCB,NO2,31,71,48
+2392,Odisha,Bileipada,Tata Township, OSPCB,NO2,4,17,9
+2416,Rajasthan,Alwar,Moti Doongri, RSPCB,NO2,41,64,52
+2419,Rajasthan,Baran,Bamboliya, RSPCB,NO2,26,68,40
+2421,Rajasthan,Barmer,Railway Colony, RSPCB,NO2,15,123,41
+2423,Rajasthan,Bhilwara,Pratap 0gar, RSPCB,NO2,26,100,51
+2431,Rajasthan,Dausa,Khatikan Mohalla, RSPCB,NO2,14,139,50
+2433,Rajasthan,Dungarpur,Bhoiwada, RSPCB,NO2,22,51,32
+2434,Rajasthan,Jaipur,Adarsh 0gar, RSPCB,NO2,11,107,56
+2451,Rajasthan,Jodhpur,Mandor, RSPCB,NO2,32,127,49
+2454,Rajasthan,Karauli,Satyawati Vihar, RSPCB,NO2,14,94,39
+2459,Rajasthan,0gaur,Karni Colony, RSPCB,NO2,24,89,36
+2461,Rajasthan,Pratapgarh,Pragati 0gar, RSPCB,NO2,24,59,32
+2469,Rajasthan,Sirohi,Vedhay0th Colony, RSPCB,NO2,10,93,48
+2474,Rajasthan,Udaipur,Ashok 0gar, RSPCB,NO2,43,170,97
+2482,Tamil0du,Gummidipoondi,Anthoni Pillai 0gar, TNPCB,NO2,6,8,7
+2487,Tamil0du,Rama0thapuram,Chalai Bazaar, TNPCB,NO2,0,0,0
+2491,Tamil0du,Tiruchirappalli,St Joseph College, TNPCB,NO2,0,0,0
+2492,Tamil0du,Tirupur,Kumaran College, TNPCB,NO2,8,55,21
+2499,Telanga0,Hyderabad,IDA Pashamylaram, TSPCB,NO2,101,138,118
+2501,Telanga0,Hyderabad,Kokapet, TSPCB,NO2,5,11,7
+2521,Uttar_Pradesh,Bareilly,Civil Lines, UPPCB,NO2,32,73,45
+2524,Uttar_Pradesh,Firozabad,0gla Bhau, UPPCB,NO2,22,24,23
+2529,Uttar_Pradesh,Ghaziabad,Sanjay 0gar, UPPCB,NO2,49,112,75
+2557,Uttar_Pradesh,Lucknow,Lalbagh, CPCB,NO2,25,92,52
+2560,Uttar_Pradesh,Meerut,Jai Bhim 0gar, UPPCB,NO2,25,117,59
+2566,Uttar_Pradesh,Moradabad,Jigar Colony, UPPCB,NO2,28,31,29
+2571,Uttar_Pradesh,Noida,Sector , UPPCB,NO2,154,208,181
+2586,Uttarakhand,Dehradun,Doon University, UKPCB,NO2,1,10,4
+2600,West_Bengal,Howrah,Ghusuri, WBPCB,NO2,18,27,25
+2610,West_Bengal,Kolkata,Rabindra Bharati University, WBPCB,NO2,22,23,22
+2613,West_Bengal,Kolkata,Rabindra Sarobar, WBPCB,NO2,7,139,74
+2616,West_Bengal,Kolkata,Victoria, WBPCB,NO2,1,18,7
+2619,Andhra_Pradesh,A0ntapur,Gulzarpet, APPCB,NO2,0,0,0
+2625,Andhra_Pradesh,Tirupati,Tirumala, APPCB,NO2,43,88,59
+2636,Assam,0gaon,Christianpatty, PCBA,NO2,12,21,17
+2639,Bihar,Araria,Kharahiya Basti, BSPCB,NO2,6,8,7
+2647,Bihar,Bihar Sharif,D M Colony, BSPCB,NO2,9,10,9
+2655,Bihar,Gaya,SFTI Kusdihra, BSPCB,NO2,12,33,21
+2667,Bihar,Muzaffarpur,Buddha Colony, BSPCB,NO2,0,0,0
+2669,Bihar,Muzaffarpur,Muzaffarpur Collectorate, BSPCB,NO2,15,33,26
+2687,Bihar,Saharsa,Police Line, BSPCB,NO2,5,8,7
+2690,Bihar,Sasaram,Dada Peer, BSPCB,NO2,8,26,14
+2714,Delhi,Delhi,Ashok Vihar, DPCC,NO2,40,70,53
+2716,Delhi,Delhi,Bawa0, DPCC,NO2,10,35,21
+2729,Delhi,Delhi,Jawaharlal Nehru Stadium, DPCC,NO2,25,101,40
+2730,Delhi,Delhi,Lodhi Road, IMD,NO2,12,16,14
+2734,Delhi,Delhi,NSIT Dwarka, CPCB,NO2,40,66,48
+2737,Delhi,Delhi,New Moti Bagh, MHUA,NO2,2,12,5
+2747,Delhi,Delhi,Rohini, DPCC,NO2,20,60,39
+2749,Delhi,Delhi,Shadipur, CPCB,NO2,47,83,63
+2752,Delhi,Delhi,Sonia Vihar, DPCC,NO2,0,0,0
+2767,Gujarat,Ahmedabad,SAC ISRO Satellite, IITM,NO2,11,13,12
+2778,Harya0,Ambala,Patti Mehar, HSPCB,NO2,7,21,13
+2781,Harya0,Bhiwani,H.B. Colony, HSPCB,NO2,7,11,9
+2790,Harya0,Faridabad,Sector, HSPCB,NO2,14,89,52
+2802,Harya0,Hisar,Urban Estate, HSPCB,NO2,6,10,8
+2805,Harya0,Jind,Police Lines, HSPCB,NO2,6,17,12
+2811,Harya0,Kurukshetra,Sector, HSPCB,NO2,17,20,19
+2813,Harya0,Mandikhera,General Hospital, HSPCB,NO2,16,21,19
+2815,Harya0,Manesar,Sector, HSPCB,NO2,15,22,18
+2831,Kar0taka,Bagalkot,Vidayagiri, KSPCB,NO2,15,17,17
+2835,Kar0taka,Bengaluru,Bapuji 0gar, KSPCB,NO2,9,12,11
+2842,Kar0taka,Bengaluru,Jigani, KSPCB,NO2,30,42,39
+2868,Kar0taka,Kalaburagi,Mahatma Basaveswar Colony, KSPCB,NO2,9,24,13
+2871,Kar0taka,Kolar,Tamaka Ind. Area, KSPCB,NO2,6,50,16
+2873,Kar0taka,Koppal,Diwator 0gar, KSPCB,NO2,4,29,17
+2883,Kar0taka,Udupi,Brahmagiri, KSPCB,NO2,11,14,14
+2888,Kerala,Kannur,Thavakkara, Kerala PCB,NO2,5,7,6
+2899,Kerala,Thrissur,Corporation Ground, Kerala PCB,NO2,9,11,10
+2900,Madhya Pradesh,Bhopal,Idgah Hills, MPPCB,NO2,17,60,34
+2906,Madhya Pradesh,Bhopal,T T 0gar, MPPCB,NO2,39,79,55
+2908,Madhya Pradesh,Gwalior,City Center, MPPCB,NO2,27,101,44
+2910,Madhya Pradesh,Gwalior,Deen Dayal 0gar, MPPCB,NO2,56,165,89
+2913,Madhya Pradesh,Indore,Maguda 0gar, IMC,NO2,0,0,0
+2915,Madhya Pradesh,Indore,Regio0l Park, IMC,NO2,23,59,36
+2917,Madhya Pradesh,Jabalpur,Gupteshwar, JMC,NO2,26,147,63
+2919,Madhya Pradesh,Jabalpur,Suhagi, JMC,NO2,4,7,6
+2922,Madhya Pradesh,Maihar,Sahilara, KJS Cements,NO2,14,14,14
+2934,Maharashtra,Ahmed0gar,Tarakpur, MPCB,NO2,0,0,0
+2938,Maharashtra,Amravati,Shri Shivaji Science College, MPCB,NO2,16,180,79
+2945,Maharashtra,Chandrapur,Chauhan Colony, MPCB,NO2,19,71,44
+2955,Maharashtra,Malegaon,Mahesh 0gar, MPCB,NO2,3,33,11
+2967,Maharashtra,Mumbai,Kherwadi_Bandra East, MPCB,NO2,44,136,97
+2971,Maharashtra,Mumbai,Malad West, IITM,NO2,13,29,19
+2980,Maharashtra,Mumbai,Sewri, BMC,NO2,25,152,93
+2990,Maharashtra,0gpur,Ambazari, MPCB,NO2,23,158,68
+2993,Maharashtra,0gpur,Opp GPO Civil Lines, MPCB,NO2,22,221,91
+2995,Maharashtra,0gpur,Ram 0gar, MPCB,NO2,31,163,68
+3011,Maharashtra,Pimpri-Chinchwad,Gavali0gar, MPCB,NO2,52,145,93
+3013,Maharashtra,Pimpri-Chinchwad,Park Street Wakad, MPCB,NO2,70,178,122
+3015,Maharashtra,Pune,Mhada Colony, IITM,NO2,58,150,94
+3020,Maharashtra,Pune,Savitribai Phule Pune University, MPCB,NO2,9,47,29
+3035,Manipur,Imphal,Manipur University, Manipur PCB,NO2,5,23,10
+3039,Mizoram,Aizawl,Sikulpuikawn, Mizoram PCB,NO2,0,0,0
+3042,0galand,Kohima,PWD Juction, NPCB,NO2,3,4,3
+3045,Odisha,Angul,Hakimapada, OSPCB,NO2,10,35,19
+3059,Odisha,Rourkela,Sector, OSPCB,NO2,33,34,33
+3060,Odisha,Suakati,OMC Colony, OSPCB,NO2,0,0,0
+3063,Puducherry,Puducherry,Jawahar 0gar, PPCC,NO2,6,28,16
+3066,Punjab,Amritsar,Golden Temple, PPCB,NO2,20,23,22
+3069,Punjab,Bathinda,Hardev 0gar, PPCB,NO2,32,34,33
+3070,Punjab,Jalandhar,Civil Line, PPCB,NO2,37,38,38
+3072,Punjab,Ludhia0,Punjab Agricultural University, PPCB,NO2,22,59,40
+3074,Punjab,Mandi Gobindgarh,RIMT University, PPCB,NO2,30,32,31
+3077,Punjab,Patiala,Model Town, PPCB,NO2,19,34,27
+3092,Rajasthan,Bhiwadi,RIICO Ind. Area III, RSPCB,NO2,6,47,15
+3093,Rajasthan,Bikaner,MM Ground, RSPCB,NO2,32,80,51
+3096,Rajasthan,Bundi,New Colony, RSPCB,NO2,20,108,41
+3098,Rajasthan,Chittorgarh,Shastri 0gar, RSPCB,NO2,24,72,48
+3113,Rajasthan,Jaipur,Police Commissionerate, RSPCB,NO2,8,49,30
+3121,Rajasthan,Jaisalmer,Sadar Bazar, RSPCB,NO2,25,129,71
+3123,Rajasthan,Jalore,Mudtra Sili, RSPCB,NO2,35,146,73
+3132,Rajasthan,Kota,Dhanmandi, RSPCB,NO2,24,127,66
+3133,Rajasthan,Kota,0yapura, RSPCB,NO2,30,116,60
+3149,Rajasthan,Tonk,Shastri 0gar, RSPCB,NO2,13,113,46
+3151,Sikkim,Gangtok,Zero Point GICI, SSPCB,NO2,1,15,4
+3159,Tamil0du,Chen0i,Arumbakkam, TNPCB,NO2,16,39,25
+3161,Tamil0du,Chen0i,Gandhi 0gar_Ennore, TNPCB,NO2,1,18,8
+3172,Tamil0du,Chen0i,Royapuram, TNPCB,NO2,8,42,19
+3177,Tamil0du,Ooty,Bombay Castel, TNPCB,NO2,2,26,9
+3184,Tamil0du,Thoothukudi,Meelavittan, TNPCB,NO2,5,11,8
+3195,Telanga0,Hyderabad,Kompally Municipal Office, TSPCB,NO2,8,12,10
+3203,Telanga0,Hyderabad,Sa0th0gar, TSPCB,NO2,22,26,25
+3209,Tripura,Agartala,Bardowali, Tripura SPCB,NO2,14,61,32
+3214,Uttar_Pradesh,Agra,Rohta, UPPCB,NO2,9,16,10
+3218,Uttar_Pradesh,Agra,Sector, UPPCB,NO2,51,258,99
+3233,Uttar_Pradesh,Bulandshahr,Yamu0puram, UPPCB,NO2,15,97,40
+3240,Uttar_Pradesh,Ghaziabad,Vasundhara, UPPCB,NO2,33,142,92
+3244,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,NO2,34,103,65
+3250,Uttar_Pradesh,Kanpur,FTI Kidwai 0gar, UPPCB,NO2,1,26,10
+3255,Uttar_Pradesh,Lucknow,B R Ambedkar University, UPPCB,NO2,11,12,12
+3274,Uttar_Pradesh,Moradabad,Employment Office, UPPCB,NO2,18,18,18
+3283,Uttar_Pradesh,Prayagraj,0gar Nigam, UPPCB,NO2,9,9,9
+3286,Uttar_Pradesh,Vara0si,Bhelupur, UPPCB,NO2,36,67,48
+3292,Uttarakhand,Kashipur,Govt. Girls Inter College, UKPCB,NO2,20,94,54
+3298,West_Bengal,Asansol,Asansol Court Area, WBPCB,NO2,24,100,58
+3299,West_Bengal,Barrackpore,SVSPA Campus, WBPCB,NO2,11,62,38
+3305,West_Bengal,Howrah,Belur Math, WBPCB,NO2,9,44,14
+3309,West_Bengal,Kolkata,Fort William, WBPCB,NO2,1,98,44
+4,Andhra_Pradesh,Tirupati,Tirumala, APPCB,OZONE,9,50,34
+10,Andhra_Pradesh,Vijayawada,Rajiv Gandhi Park, APPCB,OZONE,3,78,52
+14,Assam,Guwahati,IITG, PCBA,OZONE,1,18,8
+20,Bihar,Araria,Kharahiya Basti, BSPCB,OZONE,10,50,27
+22,Bihar,Aurangabad,Gurdeo 0gar, BSPCB,OZONE,1,76,28
+27,Bihar,Gaya,Collectorate, BSPCB,OZONE,50,76,58
+30,Bihar,Gaya,SFTI Kusdihra, BSPCB,OZONE,2,78,40
+32,Bihar,Katihar,Mirchaibari, BSPCB,OZONE,18,25,22
+34,Bihar,Kishanganj,SDM Office_Khagra, BSPCB,OZONE,17,50,31
+37,Bihar,Motihari,Gandak Colony, BSPCB,OZONE,29,63,37
+40,Bihar,Muzaffarpur,Buddha Colony, BSPCB,OZONE,17,73,49
+42,Bihar,Muzaffarpur,Muzaffarpur Collectorate, BSPCB,OZONE,16,74,39
+51,Bihar,Pat0,Samanpura, BSPCB,OZONE,7,46,23
+54,Bihar,Saharsa,Police Line, BSPCB,OZONE,2,8,6
+58,Bihar,Siwan,Chitragupta 0gar, BSPCB,OZONE,2,82,36
+65,Chhattisgarh,Bhilai,32Bungalows, CECB,OZONE,4,8,6
+75,Chhattisgarh,Raipur,Bhatagaon New ISBT, CECB,OZONE,4,44,20
+86,Delhi,Delhi,Aya 0gar, IMD,OZONE,31,60,48
+90,Delhi,Delhi,Dwarka, DPCC ,OZONE,1,36,16
+99,Delhi,Delhi,Major Dhyan Chand 0tio0l Stadium, DPCC,OZONE,1,68,26
+107,Delhi,Delhi,0jafgarh, DPCC,OZONE,1,54,29
+115,Delhi,Delhi,Okhla Phase, DPCC,OZONE,10,86,41
+119,Delhi,Delhi,R K Puram, DPCC,OZONE,8,153,71
+130,Gujarat,Ahmedabad,Raikhad, IITM,OZONE,13,14,14
+132,Gujarat,Ahmedabad,SAC ISRO Bopal, IITM,OZONE,2,3,2
+135,Gujarat,Ahmedabad,SAC ISRO Satellite, IITM,OZONE,2,40,22
+140,Gujarat,Ankleshwar,GIDC, GPCB,OZONE,20,41,32
+143,Gujarat,Gandhi0gar,Sector, GPCB,OZONE,10,29,29
+147,Gujarat,Vapi,Phase, GPCB,OZONE,1,8,4
+150,Gujarat,Vatva,Phase, GPCB,OZONE,4,51,26
+156,Harya0,Ballabgarh,0thu Colony, HSPCB,OZONE,4,47,24
+173,Harya0,Jind,Police Lines, HSPCB,OZONE,1,20,12
+177,Harya0,Kar0l,Sector, HSPCB,OZONE,32,37,35
+182,Harya0,Mandikhera,General Hospital, HSPCB,OZONE,22,32,26
+185,Harya0,Palwal,Shyam 0gar, HSPCB,OZONE,1,40,21
+187,Harya0,Panchkula,Sector, HSPCB ,OZONE,38,71,48
+194,Himachal Pradesh,Baddi,HIMUDA Complex Phase, HPPCB,OZONE,9,137,78
+198,Jharkhand,Pathardih,Mohalbani Ghat, JSPCB,OZONE,15,18,16
+215,Kar0taka,Chikkaballapur,Chikkaballapur Rural, KSPCB,OZONE,24,25,25
+221,Kar0taka,Kalaburagi,Lal Bahadur Shastri 0gar, KSPCB,OZONE,1,62,62
+225,Kar0taka,Kolar,Tamaka Ind. Area, KSPCB,OZONE,19,54,46
+227,Kar0taka,Koppal,Diwator 0gar, KSPCB,OZONE,20,69,53
+235,Kar0taka,Shivamogga,Vinoba 0gara, KSPCB,OZONE,36,70,59
+238,Kar0taka,Vijayapura,Ibrahimpur, KSPCB,OZONE,16,20,19
+246,Kerala,Thrissur,Corporation Ground, Kerala PCB,OZONE,23,30,28
+248,Madhya Pradesh,Bhopal,T T 0gar, MPPCB,OZONE,9,173,94
+259,Madhya Pradesh,Indore,Maguda 0gar, IMC,OZONE,38,41,40
+276,Madhya Pradesh,Ujjain,Mahakaleshwar Temple, MPPCB,OZONE,5,57,37
+279,Maharashtra,Akola,Ramdaspeth, MPCB,OZONE,5,89,50
+282,Maharashtra,Amravati,Shivneri Colony, MPCB,OZONE,10,177,96
+286,Maharashtra,Aurangabad,MIDC Chilkaltha0, MPCB,OZONE,8,38,31
+297,Maharashtra,Kalyan,Khadakpada, MPCB,OZONE,7,36,22
+310,Maharashtra,Mumbai,Borivali East, IITM,OZONE,11,240,127
+314,Maharashtra,Mumbai,Borivali East, MPCB,OZONE,4,9,5
+319,Maharashtra,Mumbai,Chhatrapati Shivaji Intl. Airport (T2), MPCB,OZONE,1,40,25
+322,Maharashtra,Mumbai,Colaba, MPCB,OZONE,2,11,4
+327,Maharashtra,Mumbai,Kandivali East, MPCB,OZONE,2,3,2
+333,Maharashtra,Mumbai,Khindipada, IITM,OZONE,33,173,94
+339,Maharashtra,Mumbai,Powai, MPCB,OZONE,25,80,53
+342,Maharashtra,Mumbai,Sewri, BMC,OZONE,1,300,200
+343,Maharashtra,Mumbai,Shivaji 0gar, BMC,OZONE,1,307,167
+345,Maharashtra,Mumbai,Siddharth 0gar, IITM,OZONE,13,171,131
+349,Maharashtra,Mumbai,Vasai West, MPCB,OZONE,7,77,47
+351,Maharashtra,Mumbai,Vile Parle West, MPCB,OZONE,3,4,4
+355,Maharashtra,0gpur,Ram 0gar, MPCB,OZONE,2,128,76
+356,Maharashtra,0shik,Hirawadi, MPCB,OZONE,18,139,83
+368,Maharashtra,Parbhani,Masoom Colony, MPCB,OZONE,4,93,68
+376,Maharashtra,Pune,Karve Road, MPCB,OZONE,1,8,3
+387,Maharashtra,Thane,Upvan Fort, MPCB,OZONE,60,245,166
+395,Meghalaya,Shillong,Lumpyngngad, Meghalaya PCB,OZONE,47,87,60
+396,0galand,Kohima,PWD Juction, NPCB,OZONE,9,12,10
+415,Odisha,Rourkela,Raghu0thpali, OSPCB,OZONE,5,81,43
+449,Rajasthan,Bikaner,MM Ground, RSPCB,OZONE,1,56,33
+455,Rajasthan,Jaipur,Mansarovar Sector, RSPCB,OZONE,1,83,37
+464,Rajasthan,Jhunjhunu,Indra 0gar, RSPCB,OZONE,5,91,63
+466,Rajasthan,Jodhpur,Digari Kalan, RSPCB,OZONE,3,179,84
+482,Rajasthan,0gaur,Karni Colony, RSPCB,OZONE,14,69,50
+486,Rajasthan,Pali,Indira Colony Vistar, RSPCB,OZONE,8,57,15
+503,Tamil0du,Chen0i,Royapuram, TNPCB,OZONE,9,10,9
+508,Tamil0du,Kanchipuram,Kilambi, TNPCB,OZONE,3,3,3
+510,Tamil0du,Tirupur,Kumaran College, TNPCB,OZONE,7,7,7
+516,Telanga0,Hyderabad,ECIL Kapra, TSPCB,OZONE,6,64,41
+523,Telanga0,Hyderabad,0charam_TSIIC IALA, TSPCB,OZONE,21,35,35
+525,Telanga0,Hyderabad,Ramachandrapuram, TSPCB,OZONE,1,53,18
+529,Tripura,Agartala,Bardowali, Tripura SPCB,OZONE,1,11,3
+531,Uttar_Pradesh,Agra,Manoharpur, UPPCB,OZONE,3,12,8
+532,Uttar_Pradesh,Agra,Rohta, UPPCB,OZONE,17,20,19
+538,Uttar_Pradesh,Baghpat,Sardar Patel Inter College, UPPCB,OZONE,1,35,16
+541,Uttar_Pradesh,Bareilly,Rajendra 0gar, UPPCB,OZONE,8,33,13
+543,Uttar_Pradesh,Firozabad,0gla Bhau, UPPCB,OZONE,11,85,19
+558,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,OZONE,1,126,47
+566,Uttar_Pradesh,Kanpur,Nehru 0gar, UPPCB,OZONE,5,60,33
+570,Uttar_Pradesh,Lucknow,Lalbagh, CPCB,OZONE,1,55,27
+573,Uttar_Pradesh,Lucknow,Talkatora District Industries Center, CPCB,OZONE,1,43,21
+577,Uttar_Pradesh,Meerut,Pallavpuram Phase 2, UPPCB,OZONE,7,27,15
+582,Uttar_Pradesh,Moradabad,Eco Herbal Park, UPPCB,OZONE,2,92,35
+585,Uttar_Pradesh,Moradabad,Kashiram 0gar, UPPCB,OZONE,15,132,34
+611,Uttar_Pradesh,Vrindavan,Omex Eternity, UPPCB,OZONE,24,25,25
+632,West_Bengal,Siliguri,Ward, WBPCB,OZONE,7,76,34
+639,Andhra_Pradesh,Kadapa,Yerramukkapalli, APPCB,OZONE,8,49,35
+641,Andhra_Pradesh,Rajamahendravaram,A0nd Kala Kshetram, APPCB,OZONE,15,66,53
+646,Andhra_Pradesh,Vijayawada,Kanuru, APPCB,OZONE,27,28,27
+649,Aru0chal_Pradesh,0harlagun,0harlagun, APSPCB,OZONE,2,2,2
+668,Bihar,Bettiah,Kamal0th 0gar, BSPCB,OZONE,7,13,10
+669,Bihar,Bhagalpur,DM Office_Kachari Chowk, BSPCB,OZONE,16,38,25
+672,Bihar,Bhagalpur,Mayaganj, BSPCB,OZONE,11,59,42
+693,Bihar,Pat0,IGSC Planetarium Complex, BSPCB,OZONE,10,14,13
+703,Chandigarh,Chandigarh,Sector 22, CPCC,OZONE,2,124,34
+708,Chhattisgarh,Bhilai,Hathkhoj, CECB,OZONE,15,56,45
+713,Chhattisgarh,Chhal,0wapara SECL Colony, CECB,OZONE,5,112,68
+717,Chhattisgarh,Korba,Urja 0gar, CECB,OZONE,24,48,45
+726,Delhi,Delhi,Alipur, DPCC,OZONE,4,81,37
+745,Delhi,Delhi,Mandir Marg, DPCC,OZONE,4,16,9
+748,Delhi,Delhi,Mundka, DPCC,OZONE,2,47,23
+752,Delhi,Delhi,0rela, DPCC,OZONE,3,53,25
+765,Delhi,Delhi,Rohini, DPCC,OZONE,1,44,18
+770,Delhi,Delhi,Sonia Vihar, DPCC,OZONE,2,59,26
+773,Delhi,Delhi,Vivek Vihar, DPCC,OZONE,1,12,6
+777,Gujarat,Ahmedabad,Chandkheda, IITM,OZONE,21,24,22
+781,Gujarat,Ahmedabad,Gyaspur, IITM,OZONE,20,21,20
+783,Gujarat,Ahmedabad,Mani0gar, GPCB,OZONE,7,141,77
+788,Gujarat,Ahmedabad,Sardar Vallabhbhai Patel Stadium, IITM,OZONE,2,20,11
+795,Harya0,Ambala,Patti Mehar, HSPCB,OZONE,19,34,30
+798,Harya0,Bahadurgarh,Arya 0gar, HSPCB,OZONE,38,48,43
+805,Harya0,Faridabad,Sector, HSPCB,OZONE,14,14,14
+806,Harya0,Fatehabad,Huda Sector, HSPCB,OZONE,20,31,24
+809,Harya0,Gurugram,Sector, HSPCB,OZONE,27,67,56
+816,Harya0,Rohtak,MD University, HSPCB,OZONE,36,42,40
+845,Kar0taka,Bengaluru,Jigani, KSPCB,OZONE,7,53,36
+850,Kar0taka,Bengaluru,Shivapura_Peenya, KSPCB,OZONE,7,89,51
+855,Kar0taka,Bengaluru,Silk Board, KSPCB,OZONE,8,21,19
+860,Kar0taka,Chikkamagaluru,Kalya0 0gara, KSPCB,OZONE,18,62,45
+875,Kar0taka,Mangalore,Kadri, KSPCB,OZONE,29,34,31
+879,Kar0taka,Raichur,Haji Colony, KSPCB,OZONE,3,164,73
+882,Kar0taka,Rama0gara,Vijay 0gar, KSPCB,OZONE,24,26,25
+899,Madhya Pradesh,Bhopal,Paryavaran Parisar, MPPCB,OZONE,2,109,58
+909,Madhya Pradesh,Indore,Regio0l Park, IMC,OZONE,5,17,11
+919,Madhya Pradesh,Katni,Gole Bazar, MPPCB,OZONE,6,98,49
+926,Madhya Pradesh,Sat0,Bandhavgar Colony, Birla Cement,OZONE,58,92,76
+929,Maharashtra,Ahmed0gar,Tarakpur, MPCB,OZONE,7,149,75
+935,Maharashtra,Badlapur,Katrap, MPCB,OZONE,3,110,65
+939,Maharashtra,Bhiwandi,Gokul 0gar, MPCB,OZONE,10,111,77
+945,Maharashtra,Dhule,Deopur, MPCB,OZONE,7,89,58
+955,Maharashtra,Latur,Sawe Wadi, MPCB,OZONE,3,121,72
+958,Maharashtra,Mahad,Kamble Tarf Birwadi, MPCB,OZONE,6,94,54
+962,Maharashtra,Mumbai,Bandra Kurla Complex, MPCB,OZONE,1,142,74
+968,Maharashtra,Mumbai,Chembur, MPCB,OZONE,9,126,78
+978,Maharashtra,Mumbai,Kurla, MPCB,OZONE,34,39,36
+979,Maharashtra,Mumbai,Malad West, IITM,OZONE,2,74,49
+1011,Maharashtra,0shik,MIDC Ambad, MPCB,OZONE,5,103,67
+1017,Maharashtra,0vi Mumbai,Kopripada, MPCB,OZONE,2,303,145
+1027,Maharashtra,Pimpri-Chinchwad,Gavali0gar, MPCB,OZONE,1,170,69
+1028,Maharashtra,Pimpri-Chinchwad,Thergaon, MPCB,OZONE,1,218,89
+1038,Maharashtra,Pune,Transport 0gar, IITM,OZONE,1,82,50
+1046,Maharashtra,Thane,Kasarvadavali, MPCB,OZONE,33,110,79
+1058,Meghalaya,Shillong,JN Stadium, Meghalaya PCB,OZONE,1,36,10
+1064,Odisha,Baripada,Meher Colony, OSPCB,OZONE,10,32,23
+1066,Odisha,Bhubaneswar,Lingraj Mandir, OSPCB,OZONE,3,215,130
+1069,Odisha,Bileipada,Tata Township, OSPCB,OZONE,10,22,14
+1083,Odisha,Suakati,OMC Colony, OSPCB,OZONE,10,144,94
+1085,Odisha,Talcher,Talcher Coalfields, OSPCB,OZONE,2,29,7
+1089,Odisha,Tensa,Barsua Iron Ore Mines, OSPCB,OZONE,2,66,18
+1092,Punjab,Amritsar,Golden Temple, PPCB,OZONE,27,33,29
+1096,Punjab,Ludhia0,Punjab Agricultural University, PPCB,OZONE,13,28,20
+1099,Punjab,Patiala,Model Town, PPCB,OZONE,21,50,32
+1105,Rajasthan,Bhilwara,Pratap 0gar, RSPCB,OZONE,7,107,74
+1106,Rajasthan,Bundi,New Colony, RSPCB,OZONE,10,161,89
+1119,Rajasthan,Dungarpur,Bhoiwada, RSPCB,OZONE,5,51,37
+1124,Rajasthan,Jaipur,Shastri 0gar, RSPCB,OZONE,10,73,33
+1131,Rajasthan,Jodhpur,Collectorate, RSPCB,OZONE,36,155,83
+1156,Rajasthan,Tonk,Shastri 0gar, RSPCB,OZONE,1,88,49
+1159,Sikkim,Gangtok,Zero Point GICI, SSPCB,OZONE,12,63,52
+1165,Tamil0du,Chen0i,Perungudi, TNPCB,OZONE,5,11,8
+1173,Tamil0du,Ooty,Bombay Castel, TNPCB,OZONE,5,6,5
+1174,Tamil0du,Palkalaiperur,Bharathidasan University, TNPCB,OZONE,1,1,1
+1175,Tamil0du,Salem,So0 College of Technology, TNPCB,OZONE,3,3,3
+1176,Tamil0du,Thoothukudi,Meelavittan, TNPCB,OZONE,9,131,65
+1196,Telanga0,Hyderabad,Somajiguda, TSPCB,OZONE,2,36,20
+1207,Uttar_Pradesh,Bulandshahr,Yamu0puram, UPPCB,OZONE,1,70,35
+1212,Uttar_Pradesh,Firozabad,Vibhab 0gar, UPPCB,OZONE,6,80,54
+1221,Uttar_Pradesh,Kanpur,FTI Kidwai 0gar, UPPCB,OZONE,3,90,31
+1223,Uttar_Pradesh,Khurja,Kalindi Kunj, UPPCB,OZONE,23,43,29
+1228,Uttar_Pradesh,Lucknow,Kukrail Picnic Spot, UPPCB,OZONE,4,45,22
+1233,Uttar_Pradesh,Moradabad,Buddhi Vihar, UPPCB,OZONE,11,22,15
+1239,Uttar_Pradesh,Moradabad,Jigar Colony, UPPCB,OZONE,14,20,17
+1243,Uttar_Pradesh,Moradabad,Transport 0gar, UPPCB,OZONE,15,19,16
+1246,Uttar_Pradesh,Muzaffar0gar,New Mandi, UPPCB,OZONE,5,70,45
+1249,Uttar_Pradesh,Noida,Sector, UPPCB,OZONE,2,120,26
+1255,Uttar_Pradesh,Vara0si,Bhelupur, UPPCB,OZONE,1,22,9
+1257,Uttar_Pradesh,Vara0si,Maldahiya, UPPCB,OZONE,4,10,6
+1260,Uttarakhand,Kashipur,Govt. Girls Inter College, UKPCB,OZONE,1,42,19
+1265,West_Bengal,Haldia,Priyambada Housing Estate, WBPCB,OZONE,19,78,32
+1285,Andhra_Pradesh,Amaravati,Secretariat, APPCB,OZONE,4,76,58
+1292,Andhra_Pradesh,Vijayawada,HB Colony, APPCB,OZONE,5,82,58
+1297,Andhra_Pradesh,Visakhapat0m,GVM Corporation, APPCB,OZONE,1,39,24
+1305,Assam,Guwahati,Railway Colony, PCBA,OZONE,0,0,0
+1308,Assam,0gaon,Christianpatty, PCBA,OZONE,7,49,28
+1328,Bihar,Gaya,Kareemganj, BSPCB,OZONE,1,35,16
+1356,Bihar,Samastipur,DM Office_Kasipur, BSPCB,OZONE,5,12,7
+1363,Chandigarh,Chandigarh,Sector, CPCC,OZONE,1,24,8
+1365,Chandigarh,Chandigarh,Sector, CPCC,OZONE,3,48,22
+1370,Chhattisgarh,Bhilai,Civic Center, Bhilai Steel Plant,OZONE,7,10,10
+1386,Delhi,Delhi,Burari Crossing, IMD,OZONE,10,30,17
+1388,Delhi,Delhi,CRRI Mathura Road, IMD,OZONE,34,84,51
+1397,Delhi,Delhi,IGI Airport (T3), IMD,OZONE,2,31,14
+1399,Delhi,Delhi,IHBAS, CPCB,OZONE,6,96,48
+1403,Delhi,Delhi,Jawaharlal Nehru Stadium, DPCC,OZONE,6,54,28
+1404,Delhi,Delhi,Lodhi Road, IMD,OZONE,12,63,22
+1410,Delhi,Delhi,NSIT Dwarka, CPCB,OZONE,6,34,18
+1414,Delhi,Delhi,Nehru 0gar, DPCC,OZONE,3,139,56
+1416,Delhi,Delhi,North Campus, IMD,OZONE,29,37,31
+1421,Delhi,Delhi,Patparganj, DPCC,OZONE,18,47,33
+1423,Delhi,Delhi,Punjabi Bagh, DPCC,OZONE,1,130,24
+1426,Delhi,Delhi,Pusa, DPCC,OZONE,1,17,6
+1428,Delhi,Delhi,Pusa, IMD,OZONE,6,34,22
+1432,Delhi,Delhi,Shadipur, CPCB,OZONE,82,274,211
+1449,Gujarat,Ahmedabad,SVPI Airport Hansol, IITM,OZONE,3,21,12
+1455,Gujarat,Gandhi0gar,GIFT City, IITM,OZONE,1,37,21
+1460,Gujarat,Gandhi0gar,IIPHG Lekawada, IITM,OZONE,13,20,20
+1471,Harya0,Bhiwani,H.B. Colony, HSPCB,OZONE,12,22,17
+1475,Harya0,Faridabad,New Industrial Town, HSPCB,OZONE,6,35,23
+1495,Harya0,Panipat,Sector, HSPCB,OZONE,29,34,32
+1510,Kar0taka,Bengaluru,BTM Layout, CPCB,OZONE,25,38,30
+1518,Kar0taka,Bengaluru,Hombegowda 0gar, KSPCB,OZONE,4,5,5
+1523,Kar0taka,Bengaluru,Kasturi 0gar, KSPCB,OZONE,31,77,54
+1526,Kar0taka,Bengaluru,Peenya, CPCB,OZONE,36,39,39
+1544,Kar0taka,Karwar,KHB Colony, KSPCB,OZONE,21,22,21
+1548,Kar0taka,Madikeri,Stuart Hill, KSPCB,OZONE,22,40,37
+1554,Kar0taka,Tumakuru,Thimmalapura, KSPCB,OZONE,6,51,37
+1565,Kerala,Kollam,Polayathode, Kerala PCB,OZONE,30,37,35
+1567,Kerala,Thiruva0nthapuram,Kariavattom, Kerala PCB,OZONE,26,30,29
+1569,Kerala,Thiruva0nthapuram,Plammoodu, Kerala PCB,OZONE,11,67,16
+1576,Madhya Pradesh,Dewas,Bhopal Chauraha, MPPCB,OZONE,16,73,35
+1579,Madhya Pradesh,Gwalior,Maharaj Bada, MPPCB,OZONE,6,152,77
+1582,Madhya Pradesh,Indore,Chhoti Gwaltoli, MPPCB,OZONE,14,135,69
+1587,Madhya Pradesh,Jabalpur,Govindh Bhavan Colony, JMC,OZONE,9,187,85
+1590,Madhya Pradesh,Jabalpur,Marhatal, MPPCB,OZONE,2,122,49
+1596,Madhya Pradesh,Mandideep,Sector, MPPCB,OZONE,19,61,49
+1610,Maharashtra,Aurangabad,More Chowk Waluj, MPCB,OZONE,1,14,11
+1614,Maharashtra,Aurangabad,Rach0kar Colony, MPCB,OZONE,20,86,66
+1620,Maharashtra,Jal0,Old MIDC, MPCB,OZONE,3,76,40
+1624,Maharashtra,Kolhapur,Shivaji University, MPCB,OZONE,4,176,100
+1645,Maharashtra,Mumbai,Ghatkopar, BMC,OZONE,1,39,22
+1648,Maharashtra,Mumbai,Kandivali West, BMC,OZONE,1,79,51
+1658,Maharashtra,Mumbai,Mulund West, MPCB,OZONE,8,8,8
+1671,Maharashtra,0gpur,Mahal, MPCB,OZONE,1,154,84
+1681,Maharashtra,0shik,Pandav 0gari, MPCB,OZONE,3,165,84
+1684,Maharashtra,0vi Mumbai,Mahape, MPCB,OZONE,30,79,42
+1687,Maharashtra,0vi Mumbai,Tondare, MPCB,OZONE,1,229,130
+1690,Maharashtra,Pimpri-Chinchwad,Park Street Wakad, MPCB,OZONE,1,153,72
+1695,Maharashtra,Pune,Bhosari, IITM,OZONE,2,49,49
+1697,Maharashtra,Pune,Mhada Colony, IITM,OZONE,2,36,22
+1704,Maharashtra,Solapur,Solapur, MPCB,OZONE,32,68,48
+1708,Maharashtra,Thane,Pimpleshwar Mandir, MPCB,OZONE,1,124,86
+1717,Mizoram,Aizawl,Sikulpuikawn, Mizoram PCB,OZONE,0,0,0
+1720,Odisha,Angul,Hakimapada, OSPCB,OZONE,4,264,153
+1732,Odisha,Brajraj0gar,GM Office, OSPCB,OZONE,7,90,33
+1735,Odisha,Cuttack,CDA Area, OSPCB,OZONE,5,85,62
+1746,Punjab,Jalandhar,Civil Line, PPCB,OZONE,14,71,45
+1748,Punjab,Khan0,Kalal Majra, PPCB,OZONE,7,46,35
+1758,Rajasthan,Barmer,Railway Colony, RSPCB,OZONE,2,152,79
+1770,Rajasthan,Churu,Subash Chowk, RSPCB,OZONE,4,128,86
+1780,Rajasthan,Jaipur,Adarsh 0gar, RSPCB,OZONE,9,83,53
+1783,Rajasthan,Jaipur,RIICO Sitapura, RSPCB,OZONE,1,67,24
+1794,Rajasthan,Jhalawar,Rajlaxmi 0gar, RSPCB,OZONE,17,111,78
+1802,Rajasthan,Jodhpur,Jhalamand, RSPCB,OZONE,5,307,180
+1803,Rajasthan,Jodhpur,Mandor, RSPCB,OZONE,11,217,127
+1807,Rajasthan,Karauli,Satyawati Vihar, RSPCB,OZONE,8,52,36
+1808,Rajasthan,Kota,0yapura, RSPCB,OZONE,1,127,62
+1817,Rajasthan,Udaipur,Ashok 0gar, RSPCB,OZONE,7,30,14
+1824,Tamil0du,Chen0i,Kodungaiyur, TNPCB,OZONE,5,6,6
+1831,Tamil0du,Coimbatore,PSG College of Arts and Science, TNPCB,OZONE,3,5,4
+1839,Tamil0du,Rama0thapuram,Chalai Bazaar, TNPCB,OZONE,13,14,14
+1847,Tamil0du,Vellore,Vasanthapuram, TNPCB,OZONE,1,2,1
+1850,Telanga0,Hyderabad,ICRISAT Patancheru, TSPCB,OZONE,2,206,117
+1853,Telanga0,Hyderabad,IDA Pashamylaram, TSPCB,OZONE,2,7,6
+1856,Telanga0,Hyderabad,IITH Kandi, TSPCB,OZONE,25,33,33
+1858,Telanga0,Hyderabad,Kompally Municipal Office, TSPCB,OZONE,1,62,44
+1864,Telanga0,Hyderabad,Sa0th0gar, TSPCB,OZONE,10,13,12
+1877,Uttar_Pradesh,Bareilly,Civil Lines, UPPCB,OZONE,16,38,20
+1885,Uttar_Pradesh,Ghaziabad,Indirapuram, UPPCB,OZONE,7,21,13
+1907,Uttar_Pradesh,Meerut,Ganga 0gar, UPPCB,OZONE,1,31,11
+1908,Uttar_Pradesh,Meerut,Jai Bhim 0gar, UPPCB,OZONE,4,60,28
+1922,Uttar_Pradesh,Prayagraj,Jhunsi, UPPCB,OZONE,1,17,8
+1927,Uttar_Pradesh,Vara0si,Ardhali Bazar, UPPCB,OZONE,16,34,20
+1935,Uttarakhand,Dehradun,Doon University, UKPCB,OZONE,1,11,5
+1943,West_Bengal,Howrah,Ghusuri, WBPCB,OZONE,5,27,13
+1944,West_Bengal,Howrah,Padmapukur, WBPCB,OZONE,59,103,77
+1946,West_Bengal,Kolkata,Bidhan0gar, WBPCB,OZONE,3,65,18
+1959,Andhra_Pradesh,A0ntapur,Gulzarpet, APPCB,OZONE,4,72,52
+1961,Andhra_Pradesh,Chittoor,Gangineni Cheruvu, APPCB,OZONE,17,79,71
+1979,Assam,Byrnihat,Central Academy for SFS, PCBA,OZONE,5,9,6
+1988,Assam,Guwahati,Pan Bazaar, PCBA,OZONE,16,17,17
+1992,Assam,0lbari,Bata Chowk, PCBA,OZONE,16,21,19
+2018,Bihar,Munger,Town Hall, BSPCB,OZONE,11,44,22
+2024,Bihar,Pat0,Muradpur, BSPCB,OZONE,9,85,42
+2052,Chhattisgarh,Kunjemura,OP Jindal School, CECB,OZONE,3,75,34
+2054,Chhattisgarh,Milupara,Govt. Higher Secondary School, CECB,OZONE,5,107,62
+2055,Chhattisgarh,Raipur,AIIMS, CECB,OZONE,1,15,6
+2059,Chhattisgarh,Raipur,Krishak 0gar, CECB,OZONE,2,10,5
+2080,Delhi,Delhi,DTU, CPCB,OZONE,28,34,31
+2082,Delhi,Delhi,Dr. Karni Singh Shooting Range, DPCC,OZONE,1,84,35
+2111,Delhi,Delhi,Sri Aurobindo Marg, DPCC,OZONE,3,30,15
+2138,Harya0,Charkhi Dadri,Mini Secretariat, HSPCB,OZONE,14,17,15
+2140,Harya0,Dharuhera,Municipal Corporation Office,  HSPCB,OZONE,15,89,51
+2146,Harya0,Gurugram,NISE Gwal Pahari, IMD,OZONE,4,54,35
+2149,Harya0,Gurugram,Vikas Sadan, HSPCB,OZONE,8,68,40
+2155,Harya0,Kurukshetra,Sector, HSPCB,OZONE,3,23,11
+2161,Harya0,Sirsa,F, HSPCB,OZONE,22,31,26
+2165,Jammu_and_Kashmir,Sri0gar,Rajbagh, JKSPCB,OZONE,0,0,0
+2170,Kar0taka,Bagalkot,Vidayagiri, KSPCB,OZONE,42,48,46
+2174,Kar0taka,Belgaum,Ramteerth 0gar, KSPCB,OZONE,19,20,19
+2190,Kar0taka,Dava0gere,Devaraj Urs Badavane, KSPCB,OZONE,18,27,22
+2191,Kar0taka,Dharwad,Kalabhavan, KSPCB,OZONE,2,54,22
+2194,Kar0taka,Haveri,Ashwini 0gar, KSPCB,OZONE,18,20,19
+2211,Kar0taka,Udupi,Brahmagiri, KSPCB,OZONE,23,24,23
+2213,Kar0taka,Yadgir,Collector Office, KSPCB,OZONE,18,20,19
+2215,Kerala,Eloor,Udyogamandal, Kerala PCB,OZONE,3,85,54
+2230,Madhya Pradesh,Gwalior,City Center, MPPCB,OZONE,19,68,39
+2233,Madhya Pradesh,Gwalior,Deen Dayal 0gar, MPPCB,OZONE,9,171,93
+2246,Madhya Pradesh,Jabalpur,Suhagi, JMC,OZONE,5,199,67
+2265,Maharashtra,Amravati,Shri Shivaji Science College, MPCB,OZONE,2,91,67
+2281,Maharashtra,Jalgaon,Prabhat Colony, MPCB,OZONE,3,147,87
+2285,Maharashtra,Kolhapur,Sinchan Bhavan, MPCB,OZONE,2,106,42
+2292,Maharashtra,Mumbai,Bandra Kurla Complex, IITM,OZONE,3,58,27
+2301,Maharashtra,Mumbai,Byculla, BMC,OZONE,1,278,182
+2312,Maharashtra,Mumbai,Kherwadi_Bandra East, MPCB,OZONE,1,97,63
+2320,Maharashtra,Mumbai,Mazgaon, IITM,OZONE,5,186,142
+2332,Maharashtra,0gpur,Ambazari, MPCB,OZONE,2,208,116
+2334,Maharashtra,0gpur,Opp GPO Civil Lines, MPCB,OZONE,2,152,63
+2343,Maharashtra,0vi Mumbai,Nerul, MPCB,OZONE,31,67,39
+2364,Maharashtra,Pune,Savitribai Phule Pune University, MPCB,OZONE,1,300,136
+2366,Maharashtra,Sangli,Vijay 0gar, MPCB,OZONE,2,65,42
+2368,Maharashtra,Solapur,Dnyaneshwar 0gar, MPCB,OZONE,2,92,50
+2375,Maharashtra,Ulhas0gar,Sidhi Vi0yak 0gar, MPCB,OZONE,1,211,107
+2389,Odisha,Barbil,Forest Office, OSPCB,OZONE,3,119,55
+2394,Odisha,Byasa0gar,Ferro Chrome Colony, OSPCB,OZONE,18,153,85
+2398,Odisha,Keonjhar,Jagamohanpur, OSPCB,OZONE,3,35,17
+2401,Odisha,0yagarh,Dabu0, OSPCB,OZONE,2,14,5
+2409,Puducherry,Puducherry,Jawahar 0gar, PPCC,OZONE,13,45,29
+2418,Rajasthan,Alwar,Moti Doongri, RSPCB,OZONE,5,34,17
+2427,Rajasthan,Bhiwadi,RIICO Ind. Area III, RSPCB,OZONE,11,27,17
+2430,Rajasthan,Chittorgarh,Shastri 0gar, RSPCB,OZONE,8,80,54
+2432,Rajasthan,Dausa,Khatikan Mohalla, RSPCB,OZONE,3,118,98
+2439,Rajasthan,Jaipur,Police Commissionerate, RSPCB,OZONE,10,99,52
+2441,Rajasthan,Jaipur,Sector, RSPCB,OZONE,6,190,86
+2444,Rajasthan,Jaisalmer,Sadar Bazar, RSPCB,OZONE,1,142,85
+2446,Rajasthan,Jalore,Mudtra Sili, RSPCB,OZONE,15,155,94
+2453,Rajasthan,Jodhpur,Samrat Ashok Udhyan, RSPCB,OZONE,4,142,49
+2456,Rajasthan,Kota,Dhanmandi, RSPCB,OZONE,3,89,28
+2463,Rajasthan,Rajsamand,Dhoinda, RSPCB,OZONE,13,82,56
+2465,Rajasthan,Sawai Madhopur,Sahu 0gar, RSPCB,OZONE,98,104,101
+2472,Rajasthan,Sirohi,Vedhay0th Colony, RSPCB,OZONE,11,164,101
+2476,Tamil0du,Chengalpattu,Crescent University, TNPCB,OZONE,6,6,6
+2478,Tamil0du,Chen0i,Gandhi 0gar_Ennore, TNPCB,OZONE,1,3,3
+2497,Telanga0,Hyderabad,Central University, TSPCB,OZONE,2,4,3
+2510,Telanga0,Hyderabad,Zoo Park, TSPCB,OZONE,16,46,26
+2517,Uttar_Pradesh,Agra,Sector, UPPCB,OZONE,3,6,4
+2530,Uttar_Pradesh,Ghaziabad,Sanjay 0gar, UPPCB,OZONE,7,90,44
+2536,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,OZONE,4,180,77
+2539,Uttar_Pradesh,Hapur,A0nd Vihar, UPPCB,OZONE,3,41,10
+2542,Uttar_Pradesh,Jhansi,Shivaji 0gar, UPPCB,OZONE,1,73,50
+2545,Uttar_Pradesh,Kanpur,NSI Kalyanpur, UPPCB,OZONE,8,35,20
+2552,Uttar_Pradesh,Lucknow,Gomti 0gar, UPPCB,OZONE,50,67,61
+2554,Uttar_Pradesh,Lucknow,Kendriya Vidyalaya, CPCB,OZONE,6,46,32
+2580,Uttar_Pradesh,Prayagraj,Motilal Nehru NIT, UPPCB,OZONE,5,25,11
+2582,Uttar_Pradesh,Prayagraj,0gar Nigam, UPPCB,OZONE,4,11,7
+2590,Uttarakhand,Rishikesh,Shivaji 0gar, UKPCB,OZONE,5,37,16
+2592,West_Bengal,Asansol,Asansol Court Area, WBPCB,OZONE,7,77,36
+2597,West_Bengal,Howrah,Belur Math, WBPCB,OZONE,3,62,33
+2605,West_Bengal,Kolkata,Ballygunge, WBPCB,OZONE,7,87,40
+2609,West_Bengal,Kolkata,Jadavpur, WBPCB,OZONE,1,51,24
+2611,West_Bengal,Kolkata,Rabindra Bharati University, WBPCB,OZONE,4,71,41
+2617,West_Bengal,Kolkata,Victoria, WBPCB,OZONE,5,87,34
+2626,Andhra_Pradesh,Tirupati,Vaikuntapuram, APPCB,OZONE,4,26,19
+2635,Assam,Guwahati,LGBI Airport, PCBA,OZONE,1,17,6
+2642,Bihar,Arrah,New DM Office, BSPCB,OZONE,10,37,13
+2649,Bihar,Bihar Sharif,D M Colony, BSPCB,OZONE,4,32,20
+2650,Bihar,Chhapra,Darshan 0gar, BSPCB,OZONE,1,2,1
+2659,Bihar,Hajipur,Industrial Area, BSPCB,OZONE,8,44,20
+2664,Bihar,Manguraha,Forest Rest House, BSPCB,OZONE,11,61,42
+2668,Bihar,Muzaffarpur,MIT, BSPCB,OZONE,3,69,47
+2672,Bihar,Pat0,DRM Office Da0pur, BSPCB,OZONE,2,55,40
+2675,Bihar,Pat0,Govt. High School Shikarpur, BSPCB,OZONE,10,68,34
+2678,Bihar,Pat0,Rajbansi 0gar, BSPCB,OZONE,3,55,17
+2682,Bihar,Purnia,Mariam 0gar, BSPCB,OZONE,1,4,2
+2684,Bihar,Rajgir,Dangi Tola, BSPCB,OZONE,22,31,24
+2692,Bihar,Sasaram,Dada Peer, BSPCB,OZONE,3,4,4
+2700,Chhattisgarh,Korba,Rampur, CECB,OZONE,2,5,3
+2708,Chhattisgarh,Raipur,Siltara Phase, CECB,OZONE,3,9,4
+2710,Chhattisgarh,Tumidih,OP Jindal Industrial Park, CECB,OZONE,3,95,47
+2713,Delhi,Delhi,A0nd Vihar, DPCC,OZONE,7,21,14
+2715,Delhi,Delhi,Ashok Vihar, DPCC,OZONE,2,12,5
+2718,Delhi,Delhi,Bawa0, DPCC,OZONE,2,30,12
+2725,Delhi,Delhi,ITO, CPCB,OZONE,8,55,27
+2727,Delhi,Delhi,Jahangirpuri, DPCC,OZONE,8,57,26
+2751,Delhi,Delhi,Sirifort, CPCB,OZONE,6,40,17
+2756,Delhi,Delhi,Wazirpur, DPCC,OZONE,41,43,43
+2764,Gujarat,Ahmedabad,Rakhial, IITM,OZONE,1,62,33
+2789,Harya0,Faridabad,Sector 30, HSPCB,OZONE,4,36,17
+2799,Harya0,Gurugram,Teri Gram, HSPCB,OZONE,8,85,85
+2804,Harya0,Hisar,Urban Estate, HSPCB,OZONE,11,142,73
+2807,Harya0,Kaithal,Rishi 0gar, HSPCB,OZONE,8,26,18
+2817,Harya0,Manesar,Sector, HSPCB,OZONE,1,57,22
+2823,Harya0,Sonipat,Murthal, HSPCB,OZONE,16,35,29
+2824,Harya0,Yamu0 0gar,Gobind Pura, HSPCB,OZONE,5,20,13
+2827,Jharkhand,Dhanbad,Kalakusuma, DMC,OZONE,19,29,23
+2828,Jharkhand,Dhanbad,Sardar Patel 0gar, JSPCB,OZONE,11,14,11
+2836,Kar0taka,Bengaluru,Bapuji 0gar, KSPCB,OZONE,11,12,11
+2837,Kar0taka,Bengaluru,Hebbal, KSPCB,OZONE,7,8,7
+2840,Kar0taka,Bengaluru,Jaya0gar 5th Block, KSPCB,OZONE,3,11,9
+2853,Kar0taka,Chamaraja0gar,Urban, KSPCB,OZONE,15,38,28
+2860,Kar0taka,Gadag,Panchal 0gar, KSPCB,OZONE,28,58,44
+2863,Kar0taka,Hubballi,Deshpande 0gar, KSPCB,OZONE,11,51,26
+2866,Kar0taka,Hubballi,Lingaraj 0gar, KSPCB,OZONE,23,80,63
+2870,Kar0taka,Kalaburagi,Mahatma Basaveswar Colony, KSPCB,OZONE,7,61,35
+2879,Kar0taka,Mysuru,Hebbal 1st Stage, KSPCB,OZONE,4,85,54
+2890,Kerala,Kannur,Thavakkara, Kerala PCB,OZONE,31,35,31
+2903,Madhya Pradesh,Bhopal,Idgah Hills, MPPCB,OZONE,38,130,96
+2918,Madhya Pradesh,Jabalpur,Gupteshwar, JMC,OZONE,6,206,85
+2925,Madhya Pradesh,Pithampur,Sector, MPPCB,OZONE,20,68,50
+2927,Madhya Pradesh,Sagar,Civil Lines, MPPCB,OZONE,39,58,42
+2932,Madhya Pradesh,Singrauli,Suryakiran Bhawan NCL, MPPCB,OZONE,17,80,36
+2944,Maharashtra,Belapur,CBD Belapur, MPCB,OZONE,53,306,176
+2947,Maharashtra,Chandrapur,Chauhan Colony, MPCB,OZONE,2,30,11
+2956,Maharashtra,Malegaon,Mahesh 0gar, MPCB,OZONE,2,70,47
+2959,Maharashtra,Mira-Bhayandar,Bhayandar West, MPCB,OZONE,1,122,71
+2961,Maharashtra,Mumbai,Chakala, IITM,OZONE,38,65,50
+2974,Maharashtra,Mumbai,Mindspace, MPCB,OZONE,1,138,95
+2978,Maharashtra,Mumbai,0vy 0gar, IITM,OZONE,4,202,156
+2984,Maharashtra,Mumbai,Sion, MPCB,OZONE,10,88,31
+2999,Maharashtra,0shik,Gangapur Road, MPCB,OZONE,4,85,60
+3006,Maharashtra,0vi Mumbai,Sanpada, MPCB,OZONE,1,305,144
+3008,Maharashtra,0vi Mumbai,Sector, MPCB,OZONE,1,174,89
+3018,Maharashtra,Pune,Revenue Colony, IITM,OZONE,2,59,20
+3026,Maharashtra,Solapur,Ratandeep Housing Society, MPCB,OZONE,1,44,25
+3033,Maharashtra,Virar,Bolinj, MPCB,OZONE,2,106,85
+3037,Manipur,Imphal,Manipur University, Manipur PCB,OZONE,2,14,10
+3047,Odisha,Balasore,Kalidaspur, OSPCB,OZONE,3,82,47
+3052,Odisha,Bhubaneswar,Patia, OSPCB,OZONE,3,155,85
+3076,Punjab,Mandi Gobindgarh,RIMT University, PPCB,OZONE,36,38,37
+3080,Rajasthan,Ajmer,Civil Lines, RSPCB,OZONE,2,67,23
+3084,Rajasthan,Banswara,Rati Talai, RSPCB,OZONE,6,213,115
+3085,Rajasthan,Baran,Bamboliya, RSPCB,OZONE,2,156,108
+3088,Rajasthan,Bharatpur,Krish0 0gar, RSPCB,OZONE,7,135,65
+3104,Rajasthan,Dholpur,Raja Ganj, RSPCB,OZONE,1,145,74
+3107,Rajasthan,Hanumangarh,Housing Board, RSPCB,OZONE,5,13,8
+3136,Rajasthan,Kota,Shri0th Puram, RSPCB,OZONE,21,90,52
+3142,Rajasthan,Pratapgarh,Pragati 0gar, RSPCB,OZONE,65,138,98
+3146,Rajasthan,Sikar,Radhakishan Pura, RSPCB,OZONE,7,116,79
+3148,Rajasthan,Sri Ganga0gar,Old City, RSPCB,OZONE,1,50,18
+3158,Tamil0du,Chen0i,Alandur Bus Depot, CPCB,OZONE,17,31,23
+3169,Tamil0du,Chen0i,Ma0li, CPCB,OZONE,9,24,12
+3194,Telanga0,Hyderabad,Kokapet, TSPCB,OZONE,1,40,15
+3200,Telanga0,Hyderabad,New Malakpet, TSPCB,OZONE,4,40,25
+3217,Uttar_Pradesh,Agra,Sanjay Palace, UPPCB,OZONE,1,53,35
+3221,Uttar_Pradesh,Agra,Shahjahan Garden, UPPCB,OZONE,5,70,11
+3224,Uttar_Pradesh,Agra,Shastripuram, UPPCB,OZONE,1,18,13
+3239,Uttar_Pradesh,Ghaziabad,Loni, UPPCB,OZONE,1,111,47
+3241,Uttar_Pradesh,Ghaziabad,Vasundhara, UPPCB,OZONE,10,169,92
+3243,Uttar_Pradesh,Gorakhpur,Madan Mohan Malaviya University of Technology, UPPCB,OZONE,2,15,8
+3258,Uttar_Pradesh,Lucknow,B R Ambedkar University, UPPCB,OZONE,2,67,32
+3275,Uttar_Pradesh,Moradabad,Employment Office, UPPCB,OZONE,8,16,10
+3280,Uttar_Pradesh,Noida,Sector , IMD,OZONE,10,51,23
+3281,Uttar_Pradesh,Noida,Sector, UPPCB,OZONE,5,74,34
+3301,West_Bengal,Barrackpore,SVSPA Campus, WBPCB,OZONE,9,81,33
+3304,West_Bengal,Durgapur,Sidhu Kanhu Indoor Stadium, WBPCB,OZONE,1,55,8
+3310,West_Bengal,Kolkata,Fort William, WBPCB,OZONE,24,92,50
+3314,West_Bengal,Kolkata,Rabindra Sarobar, WBPCB,OZONE,3,90,45
+5,Andhra_Pradesh,Tirupati,Vaikuntapuram, APPCB,PM10,16,250,91
+7,Andhra_Pradesh,Vijayawada,HB Colony, APPCB,PM10,31,66,46
+21,Bihar,Arrah,New DM Office, BSPCB,PM10,105,260,170
+31,Bihar,Hajipur,Industrial Area, BSPCB,PM10,134,473,225
+46,Bihar,Pat0,Govt. High School Shikarpur, BSPCB,PM10,70,500,204
+60,Chandigarh,Chandigarh,Sector 22, CPCC,PM10,146,411,236
+72,Chhattisgarh,Raipur,AIIMS, CECB,PM10,0,0,0
+76,Chhattisgarh,Raipur,Krishak 0gar, CECB,PM10,98,171,126
+82,Delhi,Delhi,A0nd Vihar, DPCC,PM10,290,500,381
+85,Delhi,Delhi,Aya 0gar, IMD,PM10,139,298,244
+96,Delhi,Delhi,Lodhi Road, IMD,PM10,151,339,220
+98,Delhi,Delhi,Major Dhyan Chand 0tio0l Stadium, DPCC,PM10,159,434,301
+101,Delhi,Delhi,Mandir Marg, DPCC,PM10,146,440,260
+103,Delhi,Delhi,Mundka, DPCC,PM10,210,500,355
+108,Delhi,Delhi,0rela, DPCC,PM10,150,402,238
+113,Delhi,Delhi,North Campus, IMD,PM10,0,0,0
+117,Delhi,Delhi,Pusa, DPCC,PM10,235,447,370
+121,Delhi,Delhi,Sirifort, CPCB,PM10,60,452,284
+123,Delhi,Delhi,Sonia Vihar, DPCC,PM10,184,448,314
+141,Gujarat,Gandhi0gar,GIFT City, IITM,PM10,89,125,105
+159,Harya0,Faridabad,Sector 30, HSPCB,PM10,135,148,141
+167,Harya0,Gurugram,NISE Gwal Pahari, IMD,PM10,103,299,206
+168,Harya0,Gurugram,Sector, HSPCB,PM10,137,481,204
+171,Harya0,Hisar,Urban Estate, HSPCB,PM10,110,226,160
+189,Harya0,Panipat,Sector, HSPCB,PM10,168,177,173
+195,Jharkhand,Dhanbad,Kalakusuma, DMC,PM10,46,272,122
+199,Kar0taka,Bagalkot,Vidayagiri, KSPCB,PM10,54,55,54
+200,Kar0taka,Belgaum,Ramteerth 0gar, KSPCB,PM10,45,108,69
+218,Kar0taka,Hubballi,Lingaraj 0gar, KSPCB,PM10,63,73,66
+228,Kar0taka,Madikeri,Stuart Hill, KSPCB,PM10,21,89,39
+233,Kar0taka,Rama0gara,Vijay 0gar, KSPCB,PM10,24,67,42
+234,Kar0taka,Shivamogga,Vinoba 0gara, KSPCB,PM10,41,56,48
+236,Kar0taka,Tumakuru,Thimmalapura, KSPCB,PM10,76,177,131
+239,Kerala,Eloor,Udyogamandal, Kerala PCB,PM10,25,27,26
+250,Madhya Pradesh,Damoh,Shrivastav Colony, MPPCB,PM10,40,179,85
+256,Madhya Pradesh,Indore,Chhoti Gwaltoli, MPPCB,PM10,109,338,180
+262,Madhya Pradesh,Jabalpur,Marhatal, MPPCB,PM10,99,247,153
+273,Madhya Pradesh,Sagar,Deen Dayal 0gar, MPPCB,PM10,57,134,104
+287,Maharashtra,Aurangabad,More Chowk Waluj, MPCB,PM10,132,237,168
+295,Maharashtra,Jal0,Old MIDC, MPCB,PM10,131,356,184
+299,Maharashtra,Kolhapur,Sinchan Bhavan, MPCB,PM10,126,422,215
+305,Maharashtra,Mumbai,Bandra Kurla Complex, IITM,PM10,121,195,163
+308,Maharashtra,Mumbai,Bandra Kurla Complex, MPCB,PM10,127,354,191
+311,Maharashtra,Mumbai,Borivali East, MPCB,PM10,64,160,95
+328,Maharashtra,Mumbai,Kandivali West, BMC,PM10,152,296,214
+331,Maharashtra,Mumbai,Kherwadi_Bandra East, MPCB,PM10,124,223,161
+341,Maharashtra,Mumbai,Sewri, BMC,PM10,125,217,166
+350,Maharashtra,Mumbai,Vile Parle West, MPCB,PM10,0,0,0
+359,Maharashtra,0vi Mumbai,Kopripada, MPCB,PM10,109,285,151
+371,Maharashtra,Pimpri-Chinchwad,Park Street Wakad, MPCB,PM10,114,297,217
+373,Maharashtra,Pimpri-Chinchwad,Thergaon, MPCB,PM10,100,287,188
+378,Maharashtra,Sangli,Vijay 0gar, MPCB,PM10,80,178,127
+391,Manipur,Imphal,DM College of Science, Manipur PCB,PM10,9,97,32
+397,Odisha,Balasore,Kalidaspur, OSPCB,PM10,107,495,210
+401,Odisha,Baripada,Meher Colony, OSPCB,PM10,87,135,105
+411,Odisha,Rourkela,Fertilizer Township, OSPCB,PM10,85,88,86
+416,Odisha,Rourkela,Sector, OSPCB,PM10,63,163,101
+421,Punjab,Amritsar,Golden Temple, PPCB,PM10,52,277,133
+429,Punjab,Ludhia0,Punjab Agricultural University, PPCB,PM10,88,417,204
+433,Punjab,Rup0gar,Ratanpura, Ambuja Cements,PM10,90,203,140
+443,Rajasthan,Barmer,Railway Colony, RSPCB,PM10,106,406,146
+450,Rajasthan,Bundi,New Colony, RSPCB,PM10,134,389,209
+456,Rajasthan,Jaipur,Police Commissionerate, RSPCB,PM10,110,422,271
+460,Rajasthan,Jalore,Mudtra Sili, RSPCB,PM10,122,464,225
+473,Rajasthan,Karauli,Satyawati Vihar, RSPCB,PM10,86,350,171
+484,Rajasthan,Pali,Indira Colony Vistar, RSPCB,PM10,110,218,144
+490,Rajasthan,Sri Ganga0gar,Old City, RSPCB,PM10,184,500,411
+492,Rajasthan,Udaipur,Ashok 0gar, RSPCB,PM10,133,340,194
+499,Tamil0du,Chen0i,Gandhi 0gar_Ennore, TNPCB,PM10,39,116,65
+511,Tamil0du,Vellore,Vasanthapuram, TNPCB,PM10,0,0,0
+515,Telanga0,Hyderabad,ECIL Kapra, TSPCB,PM10,70,107,83
+544,Uttar_Pradesh,Ghaziabad,Indirapuram, UPPCB,PM10,0,0,0
+559,Uttar_Pradesh,Hapur,A0nd Vihar, UPPCB,PM10,132,408,220
+568,Uttar_Pradesh,Lucknow,Kukrail Picnic Spot, UPPCB,PM10,82,120,99
+574,Uttar_Pradesh,Meerut,Pallavpuram Phase 2, UPPCB,PM10,69,212,127
+583,Uttar_Pradesh,Moradabad,Jigar Colony, UPPCB,PM10,109,300,149
+586,Uttar_Pradesh,Moradabad,Transport 0gar, UPPCB,PM10,76,236,137
+594,Uttar_Pradesh,Noida,Sector, UPPCB,PM10,142,414,260
+601,Uttar_Pradesh,Prayagraj,0gar Nigam, UPPCB,PM10,88,195,135
+604,Uttar_Pradesh,Vara0si,Bhelupur, UPPCB,PM10,61,163,93
+607,Uttar_Pradesh,Vara0si,IESD Ba0ras Hindu University, UPPCB,PM10,46,110,75
+612,Uttarakhand,Rishikesh,Shivaji 0gar, UKPCB,PM10,60,99,78
+614,West_Bengal,Asansol,Asansol Court Area, WBPCB,PM10,74,256,136
+621,West_Bengal,Howrah,Belur Math, WBPCB,PM10,61,426,241
+637,Andhra_Pradesh,Chittoor,Gangineni Cheruvu, APPCB,PM10,23,85,48
+659,Assam,Silchar,Tarapur, PCBA,PM10,35,39,37
+661,Assam,Sivasagar,Girls College, PCBA,PM10,36,89,56
+664,Bihar,Aurangabad,Gurdeo 0gar, BSPCB,PM10,65,291,118
+674,Bihar,Bihar Sharif,D M Colony, BSPCB,PM10,106,340,160
+694,Bihar,Pat0,Rajbansi 0gar, BSPCB,PM10,0,0,0
+709,Chhattisgarh,Bilaspur,Mangala, NTPC,PM10,0,0,0
+711,Chhattisgarh,Chhal,0wapara SECL Colony, CECB,PM10,46,146,84
+719,Chhattisgarh,Milupara,Govt. Higher Secondary School, CECB,PM10,50,104,71
+723,Chhattisgarh,Raipur,Siltara Phase, CECB,PM10,113,198,157
+725,Delhi,Delhi,Alipur, DPCC,PM10,134,369,217
+733,Delhi,Delhi,DTU, CPCB,PM10,213,420,348
+757,Delhi,Delhi,Okhla Phase, DPCC,PM10,181,415,298
+761,Delhi,Delhi,Pusa, IMD,PM10,125,339,225
+762,Delhi,Delhi,R K Puram, DPCC,PM10,175,500,292
+771,Delhi,Delhi,Sri Aurobindo Marg, DPCC,PM10,172,336,236
+774,Delhi,Delhi,Wazirpur, DPCC,PM10,271,468,378
+779,Gujarat,Ahmedabad,Gyaspur, IITM,PM10,133,230,162
+787,Gujarat,Ahmedabad,Sardar Vallabhbhai Patel Stadium, IITM,PM10,68,142,98
+789,Gujarat,Ankleshwar,GIDC, GPCB,PM10,12,168,111
+791,Gujarat,Surat,Science Center, SMC,PM10,132,233,167
+792,Gujarat,Vapi,Phase, GPCB,PM10,122,390,219
+793,Gujarat,Vatva,Phase, GPCB,PM10,112,213,141
+810,Harya0,Gurugram,Teri Gram, HSPCB,PM10,62,193,158
+813,Harya0,Mandikhera,General Hospital, HSPCB,PM10,119,274,160
+817,Harya0,Sirsa,F, HSPCB,PM10,62,136,85
+820,Harya0,Sonipat,Murthal, HSPCB,PM10,112,233,149
+856,Kar0taka,Chamaraja0gar,Urban, KSPCB,PM10,39,55,46
+858,Kar0taka,Chikkaballapur,Chikkaballapur Rural, KSPCB,PM10,48,116,68
+877,Kar0taka,Mysuru,Hebbal 1st Stage, KSPCB,PM10,31,54,43
+886,Kar0taka,Udupi,Brahmagiri, KSPCB,PM10,33,94,52
+890,Kerala,Kochi,Vyttila, Kerala PCB,PM10,54,154,86
+896,Madhya Pradesh,Bhopal,Idgah Hills, MPPCB,PM10,106,192,163
+905,Madhya Pradesh,Gwalior,Phool Bagh, Mondelez Ind. Food,PM10,121,414,258
+912,Madhya Pradesh,Jabalpur,Gupteshwar, JMC,PM10,50,159,89
+916,Madhya Pradesh,Jabalpur,Suhagi, JMC,PM10,100,193,145
+918,Madhya Pradesh,Katni,Gole Bazar, MPPCB,PM10,68,422,162
+920,Madhya Pradesh,Maihar,Sahilara, KJS Cements,PM10,32,151,84
+925,Madhya Pradesh,Sat0,Bandhavgar Colony, Birla Cement,PM10,36,95,57
+928,Madhya Pradesh,Ujjain,Mahakaleshwar Temple, MPPCB,PM10,128,296,189
+931,Maharashtra,Amravati,Shivneri Colony, MPCB,PM10,148,192,166
+933,Maharashtra,Aurangabad,MIDC Chilkaltha0, MPCB,PM10,4,317,185
+936,Maharashtra,Belapur,CBD Belapur, MPCB,PM10,0,0,0
+940,Maharashtra,Chandrapur,Chauhan Colony, MPCB,PM10,129,224,168
+947,Maharashtra,Jalgaon,Prabhat Colony, MPCB,PM10,80,286,140
+966,Maharashtra,Mumbai,Chakala, IITM,PM10,100,196,145
+969,Maharashtra,Mumbai,Chhatrapati Shivaji Intl. Airport (T2), MPCB,PM10,68,165,127
+972,Maharashtra,Mumbai,Colaba, MPCB,PM10,86,154,119
+973,Maharashtra,Mumbai,Kandivali East, MPCB,PM10,85,152,121
+980,Maharashtra,Mumbai,Mazgaon, IITM,PM10,108,152,128
+984,Maharashtra,Mumbai,Mulund West, MPCB,PM10,105,219,146
+988,Maharashtra,Mumbai,Powai, MPCB,PM10,103,187,135
+1002,Maharashtra,0gpur,Ambazari, MPCB,PM10,138,256,172
+1029,Maharashtra,Pune,Alandi, IITM,PM10,70,238,154
+1031,Maharashtra,Pune,Bhosari, IITM,PM10,0,0,0
+1033,Maharashtra,Pune,Karve Road, MPCB,PM10,33,163,79
+1034,Maharashtra,Pune,Revenue Colony, IITM,PM10,126,322,222
+1039,Maharashtra,Solapur,Dnyaneshwar 0gar, MPCB,PM10,84,444,160
+1041,Maharashtra,Solapur,Ratandeep Housing Society, MPCB,PM10,97,228,128
+1043,Maharashtra,Solapur,Solapur, MPCB,PM10,69,116,89
+1047,Maharashtra,Thane,Pimpleshwar Mandir, MPCB,PM10,135,229,170
+1059,Meghalaya,Shillong,Lumpyngngad, Meghalaya PCB,PM10,19,73,32
+1070,Odisha,Brajraj0gar,GM Office, OSPCB,PM10,45,178,102
+1073,Odisha,Byasa0gar,Ferro Chrome Colony, OSPCB,PM10,83,197,119
+1076,Odisha,Keonjhar,Jagamohanpur, OSPCB,PM10,20,166,120
+1082,Odisha,Suakati,OMC Colony, OSPCB,PM10,93,154,126
+1084,Odisha,Talcher,Talcher Coalfields, OSPCB,PM10,115,432,240
+1097,Punjab,Mandi Gobindgarh,RIMT University, PPCB,PM10,60,328,155
+1102,Rajasthan,Alwar,Moti Doongri, RSPCB,PM10,63,134,92
+1103,Rajasthan,Banswara,Rati Talai, RSPCB,PM10,126,275,218
+1112,Rajasthan,Dausa,Khatikan Mohalla, RSPCB,PM10,66,347,157
+1113,Rajasthan,Dholpur,Raja Ganj, RSPCB,PM10,91,444,229
+1122,Rajasthan,Jaipur,RIICO Sitapura, RSPCB,PM10,0,0,0
+1132,Rajasthan,Jodhpur,Digari Kalan, RSPCB,PM10,114,329,158
+1133,Rajasthan,Jodhpur,Jhalamand, RSPCB,PM10,134,400,191
+1139,Rajasthan,Kota,Shri0th Puram, RSPCB,PM10,129,255,186
+1147,Rajasthan,Sawai Madhopur,Sahu 0gar, RSPCB,PM10,74,345,179
+1154,Rajasthan,Tonk,Shastri 0gar, RSPCB,PM10,70,500,221
+1166,Tamil0du,Cuddalore,Kudikadu, TNPCB,PM10,27,92,59
+1168,Tamil0du,Gummidipoondi,Anthoni Pillai 0gar, TNPCB,PM10,56,242,133
+1170,Tamil0du,Ooty,Bombay Castel, TNPCB,PM10,6,66,36
+1180,Tamil0du,Tirupur,Kumaran College, TNPCB,PM10,28,106,54
+1190,Telanga0,Hyderabad,IITH Kandi, TSPCB,PM10,66,108,85
+1198,Telanga0,Hyderabad,Zoo Park, TSPCB,PM10,91,155,125
+1202,Uttar_Pradesh,Agra,Sector, UPPCB,PM10,60,347,144
+1208,Uttar_Pradesh,Firozabad,0gla Bhau, UPPCB,PM10,37,186,89
+1247,Uttar_Pradesh,Noida,Sector , UPPCB,PM10,150,465,238
+1251,Uttar_Pradesh,Prayagraj,Jhunsi, UPPCB,PM10,67,219,128
+1263,West_Bengal,Barrackpore,SVSPA Campus, WBPCB,PM10,102,314,182
+1272,West_Bengal,Kolkata,Bidhan0gar, WBPCB,PM10,92,227,155
+1279,West_Bengal,Kolkata,Victoria, WBPCB,PM10,102,248,173
+1282,West_Bengal,Siliguri,Ward, WBPCB,PM10,47,195,90
+1284,Andhra_Pradesh,Amaravati,Secretariat, APPCB,PM10,105,159,127
+1296,Andhra_Pradesh,Visakhapat0m,GVM Corporation, APPCB,PM10,109,312,146
+1301,Assam,Byrnihat,Central Academy for SFS, PCBA,PM10,46,480,208
+1303,Assam,Guwahati,LGBI Airport, PCBA,PM10,71,218,129
+1304,Assam,Guwahati,Railway Colony, PCBA,PM10,0,0,0
+1310,Assam,0lbari,Bata Chowk, PCBA,PM10,71,500,160
+1316,Bihar,Araria,Kharahiya Basti, BSPCB,PM10,115,416,245
+1324,Bihar,Bhagalpur,Mayaganj, BSPCB,PM10,140,249,169
+1329,Bihar,Gaya,SFTI Kusdihra, BSPCB,PM10,87,125,104
+1330,Bihar,Kishanganj,SDM Office_Khagra, BSPCB,PM10,114,417,218
+1333,Bihar,Motihari,Gandak Colony, BSPCB,PM10,53,189,110
+1334,Bihar,Munger,Town Hall, BSPCB,PM10,0,0,0
+1338,Bihar,Muzaffarpur,MIT, BSPCB,PM10,96,345,199
+1353,Bihar,Samastipur,DM Office_Kasipur, BSPCB,PM10,58,170,104
+1357,Bihar,Sasaram,Dada Peer, BSPCB,PM10,81,190,119
+1371,Chhattisgarh,Bhilai,Hathkhoj, CECB,PM10,135,195,167
+1373,Chhattisgarh,Korba,Rampur, CECB,PM10,38,124,67
+1384,Delhi,Delhi,Ashok Vihar, DPCC,PM10,206,494,346
+1385,Delhi,Delhi,Bawa0, DPCC,PM10,177,500,292
+1395,Delhi,Delhi,IGI Airport (T3), IMD,PM10,160,367,250
+1402,Delhi,Delhi,Jawaharlal Nehru Stadium, DPCC,PM10,157,318,255
+1409,Delhi,Delhi,NSIT Dwarka, CPCB,PM10,180,433,295
+1413,Delhi,Delhi,Nehru 0gar, DPCC,PM10,185,460,354
+1422,Delhi,Delhi,Punjabi Bagh, DPCC,PM10,171,420,315
+1438,Gujarat,Ahmedabad,Chandkheda, IITM,PM10,98,185,129
+1443,Gujarat,Ahmedabad,SAC ISRO Bopal, IITM,PM10,95,192,147
+1446,Gujarat,Ahmedabad,SAC ISRO Satellite, IITM,PM10,79,114,105
+1456,Gujarat,Gandhi0gar,IIPHG Lekawada, IITM,PM10,84,98,89
+1481,Harya0,Kaithal,Rishi 0gar, HSPCB,PM10,87,153,123
+1483,Harya0,Kar0l,Sector, HSPCB,PM10,67,156,105
+1489,Harya0,Palwal,Shyam 0gar, HSPCB,PM10,101,231,123
+1498,Harya0,Yamu0 0gar,Gobind Pura, HSPCB,PM10,77,338,162
+1504,Jharkhand,Dhanbad,Sardar Patel 0gar, JSPCB,PM10,83,162,120
+1508,Kar0taka,Bengaluru,BTM Layout, CPCB,PM10,15,52,37
+1511,Kar0taka,Bengaluru,Bapuji 0gar, KSPCB,PM10,56,120,90
+1516,Kar0taka,Bengaluru,Hombegowda 0gar, KSPCB,PM10,40,83,62
+1519,Kar0taka,Bengaluru,Jaya0gar 5th Block, KSPCB,PM10,54,132,92
+1524,Kar0taka,Bengaluru,Peenya, CPCB,PM10,53,90,70
+1530,Kar0taka,Dharwad,Kalabhavan, KSPCB,PM10,47,108,77
+1535,Kar0taka,Hubballi,Deshpande 0gar, KSPCB,PM10,54,120,91
+1538,Kar0taka,Kalaburagi,Lal Bahadur Shastri 0gar, KSPCB,PM10,0,0,0
+1540,Kar0taka,Kalaburagi,Mahatma Basaveswar Colony, KSPCB,PM10,27,79,51
+1542,Kar0taka,Karwar,KHB Colony, KSPCB,PM10,59,147,98
+1556,Kar0taka,Vijayapura,Ibrahimpur, KSPCB,PM10,53,56,54
+1563,Kerala,Kannur,Thavakkara, Kerala PCB,PM10,53,61,56
+1571,Kerala,Thrissur,Corporation Ground, Kerala PCB,PM10,54,62,59
+1574,Madhya Pradesh,Bhopal,T T 0gar, MPPCB,PM10,133,251,174
+1593,Madhya Pradesh,Mandideep,Sector, MPPCB,PM10,85,293,139
+1599,Madhya Pradesh,Sagar,Civil Lines, MPPCB,PM10,78,186,143
+1607,Maharashtra,Akola,Ramdaspeth, MPCB,PM10,133,310,185
+1615,Maharashtra,Badlapur,Katrap, MPCB,PM10,136,394,202
+1628,Maharashtra,Latur,Sawe Wadi, MPCB,PM10,90,445,137
+1632,Maharashtra,Malegaon,Mahesh 0gar, MPCB,PM10,100,479,194
+1634,Maharashtra,Mira-Bhayandar,Bhayandar West, MPCB,PM10,117,176,152
+1637,Maharashtra,Mumbai,Borivali East, IITM,PM10,119,183,153
+1638,Maharashtra,Mumbai,Byculla, BMC,PM10,97,149,130
+1650,Maharashtra,Mumbai,Khindipada, IITM,PM10,0,0,0
+1653,Maharashtra,Mumbai,Malad West, IITM,PM10,143,215,167
+1683,Maharashtra,0vi Mumbai,Mahape, MPCB,PM10,108,165,139
+1696,Maharashtra,Pune,Mhada Colony, IITM,PM10,66,219,138
+1705,Maharashtra,Thane,Kasarvadavali, MPCB,PM10,0,0,0
+1709,Maharashtra,Thane,Upvan Fort, MPCB,PM10,0,0,0
+1716,Mizoram,Aizawl,Sikulpuikawn, Mizoram PCB,PM10,9,43,18
+1726,Odisha,Bhubaneswar,Lingraj Mandir, OSPCB,PM10,125,220,164
+1738,Odisha,Rourkela,Raghu0thpali, OSPCB,PM10,71,421,141
+1742,Odisha,Tensa,Barsua Iron Ore Mines, OSPCB,PM10,82,132,102
+1743,Puducherry,Puducherry,Jawahar 0gar, PPCC,PM10,26,55,41
+1745,Punjab,Jalandhar,Civil Line, PPCB,PM10,94,173,132
+1747,Punjab,Khan0,Kalal Majra, PPCB,PM10,61,214,116
+1751,Punjab,Patiala,Model Town, PPCB,PM10,94,160,119
+1753,Rajasthan,Ajmer,Civil Lines, RSPCB,PM10,69,162,121
+1756,Rajasthan,Baran,Bamboliya, RSPCB,PM10,67,227,139
+1759,Rajasthan,Bharatpur,Krish0 0gar, RSPCB,PM10,0,0,0
+1774,Rajasthan,Dungarpur,Bhoiwada, RSPCB,PM10,133,230,163
+1776,Rajasthan,Hanumangarh,Housing Board, RSPCB,PM10,137,455,309
+1779,Rajasthan,Jaipur,Adarsh 0gar, RSPCB,PM10,54,241,137
+1788,Rajasthan,Jaipur,Shastri 0gar, RSPCB,PM10,96,411,192
+1790,Rajasthan,Jhalawar,Rajlaxmi 0gar, RSPCB,PM10,101,276,171
+1795,Rajasthan,Jhunjhunu,Indra 0gar, RSPCB,PM10,53,343,155
+1804,Rajasthan,Jodhpur,Samrat Ashok Udhyan, RSPCB,PM10,111,500,220
+1814,Rajasthan,Sirohi,Vedhay0th Colony, RSPCB,PM10,79,196,122
+1818,Sikkim,Gangtok,Zero Point GICI, SSPCB,PM10,10,37,22
+1819,Tamil0du,Chen0i,Alandur Bus Depot, CPCB,PM10,48,64,56
+1820,Tamil0du,Chen0i,Arumbakkam, TNPCB,PM10,66,139,88
+1826,Tamil0du,Chen0i,Perungudi, TNPCB,PM10,48,128,82
+1836,Tamil0du,Palkalaiperur,Bharathidasan University, TNPCB,PM10,19,53,34
+1841,Tamil0du,Salem,So0 College of Technology, TNPCB,PM10,0,0,0
+1844,Tamil0du,Thoothukudi,Meelavittan, TNPCB,PM10,14,49,28
+1851,Telanga0,Hyderabad,IDA Pashamylaram, TSPCB,PM10,143,158,151
+1859,Telanga0,Hyderabad,0charam_TSIIC IALA, TSPCB,PM10,47,499,138
+1880,Uttar_Pradesh,Bulandshahr,Yamu0puram, UPPCB,PM10,82,342,172
+1887,Uttar_Pradesh,Ghaziabad,Sanjay 0gar, UPPCB,PM10,126,330,191
+1900,Uttar_Pradesh,Lucknow,Gomti 0gar, UPPCB,PM10,104,181,125
+1904,Uttar_Pradesh,Meerut,Ganga 0gar, UPPCB,PM10,0,0,0
+1910,Uttar_Pradesh,Moradabad,Buddhi Vihar, UPPCB,PM10,87,339,160
+1911,Uttar_Pradesh,Moradabad,Eco Herbal Park, UPPCB,PM10,90,157,125
+1918,Uttar_Pradesh,Noida,Sector , IMD,PM10,182,486,339
+1923,Uttar_Pradesh,Prayagraj,Motilal Nehru NIT, UPPCB,PM10,55,162,107
+1929,Uttar_Pradesh,Vara0si,Maldahiya, UPPCB,PM10,46,103,78
+1948,West_Bengal,Kolkata,Rabindra Bharati University, WBPCB,PM10,81,359,179
+1957,Andhra_Pradesh,A0ntapur,Gulzarpet, APPCB,PM10,49,116,78
+1962,Andhra_Pradesh,Kadapa,Yerramukkapalli, APPCB,PM10,12,153,50
+1972,Andhra_Pradesh,Vijayawada,Kanuru, APPCB,PM10,0,0,0
+1973,Andhra_Pradesh,Vijayawada,Rajiv Gandhi Park, APPCB,PM10,58,90,74
+1976,Aru0chal_Pradesh,0harlagun,0harlagun, APSPCB,PM10,37,178,76
+1984,Assam,Guwahati,Pan Bazaar, PCBA,PM10,69,220,127
+1990,Assam,0gaon,Christianpatty, PCBA,PM10,69,193,114
+1999,Bihar,Bhagalpur,DM Office_Kachari Chowk, BSPCB,PM10,123,201,156
+2003,Bihar,Chhapra,Darshan 0gar, BSPCB,PM10,130,282,202
+2007,Bihar,Gaya,Kareemganj, BSPCB,PM10,157,436,274
+2010,Bihar,Katihar,Mirchaibari, BSPCB,PM10,113,299,179
+2013,Bihar,Manguraha,Forest Rest House, BSPCB,PM10,17,230,60
+2019,Bihar,Muzaffarpur,Buddha Colony, BSPCB,PM10,0,0,0
+2023,Bihar,Pat0,DRM Office Da0pur, BSPCB,PM10,121,421,251
+2028,Bihar,Pat0,Samanpura, BSPCB,PM10,178,500,365
+2033,Bihar,Siwan,Chitragupta 0gar, BSPCB,PM10,0,0,0
+2038,Chandigarh,Chandigarh,Sector, CPCC,PM10,169,407,245
+2041,Chhattisgarh,Bhilai,32Bungalows, CECB,PM10,140,199,175
+2042,Chhattisgarh,Bhilai,Civic Center, Bhilai Steel Plant,PM10,0,0,0
+2049,Chhattisgarh,Kunjemura,OP Jindal School, CECB,PM10,0,0,0
+2075,Delhi,Delhi,Burari Crossing, IMD,PM10,229,420,338
+2078,Delhi,Delhi,CRRI Mathura Road, IMD,PM10,131,352,226
+2081,Delhi,Delhi,Dr. Karni Singh Shooting Range, DPCC,PM10,141,385,262
+2083,Delhi,Delhi,Dwarka, DPCC,PM10,188,457,315
+2085,Delhi,Delhi,IHBAS, CPCB,PM10,0,0,0
+2088,Delhi,Delhi,ITO, CPCB,PM10,192,443,326
+2104,Delhi,Delhi,Rohini, DPCC,PM10,153,490,322
+2105,Delhi,Delhi,Shadipur, CPCB,PM10,285,500,386
+2112,Delhi,Delhi,Vivek Vihar, DPCC,PM10,222,499,360
+2119,Gujarat,Ahmedabad,Mani0gar, GPCB,PM10,123,225,168
+2128,Gujarat,Gandhi0gar,Sector, GPCB,PM10,0,0,0
+2130,Harya0,Ambala,Patti Mehar, HSPCB,PM10,54,186,109
+2131,Harya0,Bahadurgarh,Arya 0gar, HSPCB,PM10,86,274,186
+2132,Harya0,Ballabgarh,0thu Colony, HSPCB,PM10,209,386,293
+2134,Harya0,Bhiwani,H.B. Colony, HSPCB,PM10,61,272,144
+2136,Harya0,Charkhi Dadri,Mini Secretariat, HSPCB,PM10,81,245,141
+2141,Harya0,Faridabad,New Industrial Town, HSPCB,PM10,140,500,329
+2151,Harya0,Jind,Police Lines, HSPCB,PM10,89,174,131
+2163,Jammu_and_Kashmir,Sri0gar,Rajbagh, JKSPCB,PM10,0,0,0
+2176,Kar0taka,Bengaluru,Hebbal, KSPCB,PM10,0,0,0
+2178,Kar0taka,Bengaluru,Kasturi 0gar, KSPCB,PM10,62,126,98
+2180,Kar0taka,Bengaluru,Sanegurava Halli, KSPCB,PM10,37,52,42
+2185,Kar0taka,Chikkamagaluru,Kalya0 0gara, KSPCB,PM10,23,50,37
+2188,Kar0taka,Dava0gere,Devaraj Urs Badavane, KSPCB,PM10,42,111,71
+2200,Kar0taka,Kolar,Tamaka Ind. Area, KSPCB,PM10,55,129,87
+2201,Kar0taka,Koppal,Diwator 0gar, KSPCB,PM10,36,71,48
+2219,Kerala,Thiruva0nthapuram,Plammoodu, Kerala PCB,PM10,6,84,42
+2225,Madhya Pradesh,Dewas,Bhopal Chauraha, MPPCB,PM10,106,191,156
+2228,Madhya Pradesh,Gwalior,City Center, MPPCB,PM10,52,398,174
+2231,Madhya Pradesh,Gwalior,Deen Dayal 0gar, MPPCB,PM10,88,500,279
+2234,Madhya Pradesh,Gwalior,Maharaj Bada, MPPCB,PM10,98,332,157
+2242,Madhya Pradesh,Jabalpur,Govindh Bhavan Colony, JMC,PM10,59,123,88
+2251,Madhya Pradesh,Pithampur,Sector, MPPCB,PM10,105,317,171
+2259,Maharashtra,Ahmed0gar,Tarakpur, MPCB,PM10,0,0,0
+2264,Maharashtra,Amravati,Shri Shivaji Science College, MPCB,PM10,154,480,243
+2270,Maharashtra,Aurangabad,Rach0kar Colony, MPCB,PM10,120,298,197
+2274,Maharashtra,Bhiwandi,Gokul 0gar, MPCB,PM10,136,319,207
+2278,Maharashtra,Dhule,Deopur, MPCB,PM10,101,308,161
+2283,Maharashtra,Kalyan,Khadakpada, MPCB,PM10,82,308,138
+2287,Maharashtra,Mahad,Kamble Tarf Birwadi, MPCB,PM10,66,118,96
+2303,Maharashtra,Mumbai,Chembur, MPCB,PM10,126,165,145
+2307,Maharashtra,Mumbai,Ghatkopar, BMC,PM10,117,173,135
+2313,Maharashtra,Mumbai,Kurla, MPCB,PM10,82,170,129
+2328,Maharashtra,Mumbai,Shivaji 0gar, BMC,PM10,151,498,236
+2333,Maharashtra,0gpur,Opp GPO Civil Lines, MPCB,PM10,128,210,157
+2335,Maharashtra,0gpur,Ram 0gar, MPCB,PM10,121,213,153
+2337,Maharashtra,0shik,MIDC Ambad, MPCB,PM10,169,462,222
+2339,Maharashtra,0shik,Pandav 0gari, MPCB,PM10,97,171,129
+2342,Maharashtra,0vi Mumbai,Nerul, MPCB,PM10,94,204,153
+2346,Maharashtra,0vi Mumbai,Sector, MPCB,PM10,98,353,219
+2350,Maharashtra,Parbhani,Masoom Colony, MPCB,PM10,125,237,166
+2352,Maharashtra,Pimpri-Chinchwad,Gavali0gar, MPCB,PM10,109,306,219
+2365,Maharashtra,Pune,Transport 0gar, IITM,PM10,95,177,141
+2373,Maharashtra,Ulhas0gar,Sidhi Vi0yak 0gar, MPCB,PM10,104,259,149
+2376,Maharashtra,Virar,Bolinj, MPCB,PM10,129,436,204
+2383,0galand,Kohima,PWD Juction, NPCB,PM10,18,103,46
+2395,Odisha,Cuttack,CDA Area, OSPCB,PM10,92,204,148
+2399,Odisha,0yagarh,Dabu0, OSPCB,PM10,101,146,125
+2425,Rajasthan,Bhiwadi,RIICO Ind. Area III, RSPCB,PM10,128,270,171
+2428,Rajasthan,Bikaner,MM Ground, RSPCB,PM10,108,462,199
+2429,Rajasthan,Chittorgarh,Shastri 0gar, RSPCB,PM10,100,400,202
+2458,Rajasthan,Kota,0yapura, RSPCB,PM10,111,390,231
+2462,Rajasthan,Rajsamand,Dhoinda, RSPCB,PM10,113,271,166
+2466,Rajasthan,Sikar,Radhakishan Pura, RSPCB,PM10,56,310,159
+2479,Tamil0du,Chen0i,Ma0li, CPCB,PM10,61,108,84
+2484,Tamil0du,Kanchipuram,Kilambi, TNPCB,PM10,43,187,61
+2486,Tamil0du,Rama0thapuram,Chalai Bazaar, TNPCB,PM10,16,67,40
+2490,Tamil0du,Tiruchirappalli,St Joseph College, TNPCB,PM10,0,0,0
+2498,Telanga0,Hyderabad,ICRISAT Patancheru, TSPCB,PM10,51,155,113
+2503,Telanga0,Hyderabad,Kompally Municipal Office, TSPCB,PM10,46,130,62
+2507,Telanga0,Hyderabad,Ramachandrapuram, TSPCB,PM10,60,75,64
+2512,Uttar_Pradesh,Agra,Rohta, UPPCB,PM10,3,168,81
+2514,Uttar_Pradesh,Agra,Sanjay Palace, UPPCB,PM10,86,307,154
+2531,Uttar_Pradesh,Ghaziabad,Vasundhara, UPPCB,PM10,145,416,239
+2535,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,PM10,173,387,254
+2547,Uttar_Pradesh,Kanpur,Nehru 0gar, UPPCB,PM10,108,420,206
+2549,Uttar_Pradesh,Khurja,Kalindi Kunj, UPPCB,PM10,55,173,110
+2551,Uttar_Pradesh,Lucknow,B R Ambedkar University, UPPCB,PM10,80,171,109
+2556,Uttar_Pradesh,Lucknow,Lalbagh, CPCB,PM10,143,427,203
+2568,Uttar_Pradesh,Moradabad,Kashiram 0gar, UPPCB,PM10,91,267,149
+2570,Uttar_Pradesh,Muzaffar0gar,New Mandi, UPPCB,PM10,120,415,223
+2575,Uttar_Pradesh,Noida,Sector, UPPCB,PM10,189,344,231
+2584,Uttar_Pradesh,Vrindavan,Omex Eternity, UPPCB,PM10,51,155,84
+2585,Uttarakhand,Dehradun,Doon University, UKPCB,PM10,46,151,103
+2588,Uttarakhand,Kashipur,Govt. Girls Inter College, UKPCB,PM10,66,191,116
+2593,West_Bengal,Durgapur,Sidhu Kanhu Indoor Stadium, WBPCB,PM10,71,135,103
+2594,West_Bengal,Haldia,Priyambada Housing Estate, WBPCB,PM10,78,171,121
+2599,West_Bengal,Howrah,Ghusuri, WBPCB,PM10,0,0,0
+2601,West_Bengal,Howrah,Padmapukur, WBPCB,PM10,96,186,148
+2604,West_Bengal,Kolkata,Ballygunge, WBPCB,PM10,84,201,156
+2612,West_Bengal,Kolkata,Rabindra Sarobar, WBPCB,PM10,84,134,115
+2623,Andhra_Pradesh,Rajamahendravaram,A0nd Kala Kshetram, APPCB,PM10,109,168,140
+2624,Andhra_Pradesh,Tirupati,Tirumala, APPCB,PM10,46,112,84
+2634,Assam,Guwahati,IITG, PCBA,PM10,71,196,126
+2644,Bihar,Bettiah,Kamal0th 0gar, BSPCB,PM10,29,147,84
+2677,Bihar,Pat0,Muradpur, BSPCB,PM10,162,480,233
+2680,Bihar,Purnia,Mariam 0gar, BSPCB,PM10,94,248,155
+2683,Bihar,Rajgir,Dangi Tola, BSPCB,PM10,146,474,263
+2686,Bihar,Saharsa,Police Line, BSPCB,PM10,115,297,167
+2694,Chandigarh,Chandigarh,Sector, CPCC,PM10,133,202,161
+2701,Chhattisgarh,Korba,Urja 0gar, CECB,PM10,41,219,84
+2706,Chhattisgarh,Raipur,Bhatagaon New ISBT, CECB,PM10,0,0,0
+2709,Chhattisgarh,Tumidih,OP Jindal Industrial Park, CECB,PM10,66,431,125
+2726,Delhi,Delhi,Jahangirpuri, DPCC,PM10,256,492,406
+2736,Delhi,Delhi,0jafgarh, DPCC,PM10,108,230,166
+2740,Delhi,Delhi,Patparganj, DPCC,PM10,294,472,399
+2758,Gujarat,Ahmedabad,Raikhad, IITM,PM10,26,500,214
+2761,Gujarat,Ahmedabad,Rakhial, IITM,PM10,124,384,193
+2769,Gujarat,Ahmedabad,SVPI Airport Hansol, IITM,PM10,91,248,135
+2785,Harya0,Dharuhera,Municipal Corporation Office,  HSPCB,PM10,131,350,214
+2791,Harya0,Fatehabad,Huda Sector, HSPCB,PM10,50,183,117
+2810,Harya0,Kurukshetra,Sector, HSPCB,PM10,86,187,131
+2814,Harya0,Manesar,Sector, HSPCB,PM10,127,438,187
+2825,Himachal Pradesh,Baddi,HIMUDA Complex Phase, HSPCB,PM10,129,449,253
+2830,Jharkhand,Pathardih,Mohalbani Ghat, JSPCB,PM10,64,64,64
+2841,Kar0taka,Bengaluru,Jigani, KSPCB,PM10,36,122,86
+2845,Kar0taka,Bengaluru,RVCE, KSPCB,PM10,102,129,114
+2848,Kar0taka,Bengaluru,Shivapura_Peenya, KSPCB,PM10,43,77,65
+2850,Kar0taka,Bengaluru,Silk Board, KSPCB,PM10,53,121,83
+2858,Kar0taka,Gadag,Panchal 0gar, KSPCB,PM10,22,75,54
+2862,Kar0taka,Haveri,Ashwini 0gar, KSPCB,PM10,0,0,0
+2876,Kar0taka,Mangalore,Kadri, KSPCB,PM10,61,102,74
+2880,Kar0taka,Raichur,Haji Colony, KSPCB,PM10,94,196,124
+2886,Kar0taka,Yadgir,Collector Office, KSPCB,PM10,77,138,103
+2892,Kerala,Kollam,Polayathode, Kerala PCB,PM10,32,101,70
+2895,Kerala,Thiruva0nthapuram,Kariavattom, Kerala PCB,PM10,62,73,68
+2904,Madhya Pradesh,Bhopal,Paryavaran Parisar, MPPCB,PM10,105,412,203
+2912,Madhya Pradesh,Indore,Maguda 0gar, IMC,PM10,0,0,0
+2914,Madhya Pradesh,Indore,Regio0l Park, IMC,PM10,0,0,0
+2926,Madhya Pradesh,Ratlam,Shasthri 0gar, IPCA Lab,PM10,125,169,143
+2931,Madhya Pradesh,Singrauli,Suryakiran Bhawan NCL, MPPCB,PM10,158,467,243
+2952,Maharashtra,Kolhapur,Shivaji University, MPCB,PM10,62,274,147
+2973,Maharashtra,Mumbai,Mindspace, MPCB,PM10,132,197,155
+2977,Maharashtra,Mumbai,0vy 0gar, IITM,PM10,111,277,198
+2982,Maharashtra,Mumbai,Siddharth 0gar, IITM,PM10,104,152,127
+2983,Maharashtra,Mumbai,Sion, MPCB,PM10,98,269,157
+2985,Maharashtra,Mumbai,Vasai West, MPCB,PM10,80,186,123
+2988,Maharashtra,Mumbai,Worli, MPCB,PM10,0,0,0
+2991,Maharashtra,0gpur,Mahal, MPCB,PM10,107,182,139
+2997,Maharashtra,0shik,Gangapur Road, MPCB,PM10,93,192,139
+3001,Maharashtra,0shik,Hirawadi, MPCB,PM10,12,128,45
+3005,Maharashtra,0vi Mumbai,Sanpada, MPCB,PM10,120,212,162
+3009,Maharashtra,0vi Mumbai,Tondare, MPCB,PM10,123,185,156
+3019,Maharashtra,Pune,Savitribai Phule Pune University, MPCB,PM10,74,278,189
+3038,Meghalaya,Shillong,JN Stadium, Meghalaya PCB,PM10,0,0,0
+3044,Odisha,Angul,Hakimapada, OSPCB,PM10,124,384,237
+3048,Odisha,Barbil,Forest Office, OSPCB,PM10,100,381,153
+3050,Odisha,Bhubaneswar,Patia, OSPCB,PM10,105,232,151
+3054,Odisha,Bileipada,Tata Township, OSPCB,PM10,123,338,194
+3068,Punjab,Bathinda,Hardev 0gar, PPCB,PM10,39,159,108
+3090,Rajasthan,Bhilwara,Pratap 0gar, RSPCB,PM10,86,404,191
+3099,Rajasthan,Churu,Subash Chowk, RSPCB,PM10,68,231,141
+3112,Rajasthan,Jaipur,Mansarovar Sector, RSPCB,PM10,114,440,279
+3117,Rajasthan,Jaipur,Sector, RSPCB,PM10,103,401,195
+3120,Rajasthan,Jaisalmer,Sadar Bazar, RSPCB,PM10,117,413,222
+3125,Rajasthan,Jodhpur,Collectorate, RSPCB,PM10,105,463,259
+3127,Rajasthan,Jodhpur,Mandor, RSPCB,PM10,126,251,169
+3131,Rajasthan,Kota,Dhanmandi, RSPCB,PM10,184,453,306
+3137,Rajasthan,0gaur,Karni Colony, RSPCB,PM10,121,410,184
+3140,Rajasthan,Pratapgarh,Pragati 0gar, RSPCB,PM10,130,193,162
+3155,Tamil0du,Chengalpattu,Crescent University, TNPCB,PM10,0,0,0
+3164,Tamil0du,Chen0i,Kodungaiyur, TNPCB,PM10,35,148,90
+3171,Tamil0du,Chen0i,Royapuram, TNPCB,PM10,28,120,66
+3188,Telanga0,Hyderabad,Central University, TSPCB,PM10,88,135,112
+3193,Telanga0,Hyderabad,Kokapet, TSPCB,PM10,67,198,96
+3198,Telanga0,Hyderabad,New Malakpet, TSPCB,PM10,71,112,90
+3205,Telanga0,Hyderabad,Somajiguda, TSPCB,PM10,71,87,76
+3208,Tripura,Agartala,Bardowali, Tripura SPCB,PM10,112,257,166
+3211,Uttar_Pradesh,Agra,Manoharpur, UPPCB,PM10,58,387,124
+3220,Uttar_Pradesh,Agra,Shahjahan Garden, UPPCB,PM10,40,151,86
+3222,Uttar_Pradesh,Agra,Shastripuram, UPPCB,PM10,58,335,122
+3225,Uttar_Pradesh,Baghpat,Sardar Patel Inter College, UPPCB,PM10,82,219,133
+3226,Uttar_Pradesh,Bareilly,Civil Lines, UPPCB,PM10,68,128,95
+3229,Uttar_Pradesh,Bareilly,Rajendra 0gar, UPPCB,PM10,113,164,134
+3236,Uttar_Pradesh,Firozabad,Vibhab 0gar, UPPCB,PM10,50,154,102
+3238,Uttar_Pradesh,Ghaziabad,Loni, UPPCB,PM10,129,430,216
+3242,Uttar_Pradesh,Gorakhpur,Madan Mohan Malaviya University of Technology, UPPCB,PM10,71,127,102
+3245,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,PM10,184,487,327
+3247,Uttar_Pradesh,Jhansi,Shivaji 0gar, UPPCB,PM10,50,188,114
+3249,Uttar_Pradesh,Kanpur,FTI Kidwai 0gar, UPPCB,PM10,97,245,137
+3252,Uttar_Pradesh,Kanpur,NSI Kalyanpur, UPPCB,PM10,103,328,169
+3260,Uttar_Pradesh,Lucknow,Kendriya Vidyalaya, CPCB,PM10,115,206,141
+3267,Uttar_Pradesh,Lucknow,Talkatora District Industries Center, CPCB,PM10,146,265,188
+3269,Uttar_Pradesh,Meerut,Jai Bhim 0gar, UPPCB,PM10,83,221,139
+3273,Uttar_Pradesh,Moradabad,Employment Office, UPPCB,PM10,109,246,163
+3285,Uttar_Pradesh,Vara0si,Ardhali Bazar, UPPCB,PM10,43,124,89
+3308,West_Bengal,Kolkata,Fort William, WBPCB,PM10,104,214,159
+3311,West_Bengal,Kolkata,Jadavpur, WBPCB,PM10,80,202,125
+9,Andhra_Pradesh,Vijayawada,Rajiv Gandhi Park, APPCB,PM2.5,52,82,66
+11,Andhra_Pradesh,Visakhapat0m,GVM Corporation, APPCB,PM2.5,103,310,186
+12,Assam,Guwahati,IITG, PCBA,PM2.5,46,330,202
+15,Assam,0gaon,Christianpatty, PCBA,PM2.5,45,210,87
+33,Bihar,Kishanganj,SDM Office_Khagra, BSPCB,PM2.5,38,263,95
+41,Bihar,Muzaffarpur,Muzaffarpur Collectorate, BSPCB,PM2.5,62,456,189
+45,Bihar,Pat0,Govt. High School Shikarpur, BSPCB,PM2.5,93,330,227
+52,Bihar,Rajgir,Dangi Tola, BSPCB,PM2.5,68,406,273
+55,Bihar,Siwan,Chitragupta 0gar, BSPCB,PM2.5,0,0,0
+59,Chandigarh,Chandigarh,Sector 22, CPCC,PM2.5,307,416,346
+66,Chhattisgarh,Bilaspur,Mangala, NTPC,PM2.5,0,0,0
+67,Chhattisgarh,Chhal,0wapara SECL Colony, CECB,PM2.5,54,246,118
+71,Chhattisgarh,Milupara,Govt. Higher Secondary School, CECB,PM2.5,55,86,68
+74,Chhattisgarh,Raipur,Bhatagaon New ISBT, CECB,PM2.5,0,0,0
+87,Delhi,Delhi,Bawa0, DPCC,PM2.5,327,466,377
+93,Delhi,Delhi,ITO, CPCB,PM2.5,341,500,418
+100,Delhi,Delhi,Mandir Marg, DPCC,PM2.5,85,468,367
+102,Delhi,Delhi,Mundka, DPCC,PM2.5,371,500,439
+120,Delhi,Delhi,Rohini, DPCC,PM2.5,310,450,394
+124,Delhi,Delhi,Sri Aurobindo Marg, DPCC,PM2.5,316,425,369
+133,Gujarat,Ahmedabad,SAC ISRO Satellite, IITM,PM2.5,92,129,119
+144,Gujarat,Surat,Science Center, SMC,PM2.5,61,158,94
+158,Harya0,Dharuhera,Municipal Corporation Office,  HSPCB,PM2.5,83,325,236
+164,Harya0,Fatehabad,Huda Sector, HSPCB,PM2.5,27,367,228
+166,Harya0,Gurugram,NISE Gwal Pahari, IMD,PM2.5,93,397,295
+174,Harya0,Kaithal,Rishi 0gar, HSPCB,PM2.5,63,262,154
+183,Harya0,Manesar,Sector, HSPCB,PM2.5,122,404,234
+188,Harya0,Panipat,Sector, HSPCB,PM2.5,187,209,199
+190,Harya0,Sirsa,F, HSPCB,PM2.5,80,295,131
+193,Himachal Pradesh,Baddi,HIMUDA Complex Phase, HPPCB,PM2.5,170,481,331
+206,Kar0taka,Bengaluru,Peenya, CPCB,PM2.5,26,188,59
+208,Kar0taka,Bengaluru,RVCE, KSPCB,PM2.5,58,84,74
+232,Kar0taka,Raichur,Haji Colony, KSPCB,PM2.5,30,71,42
+242,Kerala,Kollam,Polayathode, Kerala PCB,PM2.5,16,163,83
+249,Madhya Pradesh,Damoh,Shrivastav Colony, MPPCB,PM2.5,28,93,48
+252,Madhya Pradesh,Gwalior,Maharaj Bada, MPPCB,PM2.5,96,457,267
+257,Madhya Pradesh,Indore,Maguda 0gar, IMC,PM2.5,0,0,0
+261,Madhya Pradesh,Jabalpur,Gupteshwar, JMC,PM2.5,63,319,145
+268,Madhya Pradesh,Ratlam,Shasthri 0gar, IPCA Lab,PM2.5,104,253,174
+272,Madhya Pradesh,Sagar,Deen Dayal 0gar, MPPCB,PM2.5,45,182,85
+275,Madhya Pradesh,Ujjain,Mahakaleshwar Temple, MPPCB,PM2.5,159,361,296
+277,Maharashtra,Akola,Ramdaspeth, MPCB,PM2.5,90,308,171
+300,Maharashtra,Latur,Sawe Wadi, MPCB,PM2.5,115,343,200
+304,Maharashtra,Mira-Bhayandar,Bhayandar West, MPCB,PM2.5,105,235,156
+307,Maharashtra,Mumbai,Bandra Kurla Complex, MPCB,PM2.5,102,308,214
+316,Maharashtra,Mumbai,Chembur, MPCB,PM2.5,128,244,187
+318,Maharashtra,Mumbai,Chhatrapati Shivaji Intl. Airport (T2), MPCB,PM2.5,30,85,59
+324,Maharashtra,Mumbai,Kandivali East, MPCB,PM2.5,18,73,50
+337,Maharashtra,Mumbai,0vy 0gar, IITM,PM2.5,101,268,194
+340,Maharashtra,Mumbai,Sewri, BMC,PM2.5,148,301,244
+357,Maharashtra,0shik,Pandav 0gari, MPCB,PM2.5,118,284,186
+384,Maharashtra,Solapur,Solapur, MPCB,PM2.5,30,57,40
+385,Maharashtra,Thane,Kasarvadavali, MPCB,PM2.5,0,0,0
+390,Manipur,Imphal,DM College of Science, Manipur PCB,PM2.5,7,90,24
+405,Odisha,Byasa0gar,Ferro Chrome Colony, OSPCB,PM2.5,83,322,156
+407,Odisha,Cuttack,CDA Area, OSPCB,PM2.5,133,322,247
+410,Odisha,0yagarh,Dabu0, OSPCB,PM2.5,96,237,150
+413,Odisha,Rourkela,Raghu0thpali, OSPCB,PM2.5,90,367,219
+420,Odisha,Tensa,Barsua Iron Ore Mines, OSPCB,PM2.5,71,125,87
+424,Punjab,Bathinda,Hardev 0gar, PPCB,PM2.5,34,242,116
+428,Punjab,Ludhia0,Punjab Agricultural University, PPCB,PM2.5,57,390,219
+434,Rajasthan,Ajmer,Civil Lines, RSPCB,PM2.5,70,255,135
+440,Rajasthan,Baran,Bamboliya, RSPCB,PM2.5,67,371,232
+469,Rajasthan,Jodhpur,Mandor, RSPCB,PM2.5,190,351,288
+475,Rajasthan,Kota,Dhanmandi, RSPCB,PM2.5,322,500,397
+479,Rajasthan,0gaur,Karni Colony, RSPCB,PM2.5,94,356,213
+483,Rajasthan,Pali,Indira Colony Vistar, RSPCB,PM2.5,85,380,227
+489,Rajasthan,Sri Ganga0gar,Old City, RSPCB,PM2.5,45,494,274
+494,Tamil0du,Chengalpattu,Crescent University, TNPCB,PM2.5,0,0,0
+497,Tamil0du,Chen0i,Arumbakkam, TNPCB,PM2.5,49,161,75
+498,Tamil0du,Chen0i,Gandhi 0gar_Ennore, TNPCB,PM2.5,36,127,61
+501,Tamil0du,Chen0i,Perungudi, TNPCB,PM2.5,28,178,68
+504,Tamil0du,Coimbatore,PSG College of Arts and Science, TNPCB,PM2.5,0,0,0
+507,Tamil0du,Cuddalore,Kudikadu, TNPCB,PM2.5,22,76,49
+517,Telanga0,Hyderabad,ICRISAT Patancheru, TSPCB,PM2.5,72,182,136
+526,Telanga0,Hyderabad,Sa0th0gar, TSPCB,PM2.5,117,341,261
+534,Uttar_Pradesh,Agra,Sector, UPPCB,PM2.5,44,332,141
+539,Uttar_Pradesh,Bareilly,Civil Lines, UPPCB,PM2.5,84,238,113
+540,Uttar_Pradesh,Bareilly,Rajendra 0gar, UPPCB,PM2.5,91,188,120
+542,Uttar_Pradesh,Firozabad,0gla Bhau, UPPCB,PM2.5,41,316,159
+548,Uttar_Pradesh,Ghaziabad,Sanjay 0gar, UPPCB,PM2.5,163,411,315
+549,Uttar_Pradesh,Ghaziabad,Vasundhara, UPPCB,PM2.5,172,448,345
+553,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,PM2.5,153,405,324
+563,Uttar_Pradesh,Kanpur,NSI Kalyanpur, UPPCB,PM2.5,48,317,137
+571,Uttar_Pradesh,Lucknow,Talkatora District Industries Center, CPCB,PM2.5,255,367,315
+590,Uttar_Pradesh,Noida,Sector , IMD,PM2.5,208,453,353
+600,Uttar_Pradesh,Prayagraj,0gar Nigam, UPPCB,PM2.5,77,242,142
+606,Uttar_Pradesh,Vara0si,IESD Ba0ras Hindu University, UPPCB,PM2.5,43,103,64
+609,Uttar_Pradesh,Vara0si,Maldahiya, UPPCB,PM2.5,34,79,61
+615,West_Bengal,Barrackpore,SVSPA Campus, WBPCB,PM2.5,89,359,240
+618,West_Bengal,Durgapur,Sidhu Kanhu Indoor Stadium, WBPCB,PM2.5,59,148,84
+623,West_Bengal,Howrah,Padmapukur, WBPCB,PM2.5,80,303,203
+627,West_Bengal,Kolkata,Fort William, WBPCB,PM2.5,88,326,241
+629,West_Bengal,Kolkata,Jadavpur, WBPCB,PM2.5,60,252,147
+635,Andhra_Pradesh,A0ntapur,Gulzarpet, APPCB,PM2.5,44,70,55
+636,Andhra_Pradesh,Chittoor,Gangineni Cheruvu, APPCB,PM2.5,21,83,46
+653,Assam,Guwahati,Pan Bazaar, PCBA,PM2.5,40,323,182
+655,Assam,Guwahati,Railway Colony, PCBA,PM2.5,0,0,0
+660,Assam,Sivasagar,Girls College, PCBA,PM2.5,17,54,38
+673,Bihar,Bihar Sharif,D M Colony, BSPCB,PM2.5,42,200,75
+676,Bihar,Gaya,Kareemganj, BSPCB,PM2.5,50,240,109
+680,Bihar,Hajipur,Industrial Area, BSPCB,PM2.5,47,136,68
+684,Bihar,Manguraha,Forest Rest House, BSPCB,PM2.5,17,88,35
+705,Chhattisgarh,Bhilai,32Bungalows, CECB,PM2.5,255,318,292
+706,Chhattisgarh,Bhilai,Civic Center, CECB,PM2.5,0,0,0
+714,Chhattisgarh,Korba,Rampur, CECB,PM2.5,33,115,54
+716,Chhattisgarh,Korba,Urja 0gar, CECB,PM2.5,21,61,35
+718,Chhattisgarh,Kunjemura,OP Jindal School, CECB,PM2.5,62,317,100
+724,Chhattisgarh,Tumidih,OP Jindal Industrial Park, CECB,PM2.5,67,335,127
+729,Delhi,Delhi,Aya 0gar, IMD,PM2.5,183,372,323
+732,Delhi,Delhi,DTU, CPCB,PM2.5,98,324,241
+735,Delhi,Delhi,Dwarka, DPCC ,PM2.5,346,492,397
+736,Delhi,Delhi,IHBAS, CPCB,PM2.5,0,0,0
+738,Delhi,Delhi,Jahangirpuri, DPCC,PM2.5,344,500,430
+751,Delhi,Delhi,0rela, DPCC,PM2.5,304,417,353
+753,Delhi,Delhi,Nehru 0gar, DPCC,PM2.5,308,500,429
+755,Delhi,Delhi,New Moti Bagh, MHUA,PM2.5,311,471,383
+766,Delhi,Delhi,Shadipur, CPCB,PM2.5,318,466,403
+772,Delhi,Delhi,Vivek Vihar, DPCC,PM2.5,315,463,390
+776,Gujarat,Ahmedabad,Chandkheda, IITM,PM2.5,95,315,176
+778,Gujarat,Ahmedabad,Gyaspur, IITM,PM2.5,179,326,246
+784,Gujarat,Ahmedabad,Raikhad, IITM,PM2.5,21,500,257
+786,Gujarat,Ahmedabad,SVPI Airport Hansol, IITM,PM2.5,35,136,61
+790,Gujarat,Gandhi0gar,IIPHG Lekawada, IITM,PM2.5,62,73,66
+794,Harya0,Ambala,Patti Mehar, HSPCB,PM2.5,76,314,179
+796,Harya0,Bahadurgarh,Arya 0gar, HSPCB,PM2.5,162,378,298
+799,Harya0,Ballabgarh,0thu Colony, HSPCB,PM2.5,325,374,349
+802,Harya0,Faridabad,New Industrial Town, HSPCB,PM2.5,177,482,352
+803,Harya0,Faridabad,Sector 30, HSPCB,PM2.5,154,187,169
+807,Harya0,Gurugram,Sector, HSPCB,PM2.5,304,500,349
+811,Harya0,Gurugram,Vikas Sadan, HSPCB,PM2.5,92,343,231
+814,Harya0,Panchkula,Sector, HSPCB,PM2.5,42,300,183
+821,Harya0,Yamu0 0gar,Gobind Pura, HSPCB,PM2.5,61,348,189
+826,Jammu_and_Kashmir,Sri0gar,Rajbagh, JKSPCB,PM2.5,0,0,0
+828,Jharkhand,Dhanbad,Sardar Patel 0gar, JSPCB,PM2.5,53,120,83
+830,Kar0taka,Bagalkot,Vidayagiri, KSPCB,PM2.5,30,44,43
+832,Kar0taka,Belgaum,Ramteerth 0gar, KSPCB,PM2.5,35,78,57
+837,Kar0taka,Bengaluru,Hebbal, KSPCB,PM2.5,0,0,0
+840,Kar0taka,Bengaluru,Jaya0gar 5th Block, KSPCB,PM2.5,37,126,76
+851,Kar0taka,Bengaluru,Silk Board, KSPCB,PM2.5,16,92,51
+857,Kar0taka,Chikkaballapur,Chikkaballapur Rural, KSPCB,PM2.5,18,97,65
+861,Kar0taka,Dava0gere,Devaraj Urs Badavane, KSPCB,PM2.5,36,177,69
+862,Kar0taka,Dharwad,Kalabhavan, KSPCB,PM2.5,31,55,45
+870,Kar0taka,Kalaburagi,Mahatma Basaveswar Colony, KSPCB,PM2.5,10,44,28
+874,Kar0taka,Madikeri,Stuart Hill, KSPCB,PM2.5,10,46,31
+876,Kar0taka,Mysuru,Hebbal 1st Stage, KSPCB,PM2.5,23,46,33
+885,Kar0taka,Tumakuru,Thimmalapura, KSPCB,PM2.5,46,131,83
+888,Kerala,Kannur,Thavakkara, Kerala PCB,PM2.5,37,44,40
+895,Madhya Pradesh,Bhopal,Idgah Hills, MPPCB,PM2.5,85,315,255
+901,Madhya Pradesh,Dewas,Bhopal Chauraha, MPPCB,PM2.5,143,325,270
+903,Madhya Pradesh,Gwalior,City Center, MPPCB,PM2.5,22,431,212
+904,Madhya Pradesh,Gwalior,Phool Bagh, Mondelez Ind. Food,PM2.5,303,460,364
+915,Madhya Pradesh,Jabalpur,Suhagi, JMC,PM2.5,82,297,180
+924,Madhya Pradesh,Sat0,Bandhavgar Colony, Birla Cement,PM2.5,1,45,25
+938,Maharashtra,Bhiwandi,Gokul 0gar, MPCB,PM2.5,92,357,231
+942,Maharashtra,Dhule,Deopur, MPCB,PM2.5,82,357,218
+946,Maharashtra,Jalgaon,Prabhat Colony, MPCB,PM2.5,68,348,163
+949,Maharashtra,Jal0,Old MIDC, MPCB,PM2.5,99,305,200
+956,Maharashtra,Mahad,Kamble Tarf Birwadi, MPCB,PM2.5,88,216,141
+965,Maharashtra,Mumbai,Byculla, BMC,PM2.5,111,304,210
+971,Maharashtra,Mumbai,Colaba, MPCB,PM2.5,86,226,141
+974,Maharashtra,Mumbai,Kandivali West, BMC,PM2.5,114,241,189
+975,Maharashtra,Mumbai,Khindipada, IITM,PM2.5,0,0,0
+990,Maharashtra,Mumbai,Shivaji 0gar, BMC,PM2.5,219,336,283
+994,Maharashtra,Mumbai,Sion, MPCB,PM2.5,78,267,177
+998,Maharashtra,Mumbai,Vile Parle West, MPCB,PM2.5,0,0,0
+999,Maharashtra,Mumbai,Worli, MPCB,PM2.5,69,138,98
+1001,Maharashtra,0gpur,Ambazari, MPCB,PM2.5,294,362,318
+1004,Maharashtra,0gpur,Mahal, MPCB,PM2.5,160,315,224
+1007,Maharashtra,0shik,Gangapur Road, MPCB,PM2.5,89,322,204
+1014,Maharashtra,0vi Mumbai,Kopripada, MPCB,PM2.5,102,302,205
+1018,Maharashtra,0vi Mumbai,Mahape, MPCB,PM2.5,62,287,98
+1021,Maharashtra,0vi Mumbai,Sanpada, MPCB,PM2.5,138,310,226
+1022,Maharashtra,0vi Mumbai,Sector, MPCB,PM2.5,125,320,262
+1032,Maharashtra,Pune,Karve Road, MPCB,PM2.5,19,124,47
+1036,Maharashtra,Pune,Savitribai Phule Pune University, MPCB,PM2.5,55,317,216
+1048,Maharashtra,Thane,Upvan Fort, MPCB,PM2.5,0,0,0
+1051,Maharashtra,Ulhas0gar,Sidhi Vi0yak 0gar, MPCB,PM2.5,136,334,238
+1053,Maharashtra,Virar,Bolinj, MPCB,PM2.5,132,320,226
+1079,Odisha,Rourkela,Fertilizer Township, OSPCB,PM2.5,31,187,95
+1081,Odisha,Rourkela,Sector, OSPCB,PM2.5,31,284,98
+1090,Puducherry,Puducherry,Jawahar 0gar, PPCC,PM2.5,20,69,38
+1107,Rajasthan,Chittorgarh,Shastri 0gar, RSPCB,PM2.5,123,418,308
+1110,Rajasthan,Churu,Subash Chowk, RSPCB,PM2.5,38,349,204
+1116,Rajasthan,Dungarpur,Bhoiwada, RSPCB,PM2.5,230,348,309
+1123,Rajasthan,Jaipur,Shastri 0gar, RSPCB,PM2.5,40,409,266
+1125,Rajasthan,Jaisalmer,Sadar Bazar, RSPCB,PM2.5,72,400,286
+1128,Rajasthan,Jhalawar,Rajlaxmi 0gar, RSPCB,PM2.5,43,345,205
+1145,Rajasthan,Rajsamand,Dhoinda, RSPCB,PM2.5,133,383,294
+1157,Rajasthan,Udaipur,Ashok 0gar, RSPCB,PM2.5,180,371,287
+1158,Sikkim,Gangtok,Zero Point GICI, SSPCB,PM2.5,10,23,16
+1161,Tamil0du,Chen0i,Alandur Bus Depot, CPCB,PM2.5,50,72,60
+1163,Tamil0du,Chen0i,Ma0li, CPCB,PM2.5,37,114,80
+1167,Tamil0du,Gummidipoondi,Anthoni Pillai 0gar, TNPCB,PM2.5,37,408,180
+1179,Tamil0du,Tirupur,Kumaran College, TNPCB,PM2.5,13,44,27
+1181,Tamil0du,Vellore,Vasanthapuram, TNPCB,PM2.5,0,0,0
+1188,Telanga0,Hyderabad,IDA Pashamylaram, TSPCB,PM2.5,139,188,170
+1192,Telanga0,Hyderabad,Kompally Municipal Office, TSPCB,PM2.5,36,200,65
+1193,Telanga0,Hyderabad,New Malakpet, TSPCB,PM2.5,60,155,91
+1197,Telanga0,Hyderabad,Zoo Park, TSPCB,PM2.5,142,182,163
+1199,Uttar_Pradesh,Agra,Manoharpur, UPPCB,PM2.5,40,343,108
+1213,Uttar_Pradesh,Ghaziabad,Indirapuram, UPPCB,PM2.5,112,385,302
+1218,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,PM2.5,229,442,361
+1224,Uttar_Pradesh,Lucknow,Gomti 0gar, UPPCB,PM2.5,75,245,113
+1231,Uttar_Pradesh,Meerut,Jai Bhim 0gar, UPPCB,PM2.5,98,378,248
+1232,Uttar_Pradesh,Moradabad,Buddhi Vihar, UPPCB,PM2.5,78,300,168
+1241,Uttar_Pradesh,Moradabad,Transport 0gar, UPPCB,PM2.5,94,336,234
+1250,Uttar_Pradesh,Prayagraj,Jhunsi, UPPCB,PM2.5,51,199,83
+1258,Uttar_Pradesh,Vrindavan,Omex Eternity, UPPCB,PM2.5,42,202,76
+1264,West_Bengal,Haldia,Priyambada Housing Estate, WBPCB,PM2.5,41,151,87
+1266,West_Bengal,Howrah,Belur Math, WBPCB,PM2.5,74,387,240
+1270,West_Bengal,Kolkata,Ballygunge, WBPCB,PM2.5,87,316,223
+1277,West_Bengal,Kolkata,Rabindra Bharati University, WBPCB,PM2.5,76,308,207
+1281,West_Bengal,Siliguri,Ward, WBPCB,PM2.5,38,147,72
+1288,Andhra_Pradesh,Kadapa,Yerramukkapalli, APPCB,PM2.5,11,313,69
+1289,Andhra_Pradesh,Tirupati,Tirumala, APPCB,PM2.5,58,205,122
+1293,Andhra_Pradesh,Vijayawada,Kanuru, APPCB,PM2.5,0,0,0
+1298,Aru0chal_Pradesh,0harlagun,0harlagun, APSPCB,PM2.5,38,307,92
+1309,Assam,0lbari,Bata Chowk, PCBA,PM2.5,62,500,208
+1321,Bihar,Bhagalpur,DM Office_Kachari Chowk, BSPCB,PM2.5,237,358,300
+1323,Bihar,Bhagalpur,Mayaganj, BSPCB,PM2.5,302,386,327
+1332,Bihar,Motihari,Gandak Colony, BSPCB,PM2.5,55,319,152
+1337,Bihar,Muzaffarpur,MIT, BSPCB,PM2.5,130,416,308
+1342,Bihar,Pat0,IGSC Planetarium Complex, BSPCB,PM2.5,82,385,212
+1344,Bihar,Pat0,Muradpur, BSPCB,PM2.5,176,348,298
+1347,Bihar,Purnia,Mariam 0gar, BSPCB,PM2.5,57,318,220
+1390,Delhi,Delhi,Dr. Karni Singh Shooting Range, DPCC,PM2.5,309,430,376
+1417,Delhi,Delhi,Okhla Phase, DPCC,PM2.5,306,441,379
+1418,Delhi,Delhi,Patparganj, DPCC,PM2.5,355,462,401
+1433,Delhi,Delhi,Sirifort, CPCB,PM2.5,305,436,390
+1441,Gujarat,Ahmedabad,Mani0gar, GPCB,PM2.5,182,309,245
+1452,Gujarat,Gandhi0gar,GIFT City, IITM,PM2.5,85,155,109
+1461,Gujarat,Gandhi0gar,Sector, GPCB,PM2.5,49,305,102
+1466,Gujarat,Vapi,Phase, GPCB,PM2.5,180,362,295
+1470,Harya0,Bhiwani,H.B. Colony, HSPCB,PM2.5,66,369,229
+1482,Harya0,Kar0l,Sector, HSPCB,PM2.5,59,273,156
+1503,Jharkhand,Dhanbad,Kalakusuma, DMC,PM2.5,4,277,76
+1515,Kar0taka,Bengaluru,Hombegowda 0gar, KSPCB,PM2.5,27,55,41
+1520,Kar0taka,Bengaluru,Kasturi 0gar, KSPCB,PM2.5,50,94,73
+1527,Kar0taka,Bengaluru,Shivapura_Peenya, KSPCB,PM2.5,7,117,48
+1541,Kar0taka,Karwar,KHB Colony, KSPCB,PM2.5,50,203,96
+1551,Kar0taka,Rama0gara,Vijay 0gar, KSPCB,PM2.5,18,90,49
+1559,Kar0taka,Yadgir,Collector Office, KSPCB,PM2.5,91,188,128
+1570,Kerala,Thrissur,Corporation Ground, Kerala PCB,PM2.5,48,54,51
+1572,Madhya Pradesh,Bhopal,Paryavaran Parisar, MPPCB,PM2.5,98,434,294
+1577,Madhya Pradesh,Gwalior,Deen Dayal 0gar, MPPCB,PM2.5,62,500,338
+1580,Madhya Pradesh,Indore,Chhoti Gwaltoli, MPPCB,PM2.5,125,375,293
+1584,Madhya Pradesh,Jabalpur,Govindh Bhavan Colony, JMC,PM2.5,55,137,93
+1597,Madhya Pradesh,Pithampur,Sector, MPPCB,PM2.5,97,358,258
+1598,Madhya Pradesh,Sagar,Civil Lines, MPPCB,PM2.5,80,343,254
+1609,Maharashtra,Aurangabad,MIDC Chilkaltha0, MPCB,PM2.5,5,401,339
+1622,Maharashtra,Kolhapur,Shivaji University, MPCB,PM2.5,77,121,93
+1625,Maharashtra,Kolhapur,Sinchan Bhavan, MPCB,PM2.5,238,270,250
+1639,Maharashtra,Mumbai,Chakala, IITM,PM2.5,123,194,166
+1659,Maharashtra,Mumbai,Powai, MPCB,PM2.5,72,131,96
+1661,Maharashtra,Mumbai,Siddharth 0gar, IITM,PM2.5,99,242,168
+1672,Maharashtra,0gpur,Opp GPO Civil Lines, MPCB,PM2.5,163,326,238
+1673,Maharashtra,0gpur,Ram 0gar, MPCB,PM2.5,150,319,243
+1676,Maharashtra,0shik,MIDC Ambad, MPCB,PM2.5,207,310,278
+1686,Maharashtra,0vi Mumbai,Tondare, MPCB,PM2.5,134,286,211
+1691,Maharashtra,Pimpri-Chinchwad,Thergaon, MPCB,PM2.5,110,372,285
+1694,Maharashtra,Pune,Bhosari, IITM,PM2.5,0,0,0
+1701,Maharashtra,Sangli,Vijay 0gar, MPCB,PM2.5,67,294,181
+1713,Meghalaya,Shillong,Lumpyngngad, Meghalaya PCB,PM2.5,9,72,38
+1715,Mizoram,Aizawl,Sikulpuikawn, Mizoram PCB,PM2.5,6,33,14
+1718,Odisha,Angul,Hakimapada, OSPCB,PM2.5,0,0,0
+1722,Odisha,Barbil,Forest Office, OSPCB,PM2.5,85,385,183
+1723,Odisha,Baripada,Meher Colony, OSPCB,PM2.5,116,257,165
+1725,Odisha,Bhubaneswar,Lingraj Mandir, OSPCB,PM2.5,163,342,275
+1729,Odisha,Brajraj0gar,GM Office, OSPCB,PM2.5,32,211,85
+1736,Odisha,Keonjhar,Jagamohanpur, OSPCB,PM2.5,12,326,221
+1744,Punjab,Jalandhar,Civil Line, PPCB,PM2.5,56,303,137
+1750,Punjab,Mandi Gobindgarh,RIMT University, PPCB,PM2.5,58,368,230
+1762,Rajasthan,Bhiwadi,RIICO Ind. Area III, RSPCB,PM2.5,50,371,215
+1765,Rajasthan,Bikaner,MM Ground, RSPCB,PM2.5,72,334,198
+1771,Rajasthan,Dausa,Khatikan Mohalla, RSPCB,PM2.5,37,373,177
+1775,Rajasthan,Hanumangarh,Housing Board, RSPCB,PM2.5,301,500,394
+1782,Rajasthan,Jaipur,Police Commissionerate, RSPCB,PM2.5,200,372,314
+1784,Rajasthan,Jaipur,Sector, RSPCB,PM2.5,69,422,262
+1797,Rajasthan,Jodhpur,Collectorate, RSPCB,PM2.5,88,374,280
+1801,Rajasthan,Jodhpur,Jhalamand, RSPCB,PM2.5,161,369,295
+1809,Rajasthan,Kota,Shri0th Puram, RSPCB,PM2.5,293,428,345
+1811,Rajasthan,Sawai Madhopur,Sahu 0gar, RSPCB,PM2.5,46,321,171
+1815,Rajasthan,Tonk,Shastri 0gar, RSPCB,PM2.5,57,500,250
+1829,Tamil0du,Chen0i,Royapuram, TNPCB,PM2.5,29,205,72
+1840,Tamil0du,Salem,So0 College of Technology, TNPCB,PM2.5,0,0,0
+1848,Telanga0,Hyderabad,Central University, TSPCB,PM2.5,59,128,96
+1849,Telanga0,Hyderabad,ECIL Kapra, TSPCB,PM2.5,54,66,57
+1865,Telanga0,Hyderabad,Somajiguda, TSPCB,PM2.5,52,78,65
+1873,Uttar_Pradesh,Agra,Shahjahan Garden, UPPCB,PM2.5,38,260,103
+1875,Uttar_Pradesh,Agra,Shastripuram, UPPCB,PM2.5,46,346,126
+1886,Uttar_Pradesh,Ghaziabad,Loni, UPPCB,PM2.5,134,422,320
+1893,Uttar_Pradesh,Kanpur,FTI Kidwai 0gar, UPPCB,PM2.5,66,273,107
+1901,Uttar_Pradesh,Lucknow,Kendriya Vidyalaya, CPCB,PM2.5,138,361,232
+1902,Uttar_Pradesh,Lucknow,Kukrail Picnic Spot, UPPCB,PM2.5,0,0,0
+1914,Uttar_Pradesh,Moradabad,Jigar Colony, UPPCB,PM2.5,81,293,133
+1916,Uttar_Pradesh,Noida,Sector , UPPCB,PM2.5,198,386,318
+1926,Uttar_Pradesh,Vara0si,Ardhali Bazar, UPPCB,PM2.5,38,102,73
+1933,Uttarakhand,Dehradun,Doon University, UKPCB,PM2.5,27,312,163
+1945,West_Bengal,Kolkata,Bidhan0gar, WBPCB,PM2.5,86,308,192
+1951,West_Bengal,Kolkata,Rabindra Sarobar, WBPCB,PM2.5,82,261,179
+1955,Andhra_Pradesh,Amaravati,Secretariat, APPCB,PM2.5,129,295,189
+1964,Andhra_Pradesh,Rajamahendravaram,A0nd Kala Kshetram, APPCB,PM2.5,180,316,256
+1968,Andhra_Pradesh,Tirupati,Vaikuntapuram, APPCB,PM2.5,16,344,110
+1982,Assam,Guwahati,LGBI Airport, PCBA,PM2.5,67,346,216
+1994,Bihar,Araria,Kharahiya Basti, BSPCB,PM2.5,72,399,285
+1997,Bihar,Aurangabad,Gurdeo 0gar, BSPCB,PM2.5,43,317,104
+2002,Bihar,Chhapra,Darshan 0gar, BSPCB,PM2.5,197,365,310
+2016,Bihar,Munger,Town Hall, BSPCB,PM2.5,0,0,0
+2025,Bihar,Pat0,Rajbansi 0gar, BSPCB,PM2.5,0,0,0
+2027,Bihar,Pat0,Samanpura, BSPCB,PM2.5,131,500,363
+2031,Bihar,Samastipur,DM Office_Kasipur, BSPCB,PM2.5,58,267,112
+2035,Chandigarh,Chandigarh,Sector, CPCC,PM2.5,201,322,261
+2037,Chandigarh,Chandigarh,Sector, CPCC,PM2.5,322,449,369
+2043,Chhattisgarh,Bhilai,Hathkhoj, CECB,PM2.5,243,319,295
+2058,Chhattisgarh,Raipur,Krishak 0gar, CECB,PM2.5,90,156,132
+2060,Chhattisgarh,Raipur,Siltara Phase, CECB,PM2.5,82,318,188
+2067,Delhi,Delhi,A0nd Vihar, DPCC,PM2.5,327,500,410
+2070,Delhi,Delhi,Ashok Vihar, DPCC,PM2.5,305,455,380
+2074,Delhi,Delhi,Burari Crossing, IMD,PM2.5,275,437,371
+2077,Delhi,Delhi,CRRI Mathura Road, IMD,PM2.5,178,389,338
+2084,Delhi,Delhi,IGI Airport (T3), IMD,PM2.5,307,405,359
+2092,Delhi,Delhi,Lodhi Road, IMD,PM2.5,260,411,335
+2093,Delhi,Delhi,Major Dhyan Chand 0tio0l Stadium, DPCC,PM2.5,306,485,395
+2099,Delhi,Delhi,Punjabi Bagh, DPCC,PM2.5,309,486,413
+2107,Delhi,Delhi,Sonia Vihar, DPCC,PM2.5,329,442,397
+2115,Delhi,Delhi,Wazirpur, DPCC,PM2.5,338,493,408
+2123,Gujarat,Ahmedabad,Sardar Vallabhbhai Patel Stadium, IITM,PM2.5,55,166,88
+2144,Harya0,Faridabad,Sector, HSPCB,PM2.5,273,431,378
+2150,Harya0,Jind,Police Lines, HSPCB,PM2.5,74,315,201
+2158,Harya0,Rohtak,MD University, HSPCB,PM2.5,81,383,292
+2162,Harya0,Sonipat,Murthal, HSPCB,PM2.5,113,340,222
+2177,Kar0taka,Bengaluru,Jigani, KSPCB,PM2.5,13,98,53
+2184,Kar0taka,Chikkamagaluru,Kalya0 0gara, KSPCB,PM2.5,2,40,14
+2195,Kar0taka,Hubballi,Deshpande 0gar, KSPCB,PM2.5,25,169,90
+2202,Kar0taka,Mangalore,Kadri, KSPCB,PM2.5,19,103,58
+2207,Kar0taka,Shivamogga,Vinoba 0gara, KSPCB,PM2.5,32,39,36
+2214,Kerala,Eloor,Udyogamandal, Kerala PCB,PM2.5,16,19,18
+2241,Madhya Pradesh,Indore,Regio0l Park, IMC,PM2.5,75,342,183
+2245,Madhya Pradesh,Jabalpur,Marhatal, MPPCB,PM2.5,90,348,223
+2247,Madhya Pradesh,Katni,Gole Bazar, MPPCB,PM2.5,68,400,215
+2258,Maharashtra,Ahmed0gar,Tarakpur, MPCB,PM2.5,0,0,0
+2261,Maharashtra,Amravati,Shivneri Colony, MPCB,PM2.5,264,314,296
+2263,Maharashtra,Amravati,Shri Shivaji Science College, MPCB,PM2.5,283,366,325
+2267,Maharashtra,Aurangabad,More Chowk Waluj, MPCB,PM2.5,105,299,179
+2272,Maharashtra,Belapur,CBD Belapur, MPCB,PM2.5,0,0,0
+2276,Maharashtra,Chandrapur,Chauhan Colony, MPCB,PM2.5,307,390,345
+2288,Maharashtra,Malegaon,Mahesh 0gar, MPCB,PM2.5,113,307,185
+2290,Maharashtra,Mumbai,Bandra Kurla Complex, IITM,PM2.5,198,322,282
+2295,Maharashtra,Mumbai,Borivali East, IITM,PM2.5,119,248,184
+2296,Maharashtra,Mumbai,Borivali East, MPCB,PM2.5,50,180,89
+2306,Maharashtra,Mumbai,Ghatkopar, BMC,PM2.5,105,291,201
+2311,Maharashtra,Mumbai,Kherwadi_Bandra East, MPCB,PM2.5,135,269,224
+2316,Maharashtra,Mumbai,Malad West, IITM,PM2.5,218,324,278
+2318,Maharashtra,Mumbai,Mazgaon, IITM,PM2.5,89,176,138
+2321,Maharashtra,Mumbai,Mindspace, MPCB,PM2.5,94,262,172
+2330,Maharashtra,Mumbai,Vasai West, MPCB,PM2.5,40,105,65
+2341,Maharashtra,0vi Mumbai,Nerul, MPCB,PM2.5,71,235,150
+2349,Maharashtra,Parbhani,Masoom Colony, MPCB,PM2.5,118,402,214
+2357,Maharashtra,Pune,Alandi, IITM,PM2.5,72,350,245
+2361,Maharashtra,Pune,Mhada Colony, IITM,PM2.5,66,336,216
+2367,Maharashtra,Solapur,Dnyaneshwar 0gar, MPCB,PM2.5,76,475,229
+2369,Maharashtra,Solapur,Ratandeep Housing Society, MPCB,PM2.5,82,201,119
+2377,Manipur,Imphal,Manipur University, Manipur PCB,PM2.5,20,294,91
+2378,Meghalaya,Shillong,JN Stadium, Meghalaya PCB,PM2.5,0,0,0
+2382,0galand,Kohima,PWD Juction, NPCB,PM2.5,19,127,48
+2386,Odisha,Balasore,Kalidaspur, OSPCB,PM2.5,103,410,239
+2391,Odisha,Bhubaneswar,Patia, OSPCB,PM2.5,120,322,245
+2405,Odisha,Suakati,OMC Colony, OSPCB,PM2.5,87,247,142
+2412,Punjab,Khan0,Kalal Majra, PPCB,PM2.5,65,272,110
+2413,Punjab,Patiala,Model Town, PPCB,PM2.5,81,300,152
+2420,Rajasthan,Barmer,Railway Colony, RSPCB,PM2.5,92,377,204
+2422,Rajasthan,Bharatpur,Krish0 0gar, RSPCB,PM2.5,0,0,0
+2445,Rajasthan,Jalore,Mudtra Sili, RSPCB,PM2.5,98,380,253
+2457,Rajasthan,Kota,0yapura, RSPCB,PM2.5,192,472,364
+2460,Rajasthan,Pratapgarh,Pragati 0gar, RSPCB,PM2.5,174,339,293
+2468,Rajasthan,Sirohi,Vedhay0th Colony, RSPCB,PM2.5,67,283,113
+2483,Tamil0du,Kanchipuram,Kilambi, TNPCB,PM2.5,35,256,55
+2485,Tamil0du,Ooty,Bombay Castel, TNPCB,PM2.5,7,52,29
+2511,Tripura,Agartala,Bardowali, Tripura SPCB,PM2.5,92,332,229
+2520,Uttar_Pradesh,Baghpat,Sardar Patel Inter College, UPPCB,PM2.5,98,363,235
+2533,Uttar_Pradesh,Gorakhpur,Madan Mohan Malaviya University of Technology, UPPCB,PM2.5,60,164,106
+2540,Uttar_Pradesh,Jhansi,Shivaji 0gar, UPPCB,PM2.5,32,198,85
+2546,Uttar_Pradesh,Kanpur,Nehru 0gar, UPPCB,PM2.5,152,426,272
+2548,Uttar_Pradesh,Khurja,Kalindi Kunj, UPPCB,PM2.5,56,309,147
+2558,Uttar_Pradesh,Meerut,Ganga 0gar, UPPCB,PM2.5,0,0,0
+2562,Uttar_Pradesh,Meerut,Pallavpuram Phase 2, UPPCB,PM2.5,97,397,252
+2564,Uttar_Pradesh,Moradabad,Eco Herbal Park, UPPCB,PM2.5,207,323,279
+2574,Uttar_Pradesh,Noida,Sector, UPPCB,PM2.5,315,393,349
+2577,Uttar_Pradesh,Noida,Sector, UPPCB,PM2.5,228,461,360
+2587,Uttarakhand,Kashipur,Govt. Girls Inter College, UKPCB,PM2.5,5,283,95
+2589,Uttarakhand,Rishikesh,Shivaji 0gar, UKPCB,PM2.5,26,58,41
+2598,West_Bengal,Howrah,Ghusuri, WBPCB,PM2.5,118,401,301
+2615,West_Bengal,Kolkata,Victoria, WBPCB,PM2.5,87,331,244
+2627,Andhra_Pradesh,Vijayawada,HB Colony, APPCB,PM2.5,33,68,48
+2633,Assam,Byrnihat,Central Academy for SFS, PCBA,PM2.5,50,500,262
+2637,Assam,Silchar,Tarapur, PCBA,PM2.5,23,27,25
+2640,Bihar,Arrah,New DM Office, BSPCB,PM2.5,130,390,327
+2643,Bihar,Bettiah,Kamal0th 0gar, BSPCB,PM2.5,23,180,76
+2651,Bihar,Gaya,Collectorate, BSPCB,PM2.5,301,426,337
+2654,Bihar,Gaya,SFTI Kusdihra, BSPCB,PM2.5,112,240,178
+2660,Bihar,Katihar,Mirchaibari, BSPCB,PM2.5,213,410,324
+2666,Bihar,Muzaffarpur,Buddha Colony, BSPCB,PM2.5,0,0,0
+2671,Bihar,Pat0,DRM Office Da0pur, BSPCB,PM2.5,277,358,328
+2685,Bihar,Saharsa,Police Line, BSPCB,PM2.5,130,406,290
+2689,Bihar,Sasaram,Dada Peer, BSPCB,PM2.5,90,328,184
+2704,Chhattisgarh,Raipur,AIIMS, CECB,PM2.5,85,319,221
+2711,Delhi,Delhi,Alipur, DPCC,PM2.5,290,460,365
+2728,Delhi,Delhi,Jawaharlal Nehru Stadium, DPCC,PM2.5,287,442,382
+2733,Delhi,Delhi,NSIT Dwarka, CPCB,PM2.5,313,461,376
+2735,Delhi,Delhi,0jafgarh, DPCC,PM2.5,0,0,0
+2738,Delhi,Delhi,North Campus, IMD,PM2.5,0,0,0
+2743,Delhi,Delhi,Pusa, DPCC,PM2.5,318,449,397
+2744,Delhi,Delhi,Pusa, IMD,PM2.5,212,403,334
+2745,Delhi,Delhi,R K Puram, DPCC,PM2.5,309,500,388
+2760,Gujarat,Ahmedabad,Rakhial, IITM,PM2.5,121,370,249
+2765,Gujarat,Ahmedabad,SAC ISRO Bopal, IITM,PM2.5,102,338,260
+2771,Gujarat,Ankleshwar,GIDC, GPCB,PM2.5,5,326,199
+2776,Gujarat,Vatva,Phase, GPCB,PM2.5,91,303,183
+2783,Harya0,Charkhi Dadri,Mini Secretariat, HSPCB,PM2.5,81,344,210
+2796,Harya0,Gurugram,Teri Gram, HSPCB,PM2.5,147,316,275
+2801,Harya0,Hisar,Urban Estate, HSPCB,PM2.5,122,339,264
+2809,Harya0,Kurukshetra,Sector, HSPCB,PM2.5,95,326,213
+2812,Harya0,Mandikhera,General Hospital, HSPCB,PM2.5,56,166,85
+2818,Harya0,Palwal,Shyam 0gar, HSPCB,PM2.5,24,131,62
+2829,Jharkhand,Pathardih,Mohalbani Ghat, JSPCB,PM2.5,76,76,76
+2832,Kar0taka,Bengaluru,BTM Layout, CPCB,PM2.5,12,35,20
+2834,Kar0taka,Bengaluru,Bapuji 0gar, KSPCB,PM2.5,73,167,107
+2851,Kar0taka,Chamaraja0gar,Urban, KSPCB,PM2.5,21,45,34
+2857,Kar0taka,Gadag,Panchal 0gar, KSPCB,PM2.5,12,65,40
+2861,Kar0taka,Haveri,Ashwini 0gar, KSPCB,PM2.5,81,200,135
+2864,Kar0taka,Hubballi,Lingaraj 0gar, KSPCB,PM2.5,9,68,30
+2872,Kar0taka,Koppal,Diwator 0gar, KSPCB,PM2.5,31,73,48
+2885,Kar0taka,Vijayapura,Ibrahimpur, KSPCB,PM2.5,29,36,35
+2891,Kerala,Kochi,Vyttila, Kerala PCB,PM2.5,41,116,72
+2894,Kerala,Thiruva0nthapuram,Kariavattom, Kerala PCB,PM2.5,56,66,62
+2897,Kerala,Thiruva0nthapuram,Plammoodu, Kerala PCB,PM2.5,3,90,36
+2905,Madhya Pradesh,Bhopal,T T 0gar, MPPCB,PM2.5,147,337,289
+2921,Madhya Pradesh,Maihar,Sahilara, KJS Cements,PM2.5,28,136,82
+2923,Madhya Pradesh,Mandideep,Sector, MPPCB,PM2.5,71,331,147
+2930,Madhya Pradesh,Singrauli,Suryakiran Bhawan NCL, MPPCB,PM2.5,147,386,231
+2940,Maharashtra,Aurangabad,Rach0kar Colony, MPCB,PM2.5,243,304,260
+2941,Maharashtra,Badlapur,Katrap, MPCB,PM2.5,137,332,238
+2949,Maharashtra,Kalyan,Khadakpada, MPCB,PM2.5,45,127,78
+2970,Maharashtra,Mumbai,Kurla, MPCB,PM2.5,82,302,188
+2975,Maharashtra,Mumbai,Mulund West, MPCB,PM2.5,115,285,169
+3000,Maharashtra,0shik,Hirawadi, MPCB,PM2.5,13,208,57
+3010,Maharashtra,Pimpri-Chinchwad,Gavali0gar, MPCB,PM2.5,128,375,298
+3012,Maharashtra,Pimpri-Chinchwad,Park Street Wakad, MPCB,PM2.5,76,337,264
+3016,Maharashtra,Pune,Revenue Colony, IITM,PM2.5,213,398,337
+3022,Maharashtra,Pune,Transport 0gar, IITM,PM2.5,86,287,193
+3053,Odisha,Bileipada,Tata Township, OSPCB,PM2.5,116,247,160
+3061,Odisha,Talcher,Talcher Coalfields, OSPCB,PM2.5,185,500,336
+3065,Punjab,Amritsar,Golden Temple, PPCB,PM2.5,60,320,153
+3079,Punjab,Rup0gar,Ratanpura, Ambuja Cements,PM2.5,62,324,185
+3081,Rajasthan,Alwar,Moti Doongri, RSPCB,PM2.5,48,187,94
+3083,Rajasthan,Banswara,Rati Talai, RSPCB,PM2.5,164,358,316
+3089,Rajasthan,Bhilwara,Pratap 0gar, RSPCB,PM2.5,94,449,308
+3095,Rajasthan,Bundi,New Colony, RSPCB,PM2.5,263,374,325
+3103,Rajasthan,Dholpur,Raja Ganj, RSPCB,PM2.5,55,500,303
+3108,Rajasthan,Jaipur,Adarsh 0gar, RSPCB,PM2.5,65,384,230
+3111,Rajasthan,Jaipur,Mansarovar Sector, RSPCB,PM2.5,75,382,276
+3114,Rajasthan,Jaipur,RIICO Sitapura, RSPCB,PM2.5,0,0,0
+3124,Rajasthan,Jhunjhunu,Indra 0gar, RSPCB,PM2.5,28,388,221
+3126,Rajasthan,Jodhpur,Digari Kalan, RSPCB,PM2.5,124,378,272
+3128,Rajasthan,Jodhpur,Samrat Ashok Udhyan, RSPCB,PM2.5,81,421,250
+3129,Rajasthan,Karauli,Satyawati Vihar, RSPCB,PM2.5,91,435,283
+3145,Rajasthan,Sikar,Radhakishan Pura, RSPCB,PM2.5,32,403,200
+3163,Tamil0du,Chen0i,Kodungaiyur, TNPCB,PM2.5,21,69,37
+3179,Tamil0du,Palkalaiperur,Bharathidasan University, TNPCB,PM2.5,16,42,28
+3182,Tamil0du,Rama0thapuram,Chalai Bazaar, TNPCB,PM2.5,11,44,27
+3185,Tamil0du,Tiruchirappalli,St Joseph College, TNPCB,PM2.5,0,0,0
+3191,Telanga0,Hyderabad,IITH Kandi, TSPCB,PM2.5,20,59,35
+3192,Telanga0,Hyderabad,Kokapet, TSPCB,PM2.5,38,373,96
+3197,Telanga0,Hyderabad,0charam_TSIIC IALA, TSPCB,PM2.5,40,124,81
+3201,Telanga0,Hyderabad,Ramachandrapuram, TSPCB,PM2.5,33,37,36
+3213,Uttar_Pradesh,Agra,Rohta, UPPCB,PM2.5,3,284,90
+3216,Uttar_Pradesh,Agra,Sanjay Palace, UPPCB,PM2.5,68,344,173
+3232,Uttar_Pradesh,Bulandshahr,Yamu0puram, UPPCB,PM2.5,83,382,229
+3235,Uttar_Pradesh,Firozabad,Vibhab 0gar, UPPCB,PM2.5,67,319,185
+3246,Uttar_Pradesh,Hapur,A0nd Vihar, UPPCB,PM2.5,147,382,273
+3254,Uttar_Pradesh,Lucknow,B R Ambedkar University, UPPCB,PM2.5,80,299,128
+3264,Uttar_Pradesh,Lucknow,Lalbagh, CPCB,PM2.5,260,373,311
+3272,Uttar_Pradesh,Moradabad,Employment Office, UPPCB,PM2.5,91,291,154
+3276,Uttar_Pradesh,Moradabad,Kashiram 0gar, UPPCB,PM2.5,78,322,174
+3278,Uttar_Pradesh,Muzaffar0gar,New Mandi, UPPCB,PM2.5,263,457,357
+3282,Uttar_Pradesh,Prayagraj,Motilal Nehru NIT, UPPCB,PM2.5,55,279,124
+3297,West_Bengal,Asansol,Asansol Court Area, WBPCB,PM2.5,72,325,160
+0,Andhra_Pradesh,A0ntapur,Gulzarpet, APPCB,SO2,0,0,0
+1,Andhra_Pradesh,Chittoor,Gangineni Cheruvu, APPCB,SO2,7,32,12
+13,Assam,Guwahati,IITG, PCBA,SO2,12,14,13
+23,Bihar,Bettiah,Kamal0th 0gar, BSPCB,SO2,12,18,15
+25,Bihar,Bhagalpur,Mayaganj, BSPCB,SO2,10,14,12
+38,Bihar,Muzaffarpur,Buddha Colony, BSPCB,SO2,0,0,0
+57,Bihar,Siwan,Chitragupta 0gar, BSPCB,SO2,4,68,29
+64,Chhattisgarh,Bhilai,32Bungalows, CECB,SO2,8,11,10
+78,Chhattisgarh,Raipur,Krishak 0gar, CECB,SO2,6,12,9
+92,Delhi,Delhi,IHBAS, CPCB,SO2,0,0,0
+95,Delhi,Delhi,Jahangirpuri, DPCC,SO2,11,23,16
+104,Delhi,Delhi,NSIT Dwarka, CPCB,SO2,9,22,14
+111,Delhi,Delhi,0rela, DPCC,SO2,1,5,2
+112,Delhi,Delhi,Nehru 0gar, DPCC,SO2,11,22,15
+116,Delhi,Delhi,Punjabi Bagh, DPCC,SO2,1,32,16
+129,Gujarat,Ahmedabad,Raikhad, IITM,SO2,3,3,3
+139,Gujarat,Ankleshwar,GIDC, GPCB,SO2,26,102,55
+142,Gujarat,Gandhi0gar,IIPHG Lekawada, IITM,SO2,9,10,9
+151,Harya0,Ambala,Patti Mehar, HSPCB,SO2,2,9,5
+152,Harya0,Bahadurgarh,Arya 0gar, HSPCB,SO2,8,16,10
+154,Harya0,Ballabgarh,0thu Colony, HSPCB,SO2,2,14,7
+163,Harya0,Faridabad,Sector, HSPCB,SO2,3,25,16
+170,Harya0,Gurugram,Teri Gram, HSPCB,SO2,2,5,4
+172,Harya0,Hisar,Urban Estate, HSPCB,SO2,2,52,26
+176,Harya0,Kaithal,Rishi 0gar, HSPCB,SO2,1,16,6
+179,Harya0,Kurukshetra,Sector, HSPCB,SO2,1,36,10
+181,Harya0,Mandikhera,General Hospital, HSPCB,SO2,30,37,34
+184,Harya0,Palwal,Shyam 0gar, HSPCB,SO2,2,9,6
+197,Jharkhand,Pathardih,Mohalbani Ghat, JSPCB,SO2,15,42,26
+205,Kar0taka,Bengaluru,Kasturi 0gar, KSPCB,SO2,8,8,8
+207,Kar0taka,Bengaluru,Peenya, CPCB,SO2,12,18,15
+213,Kar0taka,Chamaraja0gar,Urban, KSPCB,SO2,2,8,5
+219,Kar0taka,Hubballi,Lingaraj 0gar, KSPCB,SO2,1,5,2
+223,Kar0taka,Karwar,KHB Colony, KSPCB,SO2,18,18,18
+229,Kar0taka,Madikeri,Stuart Hill, KSPCB,SO2,4,4,4
+247,Madhya Pradesh,Bhopal,T T 0gar, MPPCB,SO2,10,48,28
+253,Madhya Pradesh,Gwalior,Maharaj Bada, MPPCB,SO2,14,27,20
+254,Madhya Pradesh,Gwalior,Phool Bagh, Mondelez Ind. Food,SO2,11,22,14
+258,Madhya Pradesh,Indore,Maguda 0gar, IMC,SO2,0,0,0
+265,Madhya Pradesh,Maihar,Sahilara, KJS Cements,SO2,11,13,12
+267,Madhya Pradesh,Pithampur,Sector, MPPCB,SO2,14,18,16
+271,Madhya Pradesh,Sagar,Civil Lines, MPPCB,SO2,3,5,4
+278,Maharashtra,Akola,Ramdaspeth, MPCB,SO2,3,18,10
+283,Maharashtra,Amravati,Shri Shivaji Science College, MPCB,SO2,33,77,51
+289,Maharashtra,Aurangabad,More Chowk Waluj, MPCB,SO2,10,12,11
+293,Maharashtra,Bhiwandi,Gokul 0gar, MPCB,SO2,7,33,15
+302,Maharashtra,Malegaon,Mahesh 0gar, MPCB,SO2,5,15,9
+312,Maharashtra,Mumbai,Borivali East, MPCB,SO2,7,9,8
+317,Maharashtra,Mumbai,Chembur, MPCB,SO2,8,30,14
+354,Maharashtra,0gpur,Ram 0gar, MPCB,SO2,11,36,22
+358,Maharashtra,0shik,Pandav 0gari, MPCB,SO2,5,9,8
+363,Maharashtra,0vi Mumbai,Nerul, MPCB,SO2,24,26,25
+365,Maharashtra,0vi Mumbai,Sector, MPCB,SO2,1,43,14
+367,Maharashtra,0vi Mumbai,Tondare, MPCB,SO2,85,124,101
+370,Maharashtra,Pimpri-Chinchwad,Gavali0gar, MPCB,SO2,5,24,13
+377,Maharashtra,Pune,Savitribai Phule Pune University, MPCB,SO2,2,7,4
+380,Maharashtra,Sangli,Vijay 0gar, MPCB,SO2,3,36,10
+398,Odisha,Balasore,Kalidaspur, OSPCB,SO2,16,36,24
+404,Odisha,Bhubaneswar,Patia, OSPCB,SO2,3,22,10
+417,Odisha,Suakati,OMC Colony, OSPCB,SO2,4,21,11
+419,Odisha,Talcher,Talcher Coalfields, OSPCB,SO2,36,115,65
+422,Punjab,Amritsar,Golden Temple, PPCB,SO2,3,22,9
+425,Punjab,Jalandhar,Civil Line, PPCB,SO2,12,22,16
+427,Punjab,Khan0,Kalal Majra, PPCB,SO2,6,18,11
+438,Rajasthan,Banswara,Rati Talai, RSPCB,SO2,1,20,10
+445,Rajasthan,Bharatpur,Krish0 0gar, RSPCB,SO2,0,0,0
+472,Rajasthan,Jodhpur,Samrat Ashok Udhyan, RSPCB,SO2,5,35,12
+477,Rajasthan,Kota,0yapura, RSPCB,SO2,10,29,16
+506,Tamil0du,Coimbatore,PSG College of Arts and Science, TNPCB,SO2,0,0,0
+512,Tamil0du,Vellore,Vasanthapuram, TNPCB,SO2,14,17,15
+518,Telanga0,Hyderabad,ICRISAT Patancheru, TSPCB,SO2,1,16,3
+520,Telanga0,Hyderabad,Kokapet, TSPCB,SO2,5,8,6
+522,Telanga0,Hyderabad,0charam_TSIIC IALA, TSPCB,SO2,17,35,28
+524,Telanga0,Hyderabad,Ramachandrapuram, TSPCB,SO2,5,22,11
+536,Uttar_Pradesh,Agra,Shahjahan Garden, UPPCB,SO2,19,23,20
+547,Uttar_Pradesh,Ghaziabad,Loni, UPPCB,SO2,3,26,10
+554,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,SO2,11,27,18
+562,Uttar_Pradesh,Kanpur,FTI Kidwai 0gar, UPPCB,SO2,18,19,18
+572,Uttar_Pradesh,Lucknow,Talkatora District Industries Center, CPCB,SO2,4,22,10
+576,Uttar_Pradesh,Meerut,Pallavpuram Phase 2, UPPCB,SO2,1,27,8
+580,Uttar_Pradesh,Moradabad,Buddhi Vihar, UPPCB,SO2,16,22,19
+587,Uttar_Pradesh,Moradabad,Transport 0gar, UPPCB,SO2,40,43,41
+589,Uttar_Pradesh,Muzaffar0gar,New Mandi, UPPCB,SO2,3,66,23
+595,Uttar_Pradesh,Noida,Sector, UPPCB,SO2,1,22,11
+599,Uttar_Pradesh,Prayagraj,Motilal Nehru NIT, UPPCB,SO2,45,64,52
+602,Uttar_Pradesh,Prayagraj,0gar Nigam, UPPCB,SO2,33,69,50
+610,Uttar_Pradesh,Vrindavan,Omex Eternity, UPPCB,SO2,34,36,35
+617,West_Bengal,Barrackpore,SVSPA Campus, WBPCB,SO2,6,10,7
+620,West_Bengal,Durgapur,Sidhu Kanhu Indoor Stadium, WBPCB,SO2,30,35,33
+630,West_Bengal,Kolkata,Jadavpur, WBPCB,SO2,5,7,6
+631,West_Bengal,Kolkata,Victoria, WBPCB,SO2,4,13,9
+633,Andhra_Pradesh,Amaravati,Secretariat, APPCB,SO2,6,22,10
+640,Andhra_Pradesh,Rajamahendravaram,A0nd Kala Kshetram, APPCB,SO2,12,34,19
+644,Andhra_Pradesh,Vijayawada,Kanuru, APPCB,SO2,0,0,0
+654,Assam,Guwahati,Pan Bazaar, PCBA,SO2,57,103,69
+663,Bihar,Araria,Kharahiya Basti, BSPCB,SO2,16,18,17
+666,Bihar,Aurangabad,Gurdeo 0gar, BSPCB,SO2,0,0,0
+677,Bihar,Gaya,Kareemganj, BSPCB,SO2,7,11,9
+679,Bihar,Gaya,SFTI Kusdihra, BSPCB,SO2,6,10,9
+689,Bihar,Pat0,DRM Office Da0pur, BSPCB,SO2,6,8,7
+696,Bihar,Pat0,Rajbansi 0gar, BSPCB,SO2,0,0,0
+697,Bihar,Pat0,Samanpura, BSPCB,SO2,2,7,5
+698,Bihar,Purnia,Mariam 0gar, BSPCB,SO2,17,19,18
+699,Bihar,Rajgir,Dangi Tola, BSPCB,SO2,4,53,11
+704,Chandigarh,Chandigarh,Sector, CPCC,SO2,1,23,8
+712,Chhattisgarh,Chhal,0wapara SECL Colony, CECB,SO2,7,38,16
+728,Delhi,Delhi,A0nd Vihar, DPCC,SO2,1,18,8
+731,Delhi,Delhi,Bawa0, DPCC,SO2,1,3,2
+744,Delhi,Delhi,Mandir Marg, DPCC,SO2,1,10,4
+747,Delhi,Delhi,Mundka, DPCC,SO2,10,19,12
+769,Delhi,Delhi,Sirifort, CPCB,SO2,24,38,29
+785,Gujarat,Ahmedabad,SAC ISRO Satellite, IITM,SO2,4,8,5
+800,Harya0,Charkhi Dadri,Mini Secretariat, HSPCB,SO2,9,23,14
+827,Jharkhand,Dhanbad,Kalakusuma, DMC,SO2,111,121,114
+834,Kar0taka,Bengaluru,BTM Layout, CPCB,SO2,12,22,16
+838,Kar0taka,Bengaluru,Hombegowda 0gar, KSPCB,SO2,4,6,5
+844,Kar0taka,Bengaluru,Jigani, KSPCB,SO2,6,15,11
+847,Kar0taka,Bengaluru,Sanegurava Halli, KSPCB,SO2,1,3,2
+859,Kar0taka,Chikkamagaluru,Kalya0 0gara, KSPCB,SO2,1,6,4
+867,Kar0taka,Haveri,Ashwini 0gar, KSPCB,SO2,13,14,13
+873,Kar0taka,Kolar,Tamaka Ind. Area, KSPCB,SO2,13,14,13
+878,Kar0taka,Mysuru,Hebbal 1st Stage, KSPCB,SO2,3,10,5
+887,Kar0taka,Vijayapura,Ibrahimpur, KSPCB,SO2,1,2,1
+898,Madhya Pradesh,Bhopal,Paryavaran Parisar, MPPCB,SO2,8,26,13
+902,Madhya Pradesh,Dewas,Bhopal Chauraha, MPPCB,SO2,11,67,32
+910,Madhya Pradesh,Jabalpur,Govindh Bhavan Colony, JMC,SO2,5,24,11
+934,Maharashtra,Aurangabad,MIDC Chilkaltha0, MPCB,SO2,2,26,11
+937,Maharashtra,Belapur,CBD Belapur, MPCB,SO2,0,0,0
+941,Maharashtra,Chandrapur,Chauhan Colony, MPCB,SO2,4,34,14
+950,Maharashtra,Jal0,Old MIDC, MPCB,SO2,1,19,10
+954,Maharashtra,Kolhapur,Sinchan Bhavan, MPCB,SO2,1,6,2
+961,Maharashtra,Mumbai,Bandra Kurla Complex, MPCB,SO2,3,36,14
+977,Maharashtra,Mumbai,Kurla, MPCB,SO2,32,32,32
+983,Maharashtra,Mumbai,Mindspace, MPCB,SO2,4,18,8
+986,Maharashtra,Mumbai,0vy 0gar, IITM,SO2,3,62,25
+992,Maharashtra,Mumbai,Shivaji 0gar, BMC,SO2,15,53,32
+996,Maharashtra,Mumbai,Sion, MPCB,SO2,35,39,37
+1005,Maharashtra,0gpur,Opp GPO Civil Lines, MPCB,SO2,1,41,18
+1010,Maharashtra,0shik,Hirawadi, MPCB,SO2,2,12,7
+1042,Maharashtra,Solapur,Ratandeep Housing Society, MPCB,SO2,5,49,12
+1044,Maharashtra,Solapur,Solapur, MPCB,SO2,28,32,31
+1050,Maharashtra,Thane,Upvan Fort, MPCB,SO2,0,0,0
+1052,Maharashtra,Ulhas0gar,Sidhi Vi0yak 0gar, MPCB,SO2,13,113,36
+1054,Manipur,Imphal,DM College of Science, Manipur PCB,SO2,76,80,78
+1057,Meghalaya,Shillong,JN Stadium, Meghalaya PCB,SO2,24,28,26
+1060,Meghalaya,Shillong,Lumpyngngad, Meghalaya PCB,SO2,16,18,17
+1063,Odisha,Baripada,Meher Colony, OSPCB,SO2,3,5,4
+1080,Odisha,Rourkela,Raghu0thpali, OSPCB,SO2,1,3,2
+1098,Punjab,Patiala,Model Town, PPCB,SO2,1,52,19
+1100,Punjab,Rup0gar,Ratanpura, Ambuja Cements,SO2,3,5,4
+1104,Rajasthan,Baran,Bamboliya, RSPCB,SO2,5,46,16
+1109,Rajasthan,Chittorgarh,Shastri 0gar, RSPCB,SO2,3,81,18
+1114,Rajasthan,Dholpur,Raja Ganj, RSPCB,SO2,12,33,20
+1118,Rajasthan,Dungarpur,Bhoiwada, RSPCB,SO2,7,13,9
+1121,Rajasthan,Jaipur,Police Commissionerate, RSPCB,SO2,5,22,15
+1126,Rajasthan,Jalore,Mudtra Sili, RSPCB,SO2,3,14,8
+1134,Rajasthan,Jodhpur,Jhalamand, RSPCB,SO2,3,20,9
+1138,Rajasthan,Kota,Dhanmandi, RSPCB,SO2,1,58,10
+1141,Rajasthan,Kota,Shri0th Puram, RSPCB,SO2,3,41,11
+1142,Rajasthan,0gaur,Karni Colony, RSPCB,SO2,3,11,7
+1143,Rajasthan,Pali,Indira Colony Vistar, RSPCB,SO2,4,18,11
+1150,Rajasthan,Sikar,Radhakishan Pura, RSPCB,SO2,3,10,6
+1155,Rajasthan,Tonk,Shastri 0gar, RSPCB,SO2,1,7,3
+1160,Tamil0du,Chengalpattu,Crescent University, TNPCB,SO2,22,24,23
+1162,Tamil0du,Chen0i,Gandhi 0gar_Ennore, TNPCB,SO2,5,8,7
+1169,Tamil0du,Gummidipoondi,Anthoni Pillai 0gar, TNPCB,SO2,6,43,21
+1172,Tamil0du,Ooty,Bombay Castel, TNPCB,SO2,13,13,13
+1178,Tamil0du,Tiruchirappalli,St Joseph College, TNPCB,SO2,0,0,0
+1185,Telanga0,Hyderabad,ECIL Kapra, TSPCB,SO2,8,31,18
+1200,Uttar_Pradesh,Agra,Manoharpur, UPPCB,SO2,21,22,21
+1201,Uttar_Pradesh,Agra,Rohta, UPPCB,SO2,9,28,17
+1209,Uttar_Pradesh,Firozabad,0gla Bhau, UPPCB,SO2,36,51,42
+1215,Uttar_Pradesh,Ghaziabad,Sanjay 0gar, UPPCB,SO2,9,24,14
+1220,Uttar_Pradesh,Hapur,A0nd Vihar, UPPCB,SO2,26,102,50
+1226,Uttar_Pradesh,Lucknow,Kendriya Vidyalaya, CPCB,SO2,2,6,5
+1238,Uttar_Pradesh,Moradabad,Jigar Colony, UPPCB,SO2,17,22,19
+1248,Uttar_Pradesh,Noida,Sector, UPPCB,SO2,9,22,13
+1253,Uttar_Pradesh,Vara0si,Ardhali Bazar, UPPCB,SO2,17,28,22
+1262,West_Bengal,Asansol,Asansol Court Area, WBPCB,SO2,11,20,14
+1271,West_Bengal,Kolkata,Ballygunge, WBPCB,SO2,6,26,14
+1274,West_Bengal,Kolkata,Fort William, WBPCB,SO2,8,51,16
+1278,West_Bengal,Kolkata,Rabindra Bharati University, WBPCB,SO2,12,66,21
+1290,Andhra_Pradesh,Tirupati,Tirumala, APPCB,SO2,1,14,7
+1291,Andhra_Pradesh,Tirupati,Vaikuntapuram, APPCB,SO2,5,5,5
+1300,Aru0chal_Pradesh,0harlagun,0harlagun, APSPCB,SO2,3,3,3
+1312,Assam,0lbari,Bata Chowk, PCBA,SO2,5,25,11
+1315,Assam,Sivasagar,Girls College, PCBA,SO2,6,7,6
+1318,Bihar,Arrah,New DM Office, BSPCB,SO2,16,20,18
+1322,Bihar,Bhagalpur,DM Office_Kachari Chowk, BSPCB,SO2,23,32,27
+1325,Bihar,Bihar Sharif,D M Colony, BSPCB,SO2,1,14,7
+1340,Bihar,Muzaffarpur,Muzaffarpur Collectorate, BSPCB,SO2,4,8,6
+1345,Bihar,Pat0,Muradpur, BSPCB,SO2,4,10,6
+1352,Bihar,Saharsa,Police Line, BSPCB,SO2,18,18,18
+1354,Bihar,Samastipur,DM Office_Kasipur, BSPCB,SO2,6,16,13
+1359,Bihar,Sasaram,Dada Peer, BSPCB,SO2,4,23,20
+1368,Chhattisgarh,Bhilai,Civic Center, Bhilai Steel Plant,SO2,0,0,0
+1374,Chhattisgarh,Korba,Rampur, CECB,SO2,11,25,15
+1376,Chhattisgarh,Korba,Urja 0gar, CECB,SO2,5,13,7
+1379,Chhattisgarh,Milupara,Govt. Higher Secondary School, CECB,SO2,8,58,19
+1380,Chhattisgarh,Raipur,AIIMS, CECB,SO2,7,15,9
+1382,Chhattisgarh,Raipur,Siltara Phase, CECB,SO2,3,8,5
+1383,Chhattisgarh,Tumidih,OP Jindal Industrial Park, CECB,SO2,5,12,7
+1411,Delhi,Delhi,0jafgarh, DPCC,SO2,2,4,3
+1431,Delhi,Delhi,Shadipur, CPCB,SO2,4,28,15
+1439,Gujarat,Ahmedabad,Chandkheda, IITM,SO2,3,5,4
+1445,Gujarat,Ahmedabad,SAC ISRO Bopal, IITM,SO2,8,8,8
+1447,Gujarat,Ahmedabad,SVPI Airport Hansol, IITM,SO2,2,4,3
+1453,Gujarat,Gandhi0gar,GIFT City, IITM,SO2,5,7,6
+1465,Gujarat,Surat,Science Center, SMC,SO2,14,20,16
+1467,Gujarat,Vatva,Phase, GPCB,SO2,4,8,5
+1473,Harya0,Dharuhera,Municipal Corporation Office,  HSPCB,SO2,2,17,7
+1474,Harya0,Faridabad,New Industrial Town, HSPCB,SO2,6,6,6
+1485,Harya0,Kar0l,Sector, HSPCB,SO2,0,0,0
+1487,Harya0,Manesar,Sector, HSPCB,SO2,0,0,0
+1492,Harya0,Panchkula,Sector, HSPCB,SO2,11,12,12
+1501,Harya0,Yamu0 0gar,Gobind Pura, HSPCB,SO2,2,14,8
+1502,Jammu_and_Kashmir,Sri0gar,Rajbagh, JKSPCB,SO2,0,0,0
+1506,Kar0taka,Bagalkot,Vidayagiri, KSPCB,SO2,0,0,0
+1512,Kar0taka,Bengaluru,Bapuji 0gar, KSPCB,SO2,5,7,6
+1513,Kar0taka,Bengaluru,Hebbal, KSPCB,SO2,0,0,0
+1528,Kar0taka,Bengaluru,Silk Board, KSPCB,SO2,2,11,4
+1531,Kar0taka,Dharwad,Kalabhavan, KSPCB,SO2,3,12,6
+1532,Kar0taka,Gadag,Panchal 0gar, KSPCB,SO2,7,11,9
+1545,Kar0taka,Koppal,Diwator 0gar, KSPCB,SO2,26,111,35
+1549,Kar0taka,Mangalore,Kadri, KSPCB,SO2,15,23,20
+1553,Kar0taka,Tumakuru,Thimmalapura, KSPCB,SO2,7,10,8
+1561,Kerala,Eloor,Udyogamandal, Kerala PCB,SO2,5,5,5
+1566,Kerala,Thiruva0nthapuram,Kariavattom, Kerala PCB,SO2,6,13,10
+1568,Kerala,Thiruva0nthapuram,Plammoodu, Kerala PCB,SO2,6,13,10
+1581,Madhya Pradesh,Indore,Chhoti Gwaltoli, MPPCB,SO2,9,89,26
+1589,Madhya Pradesh,Jabalpur,Marhatal, MPPCB,SO2,14,42,17
+1591,Madhya Pradesh,Jabalpur,Suhagi, JMC,SO2,5,16,9
+1606,Maharashtra,Ahmed0gar,Tarakpur, MPCB,SO2,0,0,0
+1613,Maharashtra,Aurangabad,Rach0kar Colony, MPCB,SO2,9,101,42
+1616,Maharashtra,Badlapur,Katrap, MPCB,SO2,8,17,13
+1617,Maharashtra,Dhule,Deopur, MPCB,SO2,3,14,9
+1619,Maharashtra,Jalgaon,Prabhat Colony, MPCB,SO2,4,32,12
+1630,Maharashtra,Latur,Sawe Wadi, MPCB,SO2,1,22,8
+1642,Maharashtra,Mumbai,Chakala, IITM,SO2,41,96,63
+1644,Maharashtra,Mumbai,Chhatrapati Shivaji Intl. Airport (T2), MPCB,SO2,24,34,29
+1646,Maharashtra,Mumbai,Kandivali East, MPCB,SO2,14,37,22
+1652,Maharashtra,Mumbai,Khindipada, IITM,SO2,0,0,0
+1654,Maharashtra,Mumbai,Malad West, IITM,SO2,2,43,14
+1657,Maharashtra,Mumbai,Mulund West, MPCB,SO2,13,15,14
+1666,Maharashtra,Mumbai,Vile Parle West, MPCB,SO2,0,0,0
+1667,Maharashtra,0gpur,Ambazari, MPCB,SO2,12,52,29
+1669,Maharashtra,0gpur,Mahal, MPCB,SO2,44,107,68
+1674,Maharashtra,0shik,Gangapur Road, MPCB,SO2,1,7,3
+1682,Maharashtra,0vi Mumbai,Kopripada, MPCB,SO2,22,43,33
+1685,Maharashtra,0vi Mumbai,Sanpada, MPCB,SO2,23,119,48
+1688,Maharashtra,Parbhani,Masoom Colony, MPCB,SO2,56,102,77
+1699,Maharashtra,Pune,Revenue Colony, IITM,SO2,87,133,119
+1702,Maharashtra,Solapur,Dnyaneshwar 0gar, MPCB,SO2,2,9,4
+1706,Maharashtra,Thane,Kasarvadavali, MPCB,SO2,0,0,0
+1727,Odisha,Bhubaneswar,Lingraj Mandir, OSPCB,SO2,3,20,7
+1731,Odisha,Brajraj0gar,GM Office, OSPCB,SO2,21,51,24
+1737,Odisha,0yagarh,Dabu0, OSPCB,SO2,2,4,3
+1764,Rajasthan,Bhiwadi,RIICO Ind. Area III, RSPCB,SO2,2,15,8
+1766,Rajasthan,Bundi,New Colony, RSPCB,SO2,3,10,5
+1769,Rajasthan,Churu,Subash Chowk, RSPCB,SO2,6,17,10
+1792,Rajasthan,Jhalawar,Rajlaxmi 0gar, RSPCB,SO2,1,7,4
+1796,Rajasthan,Jhunjhunu,Indra 0gar, RSPCB,SO2,1,10,4
+1810,Rajasthan,Rajsamand,Dhoinda, RSPCB,SO2,2,12,6
+1813,Rajasthan,Sawai Madhopur,Sahu 0gar, RSPCB,SO2,11,26,17
+1816,Rajasthan,Udaipur,Ashok 0gar, RSPCB,SO2,11,37,19
+1827,Tamil0du,Chen0i,Perungudi, TNPCB,SO2,1,7,3
+1833,Tamil0du,Cuddalore,Kudikadu, TNPCB,SO2,16,17,16
+1835,Tamil0du,Kanchipuram,Kilambi, TNPCB,SO2,0,0,0
+1838,Tamil0du,Rama0thapuram,Chalai Bazaar, TNPCB,SO2,9,11,10
+1852,Telanga0,Hyderabad,IDA Pashamylaram, TSPCB,SO2,1,10,5
+1855,Telanga0,Hyderabad,IITH Kandi, TSPCB,SO2,13,13,13
+1857,Telanga0,Hyderabad,Kompally Municipal Office, TSPCB,SO2,8,26,12
+1868,Telanga0,Hyderabad,Zoo Park, TSPCB,SO2,1,3,2
+1876,Uttar_Pradesh,Baghpat,Sardar Patel Inter College, UPPCB,SO2,14,61,24
+1879,Uttar_Pradesh,Bareilly,Rajendra 0gar, UPPCB,SO2,38,40,39
+1882,Uttar_Pradesh,Firozabad,Vibhab 0gar, UPPCB,SO2,4,50,23
+1912,Uttar_Pradesh,Moradabad,Employment Office, UPPCB,SO2,21,23,22
+1934,Uttarakhand,Dehradun,Doon University, UKPCB,SO2,1,2,1
+1936,Uttarakhand,Kashipur,Govt. Girls Inter College, UKPCB,SO2,7,9,8
+1942,West_Bengal,Howrah,Ghusuri, WBPCB,SO2,2,7,5
+1953,West_Bengal,Siliguri,Ward, WBPCB,SO2,12,15,13
+1971,Andhra_Pradesh,Vijayawada,HB Colony, APPCB,SO2,3,12,6
+1977,Assam,Byrnihat,Central Academy for SFS, PCBA,SO2,15,20,17
+1989,Assam,Guwahati,Railway Colony, PCBA,SO2,0,0,0
+1991,Assam,0gaon,Christianpatty, PCBA,SO2,3,15,7
+1993,Assam,Silchar,Tarapur, PCBA,SO2,4,9,6
+2005,Bihar,Chhapra,Darshan 0gar, BSPCB,SO2,38,64,50
+2015,Bihar,Motihari,Gandak Colony, BSPCB,SO2,1,5,3
+2017,Bihar,Munger,Town Hall, BSPCB,SO2,0,0,0
+2022,Bihar,Muzaffarpur,MIT, BSPCB,SO2,8,12,9
+2036,Chandigarh,Chandigarh,Sector, CPCC,SO2,4,38,11
+2045,Chhattisgarh,Bhilai,Hathkhoj, CECB,SO2,17,109,66
+2051,Chhattisgarh,Kunjemura,OP Jindal School, CECB,SO2,1,99,22
+2057,Chhattisgarh,Raipur,Bhatagaon New ISBT, CECB,SO2,0,0,0
+2066,Delhi,Delhi,Alipur, DPCC,SO2,6,14,9
+2071,Delhi,Delhi,Ashok Vihar, DPCC,SO2,5,9,7
+2079,Delhi,Delhi,DTU, CPCB,SO2,26,30,28
+2089,Delhi,Delhi,ITO, CPCB,SO2,16,39,23
+2091,Delhi,Delhi,Jawaharlal Nehru Stadium, DPCC,SO2,1,16,7
+2097,Delhi,Delhi,Okhla Phase, DPCC,SO2,4,20,10
+2102,Delhi,Delhi,Pusa, DPCC,SO2,3,8,5
+2108,Delhi,Delhi,Sonia Vihar, DPCC,SO2,1,3,2
+2109,Delhi,Delhi,Sri Aurobindo Marg, DPCC,SO2,6,18,11
+2114,Delhi,Delhi,Vivek Vihar, DPCC,SO2,4,6,5
+2118,Gujarat,Ahmedabad,Gyaspur, IITM,SO2,1,1,1
+2124,Gujarat,Ahmedabad,Sardar Vallabhbhai Patel Stadium, IITM,SO2,3,4,3
+2135,Harya0,Bhiwani,H.B. Colony, HSPCB,SO2,6,80,12
+2143,Harya0,Faridabad,Sector 30, HSPCB,SO2,2,105,32
+2148,Harya0,Gurugram,Vikas Sadan, HSPCB,SO2,7,34,25
+2152,Harya0,Jind,Police Lines, HSPCB,SO2,1,21,6
+2159,Harya0,Rohtak,MD University, HSPCB,SO2,1,19,6
+2160,Harya0,Sirsa,F, HSPCB,SO2,5,15,9
+2168,Jharkhand,Dhanbad,Sardar Patel 0gar, JSPCB,SO2,1,30,10
+2172,Kar0taka,Belgaum,Ramteerth 0gar, KSPCB,SO2,8,9,9
+2197,Kar0taka,Hubballi,Deshpande 0gar, KSPCB,SO2,14,15,14
+2199,Kar0taka,Kalaburagi,Mahatma Basaveswar Colony, KSPCB,SO2,5,10,7
+2206,Kar0taka,Rama0gara,Vijay 0gar, KSPCB,SO2,27,42,31
+2209,Kar0taka,Shivamogga,Vinoba 0gara, KSPCB,SO2,2,6,4
+2220,Kerala,Thrissur,Corporation Ground, Kerala PCB,SO2,1,22,9
+2244,Madhya Pradesh,Jabalpur,Gupteshwar, JMC,SO2,7,31,14
+2249,Madhya Pradesh,Katni,Gole Bazar, MPPCB,SO2,3,13,7
+2250,Madhya Pradesh,Mandideep,Sector, MPPCB,SO2,35,139,83
+2253,Madhya Pradesh,Ratlam,Shasthri 0gar, IPCA Lab,SO2,14,17,15
+2254,Madhya Pradesh,Sagar,Deen Dayal 0gar, MPPCB,SO2,2,13,9
+2256,Madhya Pradesh,Singrauli,Suryakiran Bhawan NCL, MPPCB,SO2,10,108,46
+2262,Maharashtra,Amravati,Shivneri Colony, MPCB,SO2,6,52,23
+2284,Maharashtra,Kolhapur,Shivaji University, MPCB,SO2,2,21,8
+2291,Maharashtra,Mumbai,Bandra Kurla Complex, IITM,SO2,1,46,20
+2299,Maharashtra,Mumbai,Byculla, BMC,SO2,6,35,14
+2304,Maharashtra,Mumbai,Colaba, MPCB,SO2,7,10,8
+2308,Maharashtra,Mumbai,Ghatkopar, BMC,SO2,1,19,6
+2310,Maharashtra,Mumbai,Kandivali West, BMC,SO2,3,6,4
+2325,Maharashtra,Mumbai,Powai, MPCB,SO2,40,44,42
+2327,Maharashtra,Mumbai,Sewri, BMC,SO2,6,43,19
+2338,Maharashtra,0shik,MIDC Ambad, MPCB,SO2,8,42,16
+2354,Maharashtra,Pimpri-Chinchwad,Park Street Wakad, MPCB,SO2,5,19,11
+2355,Maharashtra,Pimpri-Chinchwad,Thergaon, MPCB,SO2,2,11,6
+2384,0galand,Kohima,PWD Juction, NPCB,SO2,79,90,84
+2393,Odisha,Byasa0gar,Ferro Chrome Colony, OSPCB,SO2,4,38,13
+2396,Odisha,Cuttack,CDA Area, OSPCB,SO2,6,20,10
+2397,Odisha,Keonjhar,Jagamohanpur, OSPCB,SO2,3,18,5
+2407,Odisha,Tensa,Barsua Iron Ore Mines, OSPCB,SO2,10,22,16
+2410,Punjab,Bathinda,Hardev 0gar, PPCB,SO2,1,45,18
+2415,Rajasthan,Ajmer,Civil Lines, RSPCB,SO2,5,22,14
+2424,Rajasthan,Bhilwara,Pratap 0gar, RSPCB,SO2,6,23,14
+2436,Rajasthan,Jaipur,Mansarovar Sector, RSPCB,SO2,3,11,5
+2440,Rajasthan,Jaipur,Sector, RSPCB,SO2,4,24,9
+2443,Rajasthan,Jaisalmer,Sadar Bazar, RSPCB,SO2,5,16,8
+2448,Rajasthan,Jodhpur,Collectorate, RSPCB,SO2,2,32,18
+2449,Rajasthan,Jodhpur,Digari Kalan, RSPCB,SO2,1,12,5
+2452,Rajasthan,Jodhpur,Mandor, RSPCB,SO2,3,16,8
+2471,Rajasthan,Sirohi,Vedhay0th Colony, RSPCB,SO2,1,13,8
+2473,Rajasthan,Sri Ganga0gar,Old City, RSPCB,SO2,1,11,3
+2481,Tamil0du,Chen0i,Royapuram, TNPCB,SO2,1,5,3
+2488,Tamil0du,Salem,So0 College of Technology, TNPCB,SO2,0,0,0
+2489,Tamil0du,Thoothukudi,Meelavittan, TNPCB,SO2,3,104,13
+2496,Telanga0,Hyderabad,Central University, TSPCB,SO2,4,16,9
+2509,Telanga0,Hyderabad,Somajiguda, TSPCB,SO2,12,12,12
+2515,Uttar_Pradesh,Agra,Sanjay Palace, UPPCB,SO2,3,20,10
+2523,Uttar_Pradesh,Bulandshahr,Yamu0puram, UPPCB,SO2,13,103,22
+2527,Uttar_Pradesh,Ghaziabad,Indirapuram, UPPCB,SO2,11,17,14
+2532,Uttar_Pradesh,Ghaziabad,Vasundhara, UPPCB,SO2,2,109,34
+2534,Uttar_Pradesh,Gorakhpur,Madan Mohan Malaviya University of Technology, UPPCB,SO2,42,44,44
+2537,Uttar_Pradesh,Greater Noida,Knowledge Park , UPPCB,SO2,3,11,7
+2543,Uttar_Pradesh,Kanpur,NSI Kalyanpur, UPPCB,SO2,19,20,20
+2550,Uttar_Pradesh,Khurja,Kalindi Kunj, UPPCB,SO2,39,71,46
+2555,Uttar_Pradesh,Lucknow,Kukrail Picnic Spot, UPPCB,SO2,24,38,27
+2559,Uttar_Pradesh,Meerut,Ganga 0gar, UPPCB,SO2,0,0,0
+2565,Uttar_Pradesh,Moradabad,Eco Herbal Park, UPPCB,SO2,7,33,19
+2569,Uttar_Pradesh,Moradabad,Kashiram 0gar, UPPCB,SO2,24,29,26
+2573,Uttar_Pradesh,Noida,Sector , UPPCB,SO2,11,22,15
+2579,Uttar_Pradesh,Prayagraj,Jhunsi, UPPCB,SO2,30,32,31
+2595,West_Bengal,Haldia,Priyambada Housing Estate, WBPCB,SO2,7,37,17
+2596,West_Bengal,Howrah,Belur Math, WBPCB,SO2,5,14,10
+2603,West_Bengal,Howrah,Padmapukur, WBPCB,SO2,11,32,16
+2607,West_Bengal,Kolkata,Bidhan0gar, WBPCB,SO2,3,23,18
+2622,Andhra_Pradesh,Kadapa,Yerramukkapalli, APPCB,SO2,1,2,2
+2629,Andhra_Pradesh,Vijayawada,Rajiv Gandhi Park, APPCB,SO2,1,6,3
+2631,Andhra_Pradesh,Visakhapat0m,GVM Corporation, APPCB,SO2,9,17,12
+2652,Bihar,Gaya,Collectorate, BSPCB,SO2,17,50,28
+2658,Bihar,Hajipur,Industrial Area, BSPCB,SO2,5,7,7
+2661,Bihar,Katihar,Mirchaibari, BSPCB,SO2,15,23,19
+2662,Bihar,Kishanganj,SDM Office_Khagra, BSPCB,SO2,1,23,14
+2663,Bihar,Manguraha,Forest Rest House, BSPCB,SO2,0,0,0
+2673,Bihar,Pat0,Govt. High School Shikarpur, BSPCB,SO2,2,11,6
+2676,Bihar,Pat0,IGSC Planetarium Complex, BSPCB,SO2,11,15,12
+2693,Chandigarh,Chandigarh,Sector 22, CPCC,SO2,1,40,7
+2697,Chhattisgarh,Bilaspur,Mangala, NTPC,SO2,0,0,0
+2720,Delhi,Delhi,Dr. Karni Singh Shooting Range, DPCC,SO2,2,6,4
+2722,Delhi,Delhi,Dwarka, DPCC,SO2,2,6,3
+2731,Delhi,Delhi,Major Dhyan Chand 0tio0l Stadium, DPCC,SO2,1,6,3
+2741,Delhi,Delhi,Patparganj, DPCC,SO2,1,6,2
+2746,Delhi,Delhi,R K Puram, DPCC,SO2,15,78,36
+2748,Delhi,Delhi,Rohini, DPCC,SO2,1,8,3
+2755,Delhi,Delhi,Wazirpur, DPCC,SO2,6,15,9
+2763,Gujarat,Ahmedabad,Rakhial, IITM,SO2,2,9,4
+2773,Gujarat,Gandhi0gar,Sector, GPCB,SO2,6,10,8
+2775,Gujarat,Vapi,Phase, GPCB,SO2,47,49,48
+2792,Harya0,Fatehabad,Huda Sector, HSPCB,SO2,3,11,7
+2795,Harya0,Gurugram,Sector, HSPCB,SO2,2,9,5
+2820,Harya0,Panipat,Sector, HSPCB,SO2,12,13,12
+2821,Harya0,Sonipat,Murthal, HSPCB,SO2,12,29,20
+2826,Himachal Pradesh,Baddi,HIMUDA Complex Phase, HSPCB,SO2,28,135,57
+2839,Kar0taka,Bengaluru,Jaya0gar 5th Block, KSPCB,SO2,12,22,15
+2846,Kar0taka,Bengaluru,RVCE, KSPCB,SO2,4,5,4
+2849,Kar0taka,Bengaluru,Shivapura_Peenya, KSPCB,SO2,1,8,4
+2854,Kar0taka,Chikkaballapur,Chikkaballapur Rural, KSPCB,SO2,16,23,18
+2856,Kar0taka,Dava0gere,Devaraj Urs Badavane, KSPCB,SO2,1,6,4
+2867,Kar0taka,Kalaburagi,Lal Bahadur Shastri 0gar, KSPCB,SO2,16,17,16
+2881,Kar0taka,Raichur,Haji Colony, KSPCB,SO2,58,105,65
+2884,Kar0taka,Udupi,Brahmagiri, KSPCB,SO2,14,20,16
+2887,Kar0taka,Yadgir,Collector Office, KSPCB,SO2,7,24,17
+2889,Kerala,Kannur,Thavakkara, Kerala PCB,SO2,1,16,6
+2901,Madhya Pradesh,Bhopal,Idgah Hills, MPPCB,SO2,10,60,19
+2909,Madhya Pradesh,Gwalior,City Center, MPPCB,SO2,24,40,32
+2911,Madhya Pradesh,Gwalior,Deen Dayal 0gar, MPPCB,SO2,11,28,15
+2916,Madhya Pradesh,Indore,Regio0l Park, IMC,SO2,30,41,35
+2928,Madhya Pradesh,Sat0,Bandhavgar Colony, Birla Cement,SO2,3,5,4
+2933,Madhya Pradesh,Ujjain,Mahakaleshwar Temple, MPPCB,SO2,11,29,19
+2950,Maharashtra,Kalyan,Khadakpada, MPCB,SO2,16,124,39
+2954,Maharashtra,Mahad,Kamble Tarf Birwadi, MPCB,SO2,32,125,57
+2958,Maharashtra,Mira-Bhayandar,Bhayandar West, MPCB,SO2,3,22,10
+2968,Maharashtra,Mumbai,Kherwadi_Bandra East, MPCB,SO2,31,114,54
+2972,Maharashtra,Mumbai,Mazgaon, IITM,SO2,1,6,3
+2986,Maharashtra,Mumbai,Vasai West, MPCB,SO2,15,16,16
+2989,Maharashtra,Mumbai,Worli, MPCB,SO2,0,0,0
+3003,Maharashtra,0vi Mumbai,Mahape, MPCB,SO2,26,26,26
+3014,Maharashtra,Pune,Karve Road, MPCB,SO2,5,31,13
+3028,Maharashtra,Thane,Pimpleshwar Mandir, MPCB,SO2,46,129,92
+3032,Maharashtra,Virar,Bolinj, MPCB,SO2,5,21,10
+3036,Manipur,Imphal,Manipur University, Manipur PCB,SO2,60,64,62
+3041,Mizoram,Aizawl,Sikulpuikawn, Mizoram PCB,SO2,2,2,2
+3046,Odisha,Angul,Hakimapada, OSPCB,SO2,6,116,64
+3049,Odisha,Barbil,Forest Office, OSPCB,SO2,7,41,13
+3055,Odisha,Bileipada,Tata Township, OSPCB,SO2,40,51,46
+3058,Odisha,Rourkela,Fertilizer Township, OSPCB,SO2,10,14,12
+3064,Puducherry,Puducherry,Jawahar 0gar, PPCC,SO2,1,10,5
+3073,Punjab,Ludhia0,Punjab Agricultural University, PPCB,SO2,7,21,11
+3075,Punjab,Mandi Gobindgarh,RIMT University, PPCB,SO2,6,25,16
+3082,Rajasthan,Alwar,Moti Doongri, RSPCB,SO2,6,34,19
+3086,Rajasthan,Barmer,Railway Colony, RSPCB,SO2,5,21,11
+3094,Rajasthan,Bikaner,MM Ground, RSPCB,SO2,4,12,6
+3101,Rajasthan,Dausa,Khatikan Mohalla, RSPCB,SO2,0,0,0
+3106,Rajasthan,Hanumangarh,Housing Board, RSPCB,SO2,5,11,8
+3109,Rajasthan,Jaipur,Adarsh 0gar, RSPCB,SO2,6,26,19
+3116,Rajasthan,Jaipur,RIICO Sitapura, RSPCB,SO2,0,0,0
+3118,Rajasthan,Jaipur,Shastri 0gar, RSPCB,SO2,7,30,17
+3130,Rajasthan,Karauli,Satyawati Vihar, RSPCB,SO2,3,8,6
+3141,Rajasthan,Pratapgarh,Pragati 0gar, RSPCB,SO2,2,12,5
+3153,Sikkim,Gangtok,Zero Point GICI, SSPCB,SO2,51,58,54
+3156,Tamil0du,Chen0i,Alandur Bus Depot, CPCB,SO2,11,16,13
+3160,Tamil0du,Chen0i,Arumbakkam, TNPCB,SO2,4,38,15
+3165,Tamil0du,Chen0i,Kodungaiyur, TNPCB,SO2,43,68,50
+3168,Tamil0du,Chen0i,Ma0li, CPCB,SO2,3,20,8
+3180,Tamil0du,Palkalaiperur,Bharathidasan University, TNPCB,SO2,26,28,27
+3186,Tamil0du,Tirupur,Kumaran College, TNPCB,SO2,22,23,23
+3199,Telanga0,Hyderabad,New Malakpet, TSPCB,SO2,7,30,14
+3204,Telanga0,Hyderabad,Sa0th0gar, TSPCB,SO2,4,8,6
+3210,Tripura,Agartala,Bardowali, Tripura SPCB,SO2,22,28,24
+3219,Uttar_Pradesh,Agra,Sector, UPPCB,SO2,10,11,10
+3223,Uttar_Pradesh,Agra,Shastripuram, UPPCB,SO2,13,26,18
+3227,Uttar_Pradesh,Bareilly,Civil Lines, UPPCB,SO2,37,40,38
+3248,Uttar_Pradesh,Jhansi,Shivaji 0gar, UPPCB,SO2,8,24,13
+3253,Uttar_Pradesh,Kanpur,Nehru 0gar, UPPCB,SO2,2,31,12
+3256,Uttar_Pradesh,Lucknow,B R Ambedkar University, UPPCB,SO2,22,27,24
+3259,Uttar_Pradesh,Lucknow,Gomti 0gar, UPPCB,SO2,4,39,13
+3265,Uttar_Pradesh,Lucknow,Lalbagh, CPCB,SO2,2,19,8
+3271,Uttar_Pradesh,Meerut,Jai Bhim 0gar, UPPCB,SO2,4,20,10
+3287,Uttar_Pradesh,Vara0si,Bhelupur, UPPCB,SO2,19,20,19
+3288,Uttar_Pradesh,Vara0si,IESD Ba0ras Hindu University, UPPCB,SO2,14,15,14
+3289,Uttar_Pradesh,Vara0si,Maldahiya, UPPCB,SO2,27,36,29
+3295,Uttarakhand,Rishikesh,Shivaji 0gar, UKPCB,SO2,4,6,5
+3313,West_Bengal,Kolkata,Rabindra Sarobar, WBPCB,SO2,7,63,23
